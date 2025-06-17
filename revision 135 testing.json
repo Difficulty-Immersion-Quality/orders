@@ -242,7 +242,7 @@
     },
     {
       "UUID": "2e686664-8fbb-4e08-9ec2-3eea5d0300ab",
-      "Name": "The Dread Overlord - Warlock Patron and Subclass"
+      "Name": "Dread Overlord (Nexus Version)"
     },
     {
       "UUID": "f323b958-b845-4c79-b139-d39570658fbb",
@@ -299,10 +299,6 @@
     {
       "UUID": "93b56877-4781-4568-8991-fd28adceaa77",
       "Name": "SNEKUI"
-    },
-    {
-      "UUID": "db8e3e9e-e4f7-4bee-a808-70c2be8151ba",
-      "Name": "Vanilla Missing Icons"
     },
     {
       "UUID": "596fa4ca-8423-4710-b91a-285ffdfc4381",
@@ -367,6 +363,10 @@
     {
       "UUID": "ce25db4c-db7b-4b35-bbd9-652652b7ea6a",
       "Name": "HD Hair and Beards"
+    },
+    {
+      "UUID": "2209e71c-cb59-1e55-fccd-22ab678596aa",
+      "Name": "Padded Armour Plus 2 Texture Fix"
     },
     {
       "UUID": "f88e1eed-bfc1-4489-9806-020f88f83a9a",
@@ -505,6 +505,18 @@
       "Name": "Short Rest Cooldown"
     },
     {
+      "UUID": "e342ee75-f7c9-4aeb-b6de-403991578337",
+      "Name": "Waypoint Inside Emerald Grove"
+    },
+    {
+      "UUID": "cabed99e-5db6-4f0d-a69f-d49e8a20e663",
+      "Name": "Auto Use Soap"
+    },
+    {
+      "UUID": "227b61c2-e6ee-4d71-906e-c941b4211345",
+      "Name": "Slower Rosymorn Monastery Lift"
+    },
+    {
       "UUID": "08e267cf-bf28-4e29-8711-8282ed017fcb",
       "Name": "DatabaseCleaner"
     },
@@ -587,6 +599,10 @@
     {
       "UUID": "ba772644-2480-97f4-241f-505f35454ef8",
       "Name": "Raphael Bed Story"
+    },
+    {
+      "UUID": "a7284012-f754-487c-b00c-0f83e9f42bec",
+      "Name": "ReassignNecromancyOfThay"
     },
     {
       "UUID": "c589f5d3-b477-4e6d-8ae7-5ea0f351ce0b",
@@ -675,14 +691,6 @@
     {
       "UUID": "8a3a7cd5-b863-47a7-88d6-aa0d72b589ef",
       "Name": "VanillaOverhaulArsenalCompat"
-    },
-    {
-      "UUID": "d0ce784c-5008-b6e3-adfb-40339e11e38b",
-      "Name": "Pale Oak Staff - Faithwarden Enhanced"
-    },
-    {
-      "UUID": "9e0c5d75-d440-475d-9366-ec19af9a49ab",
-      "Name": "Flail of Ages Enhanced"
     },
     {
       "UUID": "88217135-846b-486d-9a10-77fa6120e652",
@@ -903,6 +911,10 @@
     {
       "UUID": "13488a95-f266-4068-64c4-9b2fce35143f",
       "Name": "Rings of Power"
+    },
+    {
+      "UUID": "fa9b4dce-439c-11ee-be56-0242ac120002",
+      "Name": "Varscona"
     },
     {
       "UUID": "c8464ac4-f909-4122-a7d3-af31123b1e67",
@@ -1537,6 +1549,10 @@
       "Name": "JWL Discordant Instruments"
     },
     {
+      "UUID": "f32b58b4-e101-4263-a82b-5f0fe1926064",
+      "Name": "Injuries JWL Discordant Instruments Patch"
+    },
+    {
       "UUID": "07ffb87d-0539-400c-ad77-0f87459a24c8",
       "Name": "Boots of Genial Striding (Bug Fix)"
     },
@@ -1547,10 +1563,6 @@
     {
       "UUID": "0c15116a-4d1f-44a7-bd91-8c0aa78b227d",
       "Name": "Cy's Armor Fixes"
-    },
-    {
-      "UUID": "dac9ef69-572b-4d40-9529-c927a38e144c",
-      "Name": "Potent Robe LOD Fix"
     },
     {
       "UUID": "2aa860a3-29f6-42be-8c64-ccd3288944ce",
@@ -1565,16 +1577,8 @@
       "Name": "Egaokage's_Leather_Knees"
     },
     {
-      "UUID": "1934572f-4ac6-4fef-8c59-3f0594f24f4c",
-      "Name": "Real_ProtectySparkswall"
-    },
-    {
       "UUID": "a2f61e50-609c-4227-9a9a-46f7ada02f28",
       "Name": "EW_Remove_Spikes"
-    },
-    {
-      "UUID": "71a06168-a8f5-468b-b375-2eff76fb1101",
-      "Name": "HideCloaks"
     },
     {
       "UUID": "f297ae3b-1db8-475c-8917-5b2835e34774",
@@ -1603,6 +1607,10 @@
     {
       "UUID": "2536d55c-7543-6309-3663-5f6e38310e70",
       "Name": "Do Not Eat Owlbear Egg"
+    },
+    {
+      "UUID": "fd7409dc-7657-4153-8a92-e426a9c1db8c",
+      "Name": "Rebalance_Nerfs_ResonanceStone"
     },
     {
       "UUID": "abe1a225-404d-48ab-9106-f8df5553771a",
@@ -1637,6 +1645,10 @@
       "Name": "SecretScrollsUnlocked"
     },
     {
+      "UUID": "60fde2ca-4a5b-4f63-a34c-a49b00bfc010",
+      "Name": "SecretScrollsExtended"
+    },
+    {
       "UUID": "02bf959e-2713-48d9-8b3b-f4b781db305c",
       "Name": "SecretScrollsReactions"
     },
@@ -1647,6 +1659,10 @@
     {
       "UUID": "e45f6638-83ef-4505-889e-848237fe19e7",
       "Name": "SecretScrolls5eSpellsUnlocked"
+    },
+    {
+      "UUID": "007eb33d-ea31-44e5-81b2-c175c2b8f47f",
+      "Name": "SecretScrolls5eSpellsExtended"
     },
     {
       "UUID": "9d5a2903-9cf2-4eb9-b04d-87b7a79dd522",
@@ -1747,10 +1763,6 @@
     {
       "UUID": "c1868d8a-5087-4c0b-aa88-4b7ef74c5e35",
       "Name": "---------------------------|                Spells               |---------------------------"
-    },
-    {
-      "UUID": "eef7b885-1423-4096-abd6-7a5db5f871db",
-      "Name": "Clerics"
     },
     {
       "UUID": "61a154cf-07a9-42bf-b209-1d562770a520",
@@ -1921,8 +1933,8 @@
       "Name": "More Wild Magic!"
     },
     {
-      "UUID": "8fc576e8-cce0-4d44-a8ee-da083dcc70b1",
-      "Name": "CoffeeLock"
+      "UUID": "bad404aa-feed-a0ee-8888-feedfeed0001",
+      "Name": "Warlock Multiclass Bug Fix and Workaround"
     },
     {
       "UUID": "6ec29fcc-f477-972f-7fcd-da7127884ade",
@@ -1931,10 +1943,6 @@
     {
       "UUID": "d157f82f-df32-5fec-8625-6166a306f209",
       "Name": "Light_Utility"
-    },
-    {
-      "UUID": "41085be9-8ef9-c657-b7d2-ce04bc246a63",
-      "Name": "Destructive Wrath Timing Fix"
     },
     {
       "UUID": "a8aaf58d-a9c0-47e3-a5bc-919ea0b62a65",
@@ -1949,16 +1957,16 @@
       "Name": "Rebalance_Nerfs_CommonEffects"
     },
     {
-      "UUID": "1496c901-8928-4b49-9350-2a42ee902e6d",
-      "Name": "Rebalance_Nerfs_Spells"
-    },
-    {
       "UUID": "51794555-cae8-48e1-831c-a73e1ab25200",
       "Name": "5e Harm"
     },
     {
       "UUID": "ab8a6baa-c231-4365-801e-617d1b94ee9a",
       "Name": "BuffExploitFix"
+    },
+    {
+      "UUID": "6677e993-575c-4cd3-94f8-7ee7a915d42b",
+      "Name": "YMS_Telekinesis"
     },
     {
       "UUID": "82af5972-b137-4add-af42-379df045ae1e",
@@ -1970,7 +1978,7 @@
     },
     {
       "UUID": "c2f1a230-8c0c-481b-9ab2-987e27d7db05",
-      "Name": "FeatsOverhaulPlus"
+      "Name": "FeatsOverhaul"
     },
     {
       "UUID": "93fe3bcc-bf13-d562-dcf5-3915e181b442",
@@ -2026,7 +2034,7 @@
     },
     {
       "UUID": "d89e8800-600b-3512-a737-79f2cde2f350",
-      "Name": "Features from DnD 5E Planescape - Optional patch"
+      "Name": "Features from DnD 5E Planescape - Optional adjust."
     },
     {
       "UUID": "4511f6b4-7422-efd2-8db1-31f6352c8a9a",
@@ -2057,6 +2065,10 @@
       "Name": "Illithid Powers Overhaul - Original Appearance"
     },
     {
+      "UUID": "98e63500-487d-417c-bc95-165ba4b39540",
+      "Name": "Illithid Powers Consolidated"
+    },
+    {
       "UUID": "558bd4c9-260a-40d2-add9-455d95aecb47",
       "Name": "UnlockedUnarmedStrike"
     },
@@ -2082,7 +2094,7 @@
     },
     {
       "UUID": "177df09b-ce2e-43c3-af71-093acb57f3b6",
-      "Name": "Hardcore_Help"
+      "Name": "Hardcore Help - Lenient"
     },
     {
       "UUID": "329abf1f-f699-4719-8457-71e4112ca9c5",
@@ -2106,7 +2118,7 @@
     },
     {
       "UUID": "30d3cc83-87a9-4efc-8b32-885c10f82132",
-      "Name": "Goon's Throwing Overhaul"
+      "Name": "Goon's Gear & Throwing Overhaul"
     },
     {
       "UUID": "6f1b442f-8eb8-477f-b4e3-b5286d46008e",
@@ -2189,10 +2201,6 @@
       "Name": "The Warmage - 5e Spells Add-On"
     },
     {
-      "UUID": "cc90d178-efa8-b52f-2227-8ab88123bbc7",
-      "Name": "Ironhand Grenadier Class"
-    },
-    {
       "UUID": "476523d2-05ab-4980-beaf-cdb814f410ec",
       "Name": "Scrounger"
     },
@@ -2215,14 +2223,6 @@
     {
       "UUID": "b2062ef2-a44f-7ff1-b833-a61f787dd0c6",
       "Name": "Commoner Class - Based on LaserLlama's Commoner"
-    },
-    {
-      "UUID": "d551be5e-9b75-7017-73ba-72e4aa1bd6d1",
-      "Name": "Slayer Redux"
-    },
-    {
-      "UUID": "8e29bfe4-af7f-4f61-b6a3-478a4c870e02",
-      "Name": "Slayer Multiclass Fix"
     },
     {
       "UUID": "8473c1e0-49eb-4aa6-8779-c725ea77ef10",
@@ -2253,10 +2253,6 @@
       "Name": "Vessel Class"
     },
     {
-      "UUID": "223fe2c4-47d4-4637-92ea-69a18dfbfc53",
-      "Name": "Valdacil's Spell Adjustments (Patch) - Mystic"
-    },
-    {
       "UUID": "32cf2ce3-b7f1-48c2-85b3-6ed38a09de1a",
       "Name": "Harlequin Class"
     },
@@ -2269,16 +2265,8 @@
       "Name": "Blood Hunter"
     },
     {
-      "UUID": "266d02b7-f085-4aa4-9929-682662c76f09",
+      "UUID": "f991766a-330c-fdf6-cf64-20e3bb21c4ba",
       "Name": "Blood Hunter Expanded"
-    },
-    {
-      "UUID": "e9850071-5e84-dc8a-9168-3bb6b148aa77",
-      "Name": "Order of the Mutant Subclass for Blood Hunter"
-    },
-    {
-      "UUID": "3c7e652f-64b9-962d-bb65-0b9653b0bff0",
-      "Name": "BH Mutant + Expanded compatibility patch"
     },
     {
       "UUID": "a827da36-4086-4d47-9945-f45555555555",
@@ -2301,12 +2289,16 @@
       "Name": "Mystic Expansion"
     },
     {
+      "UUID": "223fe2c4-47d4-4637-92ea-69a18dfbfc53",
+      "Name": "Valdacil's Spell Adjustments (Patch) - Mystic"
+    },
+    {
       "UUID": "88fadf2c-152d-404e-b863-c12273559e1c",
       "Name": "Artificer"
     },
     {
       "UUID": "a35b2cf8-5047-487a-83a4-537d36245b6b",
-      "Name": "Artificer-5e-Addon"
+      "Name": "Artificer-Spells-Addon"
     },
     {
       "UUID": "91c7c409-61fa-423a-a030-2622a07f2bb7",
@@ -2345,14 +2337,6 @@
       "Name": "--------------------------->             Druid"
     },
     {
-      "UUID": "cfd553fb-8a02-27f1-6aee-f55f3cb62add",
-      "Name": "Druid PHB2024 Speak With Animals Always-Prepared"
-    },
-    {
-      "UUID": "9f315eff-9109-42b6-b89c-c3dd0c8a4b04",
-      "Name": "Circle of Spores Druid Extra Attack"
-    },
-    {
       "UUID": "26cc7a9c-f2f5-48ee-b829-f69b9698edb1",
       "Name": "Circle of Wildfire"
     },
@@ -2377,24 +2361,28 @@
       "Name": "Circle of Stars"
     },
     {
+      "UUID": "9f315eff-9109-42b6-b89c-c3dd0c8a4b04",
+      "Name": "Circle of Spores Druid Extra Attack"
+    },
+    {
+      "UUID": "cfd553fb-8a02-27f1-6aee-f55f3cb62add",
+      "Name": "Druid PHB2024 Speak With Animals Always-Prepared"
+    },
+    {
       "UUID": "7073fe00-832d-44d2-80f1-b7edece88155",
       "Name": "--------------------------->             Cleric"
     },
     {
-      "UUID": "2f3aecf8-452a-4a70-a0a7-ed7b0f76db35",
-      "Name": "Valdacil's Spell Adjustments (Patch) - Cleric Subclasses"
+      "UUID": "08ff2a13-ba84-41b0-bf72-13235350a911",
+      "Name": "Inquisition Domain"
     },
     {
-      "UUID": "5bc54409-9fbd-495a-8dc8-654dea67a9c6",
-      "Name": "WarDomainImproved"
+      "UUID": "a6474f89-8efc-443d-cc95-9cdf142f931e",
+      "Name": "5e Cleric Subclasses Combined"
     },
     {
       "UUID": "976ed545-d74f-36c2-bf4c-48e77c937220",
       "Name": "Affliction Domain"
-    },
-    {
-      "UUID": "08ff2a13-ba84-41b0-bf72-13235350a911",
-      "Name": "Inquisition Domain"
     },
     {
       "UUID": "22826f5c-0420-4507-8467-2812d937bb02",
@@ -2423,6 +2411,10 @@
     {
       "UUID": "a24b52b7-067e-4195-b9cf-a7dbf0ce9b0f",
       "Name": "Solidarity Domain"
+    },
+    {
+      "UUID": "5bc54409-9fbd-495a-8dc8-654dea67a9c6",
+      "Name": "WarDomainImproved"
     },
     {
       "UUID": "a970f777-0368-4803-a0d3-085b96e2d4fe",
@@ -2463,6 +2455,10 @@
     {
       "UUID": "776e25bb-6128-479d-8923-089146901e46",
       "Name": "RecklessAttack5e"
+    },
+    {
+      "UUID": "417bb49c-6de4-4dfd-9c84-0631cbd9be12",
+      "Name": "Goon's Throwing Overhaul - 5e Reckless Attack"
     },
     {
       "UUID": "3b060b41-eaf7-4ee5-a68b-2875d7408a88",
@@ -2509,6 +2505,10 @@
       "Name": "--------------------------->             Paladin"
     },
     {
+      "UUID": "a18a9e91-e25a-4954-82d4-2bfe570fa0c6",
+      "Name": "Oath of the Bleak Walkers"
+    },
+    {
       "UUID": "3933b821-ccb1-48d6-b2ac-f5a4d7d5a375",
       "Name": "Oath of Redemption"
     },
@@ -2531,10 +2531,6 @@
     {
       "UUID": "42e4441b-7197-4615-a757-4d253d6d2510",
       "Name": "Oath of Zeal"
-    },
-    {
-      "UUID": "a18a9e91-e25a-4954-82d4-2bfe570fa0c6",
-      "Name": "Oath of the Bleak Walkers"
     },
     {
       "UUID": "7066e995-e7fc-3932-10db-9d2c9c7de8c8",
@@ -2563,6 +2559,10 @@
     {
       "UUID": "c1cfc0d3-1dad-0000-0000-c00700000002",
       "Name": "OneDnD Monk - Martial Arts"
+    },
+    {
+      "UUID": "c6f575e0-91c7-4a31-9f00-313ec98ee5b9",
+      "Name": "Stillness of Mind PHB"
     },
     {
       "UUID": "52f55bb1-9331-4ab3-ad10-e8394ac4fcdb",
@@ -2629,6 +2629,10 @@
       "Name": "FFT_WizardTraditions_Runesmith"
     },
     {
+      "UUID": "be37a0e6-f2bc-46f3-b98d-8cfbe977053a",
+      "Name": "Wizard War Magic"
+    },
+    {
       "UUID": "be02a930-2bca-49fc-aa53-79e7d58f00db",
       "Name": "Wizard - Hexcraft"
     },
@@ -2651,10 +2655,6 @@
     {
       "UUID": "efc12635-7973-4aa8-adc1-6370e9728b19",
       "Name": "--------------------------->             Ranger"
-    },
-    {
-      "UUID": "76c6b2ad-d5b1-4412-9b12-afa36500f56b",
-      "Name": "Hunter Multiattack earlier"
     },
     {
       "UUID": "49b32147-5aed-c262-1fa6-ec51939978c0",
@@ -2745,12 +2745,8 @@
       "Name": "--------------------------->             Sorcerer"
     },
     {
-      "UUID": "5c44064c-c771-479a-bc73-051c3d1e65c3",
-      "Name": "Draconic Bloodlines Expanded"
-    },
-    {
-      "UUID": "da5d2ea8-51c2-42ba-8d0f-34b5b198a19e",
-      "Name": "MetamagicExtended"
+      "UUID": "1999672d-97f0-45aa-893c-f4ed5e800485",
+      "Name": "Aberrant Mind"
     },
     {
       "UUID": "8e855d4b-7d0b-a89d-09ea-f0a4f943b2ee",
@@ -2789,10 +2785,6 @@
       "Name": "Wretched Bloodline"
     },
     {
-      "UUID": "1999672d-97f0-45aa-893c-f4ed5e800485",
-      "Name": "Aberrant Mind"
-    },
-    {
       "UUID": "ee2c2648-e86f-408c-b5c5-eae25e5d4961",
       "Name": "Lunar Sorcery"
     },
@@ -2807,6 +2799,14 @@
     {
       "UUID": "ab0af8e1-dd78-4aa7-9f2e-d4c15a89fca0",
       "Name": "Asgorath_Chaos_Sorcerer_SHV"
+    },
+    {
+      "UUID": "5c44064c-c771-479a-bc73-051c3d1e65c3",
+      "Name": "Draconic Bloodlines Expanded"
+    },
+    {
+      "UUID": "da5d2ea8-51c2-42ba-8d0f-34b5b198a19e",
+      "Name": "MetamagicExtended"
     },
     {
       "UUID": "d8664fe8-870d-4e6d-84a0-20d1aa1a3374",
@@ -2953,20 +2953,28 @@
       "Name": "---------------------------|          Character Creator          |---------------------------"
     },
     {
-      "UUID": "96e19744-cf28-5223-b445-06471230386a",
-      "Name": "Myky's CC Color Collection"
-    },
-    {
       "UUID": "acbca4c2-65c5-c042-7063-79f1efdd2f3a",
       "Name": "A Gith Can Change Their Spots"
     },
     {
-      "UUID": "a3c4ae11-934e-4d49-ad11-1f809cc61e66",
-      "Name": "--------------------------->             Eyes"
-    },
-    {
       "UUID": "d1927184-8763-4d70-ae52-8295f791548a",
       "Name": "ASTRL Glowing Eyes"
+    },
+    {
+      "UUID": "3609a0b7-bd80-4e5f-9ecc-a73e281a0bc4",
+      "Name": "ASTRL Colorizer - Tattoo & Makeup Color Edits"
+    },
+    {
+      "UUID": "3e9a4133-ef23-464c-d457-cb5328eb5a41",
+      "Name": "Unlocked_DGG_Skin_Colors"
+    },
+    {
+      "UUID": "96e19744-cf28-5223-b445-06471230386a",
+      "Name": "Myky's CC Color Collection"
+    },
+    {
+      "UUID": "a3c4ae11-934e-4d49-ad11-1f809cc61e66",
+      "Name": "--------------------------->             Eyes"
     },
     {
       "UUID": "4623265f-72aa-4bdb-b402-92e1ee3f055d",
@@ -3005,10 +3013,6 @@
       "Name": "ASTRL Vivid Tones"
     },
     {
-      "UUID": "272fdafb-1322-4c19-97da-795a3e12ad98",
-      "Name": "P4 Horn, Makeup, Lip and Tattoo Colours"
-    },
-    {
       "UUID": "4a0bcade-f890-5cef-af09-9d176c021e9d",
       "Name": "LVNDRs Makeup Colours"
     },
@@ -3027,14 +3031,6 @@
     {
       "UUID": "6fd22c7d-0b2a-7313-dad3-b0a295ce3d81",
       "Name": "YetMoreScales"
-    },
-    {
-      "UUID": "3e9a4133-ef23-464c-d457-cb5328eb5a41",
-      "Name": "Unlocked_DGG_Skin_Colors"
-    },
-    {
-      "UUID": "06f797f9-e687-4bd3-8198-c5346dca2a87",
-      "Name": "P4 Dragonborn Scale Colours"
     },
     {
       "UUID": "f97666c7-f4d0-4f97-b772-1e8ad643b7f7",
@@ -3093,14 +3089,6 @@
       "Name": "--------------------------->             Colours"
     },
     {
-      "UUID": "1f751867-0130-4cd1-9713-be473ea2466e",
-      "Name": "Extra Scars for Everyone"
-    },
-    {
-      "UUID": "470714b1-7b5b-1866-4730-056ba9d258e8",
-      "Name": "Vanilla CC Colours For All Sections"
-    },
-    {
       "UUID": "6a626dd3-d3eb-48a7-85fe-ffb3d0bc2730",
       "Name": "Toarie's More CC Colours"
     },
@@ -3111,6 +3099,10 @@
     {
       "UUID": "01d87964-fc46-7140-b29e-3956de333929",
       "Name": "Crazy Color pack"
+    },
+    {
+      "UUID": "51418e5f-0f91-a4a4-d8f7-761bd9c4edaf",
+      "Name": "P4 DGB Scale Colours Enhanced"
     },
     {
       "UUID": "6d478f96-1795-4f59-8d24-e2b60a832d50",
@@ -3187,6 +3179,10 @@
     {
       "UUID": "dd24ae06-83a4-fc14-ad9b-800a7506a69e",
       "Name": "Horns of Thedas"
+    },
+    {
+      "UUID": "6cfb5d57-36af-4b11-bae3-9c1ee1f75a5c",
+      "Name": "Ghouls Haunting Horns"
     },
     {
       "UUID": "4e2e3c3a-b6ff-4620-baff-7d81780f6503",
@@ -3465,6 +3461,10 @@
       "Name": "♡ Mantis' Preset Collection [VOL. II]"
     },
     {
+      "UUID": "144059e8-4596-4fcd-8882-4fe69fc2c9a3",
+      "Name": "Geralt - Henry Cavill [astrl+utav]"
+    },
+    {
       "UUID": "fe23f110-715c-4b67-a349-11257eae80f8",
       "Name": "♡ Mantis' Fantasy Presets"
     },
@@ -3541,6 +3541,10 @@
       "Name": "✺Welcome To Forks✺"
     },
     {
+      "UUID": "a57fed62-699e-43ec-98b5-65b5bde7afb8",
+      "Name": "✺Alyssa Head✺"
+    },
+    {
       "UUID": "b93eb269-ba4d-44a7-9e41-d9e8e27c5a16",
       "Name": "Poesielibre's Head Experiment Clean Version"
     },
@@ -3601,6 +3605,10 @@
       "Name": "Femme Gith Heads"
     },
     {
+      "UUID": "cbd97e0d-1a1a-4d89-bed0-4a9b7498df3d",
+      "Name": "♥ Akira ♥"
+    },
+    {
       "UUID": "c6f53369-a231-46ef-86c0-0face35de2c0",
       "Name": "⇯Riven⇯"
     },
@@ -3611,6 +3619,10 @@
     {
       "UUID": "8377a991-ae75-4286-8841-a9be74aada4d",
       "Name": "xx Head HEL"
+    },
+    {
+      "UUID": "c2037bd7-fbc0-4ea6-b3f1-bdb2f1b3e771",
+      "Name": "Violet's Head Presets"
     },
     {
       "UUID": "ef0fb0e3-a4e1-4672-84b3-bc63260e12af",
@@ -3861,10 +3873,6 @@
       "Name": "Dissidia's Heads - Unique Tav"
     },
     {
-      "UUID": "21473fb0-c264-4ddc-ae32-5ed881153715",
-      "Name": "MoreMaleElfHeads"
-    },
-    {
       "UUID": "0b051a3d-3f8e-4f12-a6df-a2feca729327",
       "Name": "HW_HeadEdits"
     },
@@ -4033,6 +4041,10 @@
       "Name": "Labo's Custom Hairdo's"
     },
     {
+      "UUID": "680b2b14-1663-0701-506a-c5c23c68247e",
+      "Name": "Myky's Hairstyles"
+    },
+    {
       "UUID": "b355f4c8-5642-4419-b485-8f8beb4d2cde",
       "Name": "Silver's Modular Base Pack"
     },
@@ -4063,10 +4075,6 @@
     {
       "UUID": "243f3a0f-38fa-4c5f-8faa-0f0b867c7622",
       "Name": "HarpyHairs"
-    },
-    {
-      "UUID": "6f7b681f-3ff6-4157-8e91-0b526d33def0",
-      "Name": "KethericHair"
     },
     {
       "UUID": "e09a623a-8ba0-484f-b6ac-7f25ea91818a",
@@ -4151,6 +4159,10 @@
     {
       "UUID": "e65d6c00-4152-4358-a475-dee07b01f116",
       "Name": "Bububull's hairpack 02"
+    },
+    {
+      "UUID": "12ad3b8d-5dc3-417b-a19e-2985d8aa3f96",
+      "Name": "Bububull's Hairpack 03"
     },
     {
       "UUID": "76010816-6f6a-4462-9aa3-e18635becf77",
@@ -4313,6 +4325,10 @@
       "Name": "---------------------------|              Cosmetics              |---------------------------"
     },
     {
+      "UUID": "1f751867-0130-4cd1-9713-be473ea2466e",
+      "Name": "Extra Scars for Everyone"
+    },
+    {
       "UUID": "4cb0fd40-7212-4fe9-8733-9a8dbc6637ae",
       "Name": "unique_tav"
     },
@@ -4397,10 +4413,6 @@
       "Name": "Karlach's Glowing Horns"
     },
     {
-      "UUID": "cee9a285-fe1d-b901-59de-c61c3e4bfc0c",
-      "Name": "Karlach_BlackHair_Antifalafel"
-    },
-    {
       "UUID": "ae866391-6290-4c44-8689-003f44418bbe",
       "Name": "More Abs Karlach"
     },
@@ -4417,8 +4429,8 @@
       "Name": "Jax' Companion Edits - Wyll (Devil Form)"
     },
     {
-      "UUID": "78bb73a4-9c61-4e81-a2a0-f8a99f9536dc",
-      "Name": "No Abs Gale - Hairy version"
+      "UUID": "e6916f38-0f6c-40c4-a70f-52219209546d",
+      "Name": "Gale's Beating And Glowing Orb - No Abs"
     },
     {
       "UUID": "a2a5d401-810d-7777-20c5-359c97acfddf",
@@ -4455,6 +4467,10 @@
     {
       "UUID": "ed16f7d4-25f0-4c63-a54c-ed829f601df5",
       "Name": "Astarion_BL_VT"
+    },
+    {
+      "UUID": "ad7b0a9a-86c6-42a5-8622-5e3334e2675b",
+      "Name": "Astarion's Messy Curls"
     },
     {
       "UUID": "b259b806-ee36-402d-a941-67c141e677b1",
@@ -4495,6 +4511,10 @@
     {
       "UUID": "da4a8c04-ca80-e7ca-5831-6ac4ae30f1b8",
       "Name": "[Aza] NPCre: Temple of Bhaal (Orin Default Skin)"
+    },
+    {
+      "UUID": "c0144fa2-dee8-42cb-b257-0abbd935e69b",
+      "Name": "PushedBackGortashHair - Full Swoop"
     },
     {
       "UUID": "c4f1b59d-552e-4867-87e5-039d4d448f09",
@@ -4669,16 +4689,12 @@
       "Name": "Nesha Leesha Restyled"
     },
     {
-      "UUID": "44b5fd8e-dcd7-32e5-bd27-8bf45ff97f91",
-      "Name": "Mayrina No More Tears"
-    },
-    {
       "UUID": "6d5198ef-b225-74dd-1fa2-0a21a76be516",
       "Name": "Mirie Attendant of Grief - Restyled"
     },
     {
       "UUID": "a247e4fb-5e5c-0b01-edfd-efc2b4bb0804",
-      "Name": "Marcus Restyled (a bit)"
+      "Name": "Marcus Restyled (Hair Dye Remover)"
     },
     {
       "UUID": "e736f594-9e11-cc82-a9fd-a2076c510d5c",
@@ -4705,8 +4721,32 @@
       "Name": "Aylin Restyled"
     },
     {
+      "UUID": "a6508a2d-1bac-3904-933f-d34eb0faea3a",
+      "Name": "Aylin Takes of Her Helmet in Camp"
+    },
+    {
       "UUID": "95ba5e1b-0acd-7f26-ee4c-5a0e65272d16",
-      "Name": "Isobel_Restyle"
+      "Name": "Isobel Restyled"
+    },
+    {
+      "UUID": "719efd5e-d85b-a4e9-3efe-9e30a2385e92",
+      "Name": "Mayrina No More Tears"
+    },
+    {
+      "UUID": "0f9677f5-113e-c706-7f5a-3a7d6175bb89",
+      "Name": "Mol's Glow Up"
+    },
+    {
+      "UUID": "94aee8b8-a752-e0da-8962-4598a9122f2f",
+      "Name": "Florrick Restyled Version 2"
+    },
+    {
+      "UUID": "23cdea78-07a9-f84a-df14-a86d2602b1a9",
+      "Name": "Florrick's Retinue"
+    },
+    {
+      "UUID": "2b6f55ad-8c57-5e7a-ab19-7c07fc193f68",
+      "Name": "Florrick - Dirt B Gone"
     },
     {
       "UUID": "043ac516-5c4e-44f0-af77-56f1aa0371ed",
@@ -4986,7 +5026,11 @@
     },
     {
       "UUID": "61e8471b-4eda-4493-829d-e3c29ecc36c3",
-      "Name": "Ultimate_NPC_Stat_Overhaul"
+      "Name": "Ultimate NPC Stat Overhaul"
+    },
+    {
+      "UUID": "445cacd6-70b2-43ca-8f09-1836da616e8a",
+      "Name": "Ultimate NPC Stat Overhaul - Extras"
     },
     {
       "UUID": "45784200-7911-419f-8bb7-52a4072bcb6c",
@@ -5015,10 +5059,6 @@
     {
       "UUID": "6205a89c-5ec8-281f-2d41-5247c6d853bb",
       "Name": "Darker Cazador's Palace"
-    },
-    {
-      "UUID": "81f8e756-efee-ce67-d096-3b6c6b8eacef",
-      "Name": "Alternative Wild Grass Color"
     },
     {
       "UUID": "1cbc51fa-57ba-7dc0-900c-fb55e12a55f6",
@@ -5051,6 +5091,14 @@
     {
       "UUID": "ace2ace0-8379-58bd-fda4-a601a72dd794",
       "Name": "Clean & Furnished - Camp Act III - Rivington"
+    },
+    {
+      "UUID": "6902140c-9086-7660-f7e7-23f99dfb261b",
+      "Name": "Minsc Tent"
+    },
+    {
+      "UUID": "375a74ad-f815-c17f-a0dd-dc9d9891fbdd",
+      "Name": "Minthara Tent - Underdark"
     },
     {
       "UUID": "98d92fb5-7ee0-4e80-b2b6-70e193debb5d",
@@ -5093,12 +5141,20 @@
       "Name": "HT_DarkUrgeTweeaks"
     },
     {
-      "UUID": "e49a2415-9dda-48ad-84c9-0abd35686529",
-      "Name": "Really Shadowheart"
+      "UUID": "2653082c-88d7-62dd-da48-b32be67c033b",
+      "Name": "HT_Lesser Restoration: Assorted Bug Fixes"
     },
     {
-      "UUID": "f49b26d0-038f-4a4c-879e-d3444430f0ec",
-      "Name": "CBR_Endgame_Kiss"
+      "UUID": "5afae2ed-cea2-ae90-11f2-6eb28c502fd9",
+      "Name": "HT_Astarion Kisses Revamped"
+    },
+    {
+      "UUID": "0d3c8e22-0376-d0a9-41ec-2d4a6f9bceec",
+      "Name": "HT_Minthara's Poison Kiss"
+    },
+    {
+      "UUID": "e49a2415-9dda-48ad-84c9-0abd35686529",
+      "Name": "Really Shadowheart"
     },
     {
       "UUID": "df71caf0-0731-b9b9-c20d-790870a20368",
@@ -5119,10 +5175,6 @@
     {
       "UUID": "bc112f05-f5d1-4b59-9a9f-fd8867616d03",
       "Name": "OrinsTrueBossfight"
-    },
-    {
-      "UUID": "72c16261-72fb-4512-946b-858d553903bd",
-      "Name": "Beholder Fix"
     },
     {
       "UUID": "78753062-b430-4cbf-9e5a-4c3a87cf224a",
