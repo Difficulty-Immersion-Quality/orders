@@ -825,10 +825,6 @@
       "Name": "VanillaEquipmentOverhaul"
     },
     {
-      "UUID": "88217135-846b-486d-9a10-77fa6120e652",
-      "Name": "Fleetfingers Enhanced"
-    },
-    {
       "UUID": "4460e959-45d2-43ef-aea7-1f3d17ceca4f",
       "Name": "EW_ShieldBash_Action"
     },
@@ -1015,10 +1011,6 @@
     {
       "UUID": "5e9b717f-57dc-4df3-908a-9dade422b835",
       "Name": "ClericTreatos"
-    },
-    {
-      "UUID": "377f7398-ea17-4213-8382-b28b75e9baed",
-      "Name": "PsychicArmory"
     },
     {
       "UUID": "6be556dd-aa29-3da7-18ef-501ee8428ccf",
@@ -2086,7 +2078,7 @@
     },
     {
       "UUID": "30d3cc83-87a9-4efc-8b32-885c10f82132",
-      "Name": "Goon's Throwing Overhaul"
+      "Name": "Goon's Gear & Throwing Overhaul"
     },
     {
       "UUID": "ee798b44-4e9e-4d73-95ba-925baf818584",
@@ -2109,10 +2101,6 @@
       "Name": "Rebalance_CommonEffects"
     },
     {
-      "UUID": "fd1d63b4-bb9b-4e0f-9f2a-41f3b5a37d51",
-      "Name": "Goon's Condition Overhaul"
-    },
-    {
       "UUID": "b2cf9ce7-3836-4b07-b245-9b1e0a299110",
       "Name": "PowerHunger"
     },
@@ -2123,6 +2111,10 @@
     {
       "UUID": "a8aaf58d-a9c0-47e3-a5bc-919ea0b62a65",
       "Name": "Gale and His Netherese Orb"
+    },
+    {
+      "UUID": "fd1d63b4-bb9b-4e0f-9f2a-41f3b5a37d51",
+      "Name": "Goon's Condition Overhaul"
     },
     {
       "UUID": "8b829a0c-c327-4b1e-a87b-b5c5f5f5a9bc",
@@ -2325,8 +2317,56 @@
       "Name": "================|            Custom Classes            |================"
     },
     {
+      "UUID": "88fadf2c-152d-404e-b863-c12273559e1c",
+      "Name": "Artificer"
+    },
+    {
+      "UUID": "a35b2cf8-5047-487a-83a4-537d36245b6b",
+      "Name": "Artificer-Spells-Addon"
+    },
+    {
+      "UUID": "411d5c6e-2bd5-4e4e-ab72-67dcc37b8c0e",
+      "Name": "Blood Hunter"
+    },
+    {
+      "UUID": "f991766a-330c-fdf6-cf64-20e3bb21c4ba",
+      "Name": "Blood Hunter Expanded"
+    },
+    {
       "UUID": "434c7a53-9a05-4134-8fac-9a7f544a311e",
       "Name": "Mesmerist"
+    },
+    {
+      "UUID": "377f7398-ea17-4213-8382-b28b75e9baed",
+      "Name": "PsychicArmory"
+    },
+    {
+      "UUID": "93c6116d-631a-cdc4-c0d3-37c568de4b76",
+      "Name": "Mystic Class"
+    },
+    {
+      "UUID": "c86cc191-c41e-cfcd-af57-bf1f1e29d76a",
+      "Name": "Mystic Expansion"
+    },
+    {
+      "UUID": "223fe2c4-47d4-4637-92ea-69a18dfbfc53",
+      "Name": "Valdacil's Spell Adjustments (Patch) - Mystic"
+    },
+    {
+      "UUID": "1eaa6046-2d5c-47e3-85f4-88c077f6d946",
+      "Name": "Blackguard"
+    },
+    {
+      "UUID": "021ee2cd-e5d6-4cfa-b3e0-3388cf3f4884",
+      "Name": "Unholy Smite - For Blackguard"
+    },
+    {
+      "UUID": "8d3e71ad-5518-9674-33b9-897b0f9f8b50",
+      "Name": "Oracle Class Reimagined"
+    },
+    {
+      "UUID": "b2062ef2-a44f-7ff1-b833-a61f787dd0c6",
+      "Name": "Commoner Class - Based on LaserLlama's Commoner"
     },
     {
       "UUID": "e8f3756c-2f9d-b50e-2934-c664954432b5",
@@ -2337,20 +2377,20 @@
       "Name": "The Zephyr - 5e Spells Add-On"
     },
     {
-      "UUID": "1a2df12a-6e03-9347-d114-48b4941feb75",
-      "Name": "5e Starblade Class"
-    },
-    {
-      "UUID": "92cafe38-f6d1-c3c8-1171-82ce8d30c707",
-      "Name": "War Dancer Class"
-    },
-    {
       "UUID": "2c7c3f6a-174d-6c3e-775b-9c3cab79e5a4",
       "Name": "Warmage Class - A Cantrip Specialist"
     },
     {
       "UUID": "78bbb6a4-31dc-6e21-a196-648a1123e2c3",
       "Name": "The Warmage - 5e Spells Add-On"
+    },
+    {
+      "UUID": "1a2df12a-6e03-9347-d114-48b4941feb75",
+      "Name": "5e Starblade Class"
+    },
+    {
+      "UUID": "92cafe38-f6d1-c3c8-1171-82ce8d30c707",
+      "Name": "War Dancer Class"
     },
     {
       "UUID": "476523d2-05ab-4980-beaf-cdb814f410ec",
@@ -2369,28 +2409,12 @@
       "Name": "WitchPlus5eSpells"
     },
     {
-      "UUID": "8d3e71ad-5518-9674-33b9-897b0f9f8b50",
-      "Name": "Oracle Class Reimagined"
-    },
-    {
-      "UUID": "b2062ef2-a44f-7ff1-b833-a61f787dd0c6",
-      "Name": "Commoner Class - Based on LaserLlama's Commoner"
-    },
-    {
       "UUID": "06e7001e-c3ef-228a-1e9f-424cdf7e7ffb",
       "Name": "Sword Dancers of Eilistraee"
     },
     {
-      "UUID": "8473c1e0-49eb-4aa6-8779-c725ea77ef10",
-      "Name": "Mind Weaver"
-    },
-    {
-      "UUID": "1eaa6046-2d5c-47e3-85f4-88c077f6d946",
-      "Name": "Blackguard"
-    },
-    {
-      "UUID": "021ee2cd-e5d6-4cfa-b3e0-3388cf3f4884",
-      "Name": "Unholy Smite - For Blackguard"
+      "UUID": "63d2a82d-84e1-05be-60a3-fffddbacfba8",
+      "Name": "MindWeaver"
     },
     {
       "UUID": "130082f8-4789-44ab-a4d0-a459459a5bf1",
@@ -2417,14 +2441,6 @@
       "Name": "Wielder"
     },
     {
-      "UUID": "411d5c6e-2bd5-4e4e-ab72-67dcc37b8c0e",
-      "Name": "Blood Hunter"
-    },
-    {
-      "UUID": "f991766a-330c-fdf6-cf64-20e3bb21c4ba",
-      "Name": "Blood Hunter Expanded"
-    },
-    {
       "UUID": "a827da36-4086-4d47-9945-f45555555555",
       "Name": "Magus"
     },
@@ -2435,26 +2451,6 @@
     {
       "UUID": "9595493f-439d-467a-a4df-34abd1e146d2",
       "Name": "SB_ShamanLL_MagusPatch"
-    },
-    {
-      "UUID": "93c6116d-631a-cdc4-c0d3-37c568de4b76",
-      "Name": "Mystic Class"
-    },
-    {
-      "UUID": "c86cc191-c41e-cfcd-af57-bf1f1e29d76a",
-      "Name": "Mystic Expansion"
-    },
-    {
-      "UUID": "223fe2c4-47d4-4637-92ea-69a18dfbfc53",
-      "Name": "Valdacil's Spell Adjustments (Patch) - Mystic"
-    },
-    {
-      "UUID": "88fadf2c-152d-404e-b863-c12273559e1c",
-      "Name": "Artificer"
-    },
-    {
-      "UUID": "a35b2cf8-5047-487a-83a4-537d36245b6b",
-      "Name": "Artificer-Spells-Addon"
     },
     {
       "UUID": "91c7c409-61fa-423a-a030-2622a07f2bb7",
@@ -2479,10 +2475,6 @@
     {
       "UUID": "f0b14011-5f2e-4a17-8a14-67b5542bbd5e",
       "Name": "================|            Barbarian - Subclasses"
-    },
-    {
-      "UUID": "926dee06-6270-b66d-7b8d-5bb3989cdffb",
-      "Name": "Path of the Corpse Eater"
     },
     {
       "UUID": "3b8967db-864f-8995-3a2d-23ea140a18a3",
@@ -2529,10 +2521,6 @@
       "Name": "================|            Bard - Subclasses"
     },
     {
-      "UUID": "464ed5a8-250f-6bd1-1d83-7605276c4e03",
-      "Name": "College of Tragedy"
-    },
-    {
       "UUID": "beb361b4-cb75-4e75-8e54-c38fafeccc32",
       "Name": "College of Spirits"
     },
@@ -2577,18 +2565,6 @@
       "Name": "================|            Cleric - Subclasses"
     },
     {
-      "UUID": "7d25fecb-14a8-0f82-cfcd-ce37f712856e",
-      "Name": "Penance Domain"
-    },
-    {
-      "UUID": "34030669-2a35-b0fd-ae62-b76b7a9662f0",
-      "Name": "Eldritch Domain"
-    },
-    {
-      "UUID": "0e809008-995f-6d2b-a4bc-3ef61618d398",
-      "Name": "Night Domain"
-    },
-    {
       "UUID": "08ff2a13-ba84-41b0-bf72-13235350a911",
       "Name": "Inquisition Domain"
     },
@@ -2625,10 +2601,6 @@
       "Name": "Solidarity Domain"
     },
     {
-      "UUID": "1d0d336d-8e71-9610-db48-feb2aadd8f5b",
-      "Name": "Poverty Domain"
-    },
-    {
       "UUID": "dc094ea5-5004-41c7-af36-95f7150c1925",
       "Name": "================|            Cleric - Other"
     },
@@ -2649,16 +2621,8 @@
       "Name": "================|            Druid - Subclasses"
     },
     {
-      "UUID": "1f7b0a82-18ad-e256-d696-94a898b5720a",
-      "Name": "CircleofStars"
-    },
-    {
-      "UUID": "037df947-34fd-cb36-9fd5-dded6beb695e",
-      "Name": "Circle of Blood"
-    },
-    {
-      "UUID": "b8c4eb4c-4b51-46ec-ee98-56835a28f2cf",
-      "Name": "Circle of Winter"
+      "UUID": "7588b857-8bae-4967-a73c-20f7833ae26f",
+      "Name": "Circle of Stars"
     },
     {
       "UUID": "26cc7a9c-f2f5-48ee-b829-f69b9698edb1",
@@ -2699,14 +2663,6 @@
     {
       "UUID": "8dfc5c6b-1187-47f8-8828-19be930b7a59",
       "Name": "================|            Fighter - Subclasses"
-    },
-    {
-      "UUID": "6610a18f-738d-3320-a43d-6358f84ed5a5",
-      "Name": "Living Crucible"
-    },
-    {
-      "UUID": "73e36653-7090-6d27-284b-e2bc0f3e0604",
-      "Name": "Houndmaster"
     },
     {
       "UUID": "1dda404b-591b-4883-82b9-d2be6a2a0327",
@@ -2755,18 +2711,6 @@
     {
       "UUID": "b5439276-f88f-4286-a3e5-f1d7b52d763b",
       "Name": "================|            Monk - Subclasses"
-    },
-    {
-      "UUID": "9a969358-b5f1-269e-aac6-5e115f67c22a",
-      "Name": "Brewmaster"
-    },
-    {
-      "UUID": "744ee8f2-fee3-1fcb-3d42-d3916bfad826",
-      "Name": "Way of the Mistweaver"
-    },
-    {
-      "UUID": "0c895996-7daf-88eb-cebc-9e3f316d66f9",
-      "Name": "Way of the Windwalker"
     },
     {
       "UUID": "1f9ea699-6bd7-9cbc-30f2-522a94c78baf",
@@ -2821,10 +2765,6 @@
       "Name": "Oath of Redemption"
     },
     {
-      "UUID": "55436d3d-6b2d-41ef-780b-4319ed31a9a7",
-      "Name": "Oath of Pestilence"
-    },
-    {
       "UUID": "0916df22-f5d4-4ffd-b8fd-95541900eb01",
       "Name": "Oath Of the Storm"
     },
@@ -2867,10 +2807,6 @@
     {
       "UUID": "5e6202d9-60b9-412a-aa42-a99a401fa4e4",
       "Name": "================|            Ranger - Subclasses"
-    },
-    {
-      "UUID": "09e190c8-d449-b653-69fc-252bcad61e45",
-      "Name": "Winter Walker"
     },
     {
       "UUID": "2831844d-e3bf-4d46-9920-71a2af947aac",
@@ -2923,14 +2859,6 @@
     {
       "UUID": "e76cccae-c540-4c6f-a262-67d9799d7ddd",
       "Name": "================|            Rogue - Subclasses"
-    },
-    {
-      "UUID": "a1cc46d8-0e18-9cc3-ff49-39c1b2448ee6",
-      "Name": "Debonaire Rogue"
-    },
-    {
-      "UUID": "6a0535cf-1e45-371c-d6cb-51abc5d61fb7",
-      "Name": "Grim Surgeon Rogue"
     },
     {
       "UUID": "07b599ae-d3f4-ac9e-d245-f958625a5328",
@@ -2993,24 +2921,20 @@
       "Name": "================|            Sorcerer - Subclasses"
     },
     {
-      "UUID": "010ef5c3-e3f2-fcb6-b4b1-54985b17b5e9",
-      "Name": "Frozen Sorcery"
-    },
-    {
-      "UUID": "560973fc-4361-152c-d300-ac4f530e48d5",
-      "Name": "Lunar Sorcery "
-    },
-    {
       "UUID": "b4576c0d-bbfe-40f5-afa3-3e3160371389",
       "Name": "Clockwork Soul"
     },
     {
-      "UUID": "e79f6d0c-d430-fdf6-616a-3c1e9a1fb4e1",
+      "UUID": "a429b3b6-9f94-478b-988a-c6cee3e1aa05",
+      "Name": "Wretched Bloodline"
+    },
+    {
+      "UUID": "1999672d-97f0-45aa-893c-f4ed5e800485",
       "Name": "Aberrant Mind"
     },
     {
-      "UUID": "a429b3b6-9f94-478b-988a-c6cee3e1aa05",
-      "Name": "Wretched Bloodline"
+      "UUID": "ee2c2648-e86f-408c-b5c5-eae25e5d4961",
+      "Name": "Lunar Sorcery"
     },
     {
       "UUID": "8e855d4b-7d0b-a89d-09ea-f0a4f943b2ee",
@@ -3165,11 +3089,7 @@
       "Name": "================|            Wizard - Subclasses"
     },
     {
-      "UUID": "046f01dc-2df2-0e55-8fd7-79f8a8a2a2e3",
-      "Name": "Hedge Mage"
-    },
-    {
-      "UUID": "f0a59ad2-fb94-2e3d-bb7b-4c051b80257b",
+      "UUID": "c62ae435-c1a4-41b7-b887-4f24a6dcd846",
       "Name": "Graviturgy Magic"
     },
     {
@@ -3750,7 +3670,7 @@
     },
     {
       "UUID": "ca01fa53-2431-45ce-81c1-163593456099",
-      "Name": "Female Drider Head - UTAV"
+      "Name": "Female Drider Head - All Eyes Iris - UTAV"
     },
     {
       "UUID": "e46b56d6-7deb-e1c0-3b29-74e217b5c953",
@@ -5081,10 +5001,6 @@
       "Name": "Mirie Attendant of Grief - Restyled"
     },
     {
-      "UUID": "a247e4fb-5e5c-0b01-edfd-efc2b4bb0804",
-      "Name": "Marcus Restyled (Hair Dye Remover)"
-    },
-    {
       "UUID": "e736f594-9e11-cc82-a9fd-a2076c510d5c",
       "Name": "Ravengard_Restyle_OGbald"
     },
@@ -5143,6 +5059,10 @@
     {
       "UUID": "584b99e3-cd4c-49a0-32c1-8d4881aac7be",
       "Name": "AradinAndCrewRedone"
+    },
+    {
+      "UUID": "8ccbcf8d-47fe-995a-697f-29995d6ecc84",
+      "Name": "MarcusRedone"
     },
     {
       "UUID": "043ac516-5c4e-44f0-af77-56f1aa0371ed",
