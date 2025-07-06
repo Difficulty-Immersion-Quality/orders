@@ -265,6 +265,10 @@
       "Name": "Xara's Spellbook"
     },
     {
+      "UUID": "9626d6bb-b347-4855-b8c0-9a258a5bb154",
+      "Name": "ASTRL Astra's Spellbook"
+    },
+    {
       "UUID": "9deeb371-f01e-41b4-b20e-c5eee0751b12",
       "Name": "Valkrana's Spellbook"
     },
@@ -2025,10 +2029,6 @@
       "Name": "================|            Spells - Surfaces"
     },
     {
-      "UUID": "cc2cfc56-fc67-3d1b-6392-e3f84acf3b31",
-      "Name": "FireSurfaceBoostRedux"
-    },
-    {
       "UUID": "6ec29fcc-f477-972f-7fcd-da7127884ade",
       "Name": "True Darkness"
     },
@@ -2357,8 +2357,8 @@
       "Name": "Blackguard"
     },
     {
-      "UUID": "021ee2cd-e5d6-4cfa-b3e0-3388cf3f4884",
-      "Name": "Unholy Smite - For Blackguard"
+      "UUID": "1ebb6046-2d5c-47e3-85f4-88c077f6d239",
+      "Name": "Blackguard - Smite Bonus Action Removal"
     },
     {
       "UUID": "8d3e71ad-5518-9674-33b9-897b0f9f8b50",
@@ -2733,6 +2733,10 @@
       "Name": "WayOfTheHurricane"
     },
     {
+      "UUID": "29d47970-757b-0c39-5e93-3e6a5e89684b",
+      "Name": "Way of the Forge - A Monk Subclass"
+    },
+    {
       "UUID": "21e65437-4ea0-4b0a-85bc-79af668be418",
       "Name": "================|            Monk - Other"
     },
@@ -2751,6 +2755,10 @@
     {
       "UUID": "16e036db-67e2-464e-ba71-06cc89ac78ac",
       "Name": "================|            Paladin            |================"
+    },
+    {
+      "UUID": "5ebf2403-21ff-8edb-6cf8-744d3f87570b",
+      "Name": "No Divine Smite for Oathbreakers"
     },
     {
       "UUID": "2799dbcc-5e39-4b90-abaa-ce41caed7d61",
@@ -2793,12 +2801,16 @@
       "Name": "================|            Paladin - Other"
     },
     {
-      "UUID": "87bb1e3e-89f7-4d10-be13-1c382eb5c653",
-      "Name": "Control Undead Complete"
+      "UUID": "3eb03809-679d-e6a5-02bf-b27b20c7f08b",
+      "Name": "Unholy Smite"
     },
     {
-      "UUID": "1bb5c8e1-03af-ba09-8704-352d761e9ef9",
-      "Name": "Unholy Smite - Empowering Oathbreakers"
+      "UUID": "022e219c-18bd-6793-4d31-eb4ccd4a3efe",
+      "Name": "Improved Unholy Smite"
+    },
+    {
+      "UUID": "87bb1e3e-89f7-4d10-be13-1c382eb5c653",
+      "Name": "Control Undead Complete"
     },
     {
       "UUID": "943bf6cc-849a-4374-aca6-6eeddd6b80e7",
@@ -3773,6 +3785,10 @@
       "Name": "Bloodspun Presets - UTAV"
     },
     {
+      "UUID": "9725fc4d-a2ac-452a-adcd-021b35f3066b",
+      "Name": "Bloodbound Shadows - UTAV"
+    },
+    {
       "UUID": "69266c69-bb41-4bc5-9c83-855d7f34d62a",
       "Name": "Heads of Crows - UTAV"
     },
@@ -4319,6 +4335,14 @@
     {
       "UUID": "4909b11d-fa26-4fd0-8c5b-9d8612ca07db",
       "Name": "PK Hair Collection"
+    },
+    {
+      "UUID": "d4b3a188-3892-499b-9648-a8f7ca4710da",
+      "Name": "rhaenyra_hairstyle"
+    },
+    {
+      "UUID": "d1eb04fb-18e1-422b-b440-02ce08bad02e",
+      "Name": "nyra_hairstyle"
     },
     {
       "UUID": "61cf2442-450b-4b5d-a18f-3a9d7fb727f9",
@@ -5149,6 +5173,10 @@
       "Name": "FeywildDice"
     },
     {
+      "UUID": "1c5e63df-71b5-46b8-e0e2-488660c2a17b",
+      "Name": "Fire And Smoke"
+    },
+    {
       "UUID": "e6daee50-3c37-bf3c-9f42-ef727dc23cbb",
       "Name": "FireballDice"
     },
@@ -5403,6 +5431,14 @@
     {
       "UUID": "0d3c8e22-0376-d0a9-41ec-2d4a6f9bceec",
       "Name": "HT_Minthara's Poison Kiss"
+    },
+    {
+      "UUID": "f604d2bb-fcab-8534-030c-b36f665939a5",
+      "Name": "Priestess Gut Gonna Knock You Out"
+    },
+    {
+      "UUID": "f716bc99-6684-c720-9f89-44cf26d9865f",
+      "Name": "Rugan Restored"
     },
     {
       "UUID": "aec42950-0909-4946-b68f-8e2346d9898f",
