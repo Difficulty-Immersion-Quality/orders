@@ -1462,7 +1462,7 @@
     },
     {
       "UUID": "67b6dbfc-53bc-4ae7-9737-b0118f5f87c7",
-      "Name": "Ranger's Leather Armor"
+      "Name": "Ranger's Leather Armour"
     },
     {
       "UUID": "f88d1565-2aba-4ada-b8d1-22860e8e18a5",
@@ -1559,6 +1559,10 @@
     {
       "UUID": "0736b752-d84e-ddf3-3a3c-700b5f80f9d7",
       "Name": "More Helmets by Guigodead Part 2"
+    },
+    {
+      "UUID": "194a7429-5b34-7d68-06ee-494607e165e4",
+      "Name": "Knights and Dames"
     },
     {
       "UUID": "831f1b5d-8837-4cf7-87aa-3c48885e81c4",
@@ -1885,14 +1889,6 @@
       "Name": "Speak with Dead Tweaks"
     },
     {
-      "UUID": "7595d80f-dff9-4a4e-a1cc-576d7a5b9237",
-      "Name": "Rebalance_Lvl1_Spells"
-    },
-    {
-      "UUID": "262002cc-4974-4637-8c59-1f5b9416c746",
-      "Name": "Rebalance_Lvl2_Spells"
-    },
-    {
       "UUID": "294024e1-0872-43c1-bddc-7a37a42b60fa",
       "Name": "Rebalance_Lvl3_Spells"
     },
@@ -1901,36 +1897,8 @@
       "Name": "Rebalance_Lvl4_Spells"
     },
     {
-      "UUID": "b303e532-db02-4a58-9754-6209e9d80c9d",
-      "Name": "Rebalance_Lvl5_Spells"
-    },
-    {
       "UUID": "8dcc6c86-b80c-4920-824d-f21ea796bb32",
       "Name": "Rebalance_Lvl6_Spells"
-    },
-    {
-      "UUID": "a74a712b-094d-4941-8cc7-bb3a75bc39eb",
-      "Name": "Rebalance_ClassSpells"
-    },
-    {
-      "UUID": "5ca0800a-26e1-4da7-a09d-35632e994b34",
-      "Name": "Valdacil's Spell Adjustments (Vanilla)"
-    },
-    {
-      "UUID": "1e06e466-8a66-4d6e-9864-d9deaccd0fcf",
-      "Name": "Valdacil's Spell Adjustments (5E Spells)"
-    },
-    {
-      "UUID": "297c35bb-d0c5-405d-98f4-80f4415d1cf2",
-      "Name": "Valdacil's Spell Adjustments (Vanilla) - Remove FX"
-    },
-    {
-      "UUID": "0f4c2eb3-74f4-4d16-a097-048ec2c706de",
-      "Name": "Valdacil's Spell Adjustments (5E Spells) Up To date Add-on"
-    },
-    {
-      "UUID": "d65d1212-363b-44d5-892c-aa21147db57c",
-      "Name": "CounterspellFixes"
     },
     {
       "UUID": "410dabcc-2249-4e9c-b305-6fd50864494a",
@@ -1957,10 +1925,6 @@
       "Name": "Riposte Enhanced"
     },
     {
-      "UUID": "9e69b789-97ed-4850-a9e5-a5d40f54ea78",
-      "Name": "[BS] Adjustable Shove Pull"
-    },
-    {
       "UUID": "4e592af1-392e-48bb-bba5-b297e87e65d4",
       "Name": "WildMagicD100"
     },
@@ -1977,12 +1941,52 @@
       "Name": "YMS_Telekinesis"
     },
     {
-      "UUID": "95090f45-b0d3-4ef2-8704-7acf94b3a4bf",
-      "Name": "Uncanny Dodge Reaction Fix"
-    },
-    {
       "UUID": "26b0112b-40f1-4b2b-b43a-bcc92b15d440",
       "Name": "SmartCunningAction"
+    },
+    {
+      "UUID": "0f4c2eb3-74f4-4d16-a097-048ec2c706de",
+      "Name": "Valdacil's Spell Adjustments (5E Spells) Up To date Add-on"
+    },
+    {
+      "UUID": "6d7ce044-5420-4d5f-809f-f95e2e838531",
+      "Name": "Goon's Spell Overhaul - Cantrips"
+    },
+    {
+      "UUID": "673d519a-9479-401f-b3ef-3712133e7a29",
+      "Name": "Goon's Spell Overhaul - Level 1"
+    },
+    {
+      "UUID": "6af8be63-34b8-4ff8-828d-819ed6e151d6",
+      "Name": "Goon's Spell Overhaul - Level 2"
+    },
+    {
+      "UUID": "07138649-a72b-4f69-b79b-3f55e463a353",
+      "Name": "Goon's Spell Overhaul - Level 3"
+    },
+    {
+      "UUID": "885839fc-0326-4d95-bcdd-a2921627d1b4",
+      "Name": "Goon's Spell Overhaul - Level 4"
+    },
+    {
+      "UUID": "812fb080-4a02-4cbc-8330-4cd6ef6468c8",
+      "Name": "Goon's Spell Overhaul - Level 5"
+    },
+    {
+      "UUID": "a5de120c-1e14-45dc-82c9-1e55b8e81694",
+      "Name": "Goon's Spell Overhaul - Level 7"
+    },
+    {
+      "UUID": "be7a6782-6004-4b2d-ae9f-a68e578c397f",
+      "Name": "Goon's Spell Overhaul - Level 8"
+    },
+    {
+      "UUID": "9f576cee-17e0-4839-99a4-ad9472591d6d",
+      "Name": "Goon's Spell Overhaul - Level 9"
+    },
+    {
+      "UUID": "3b19b1ce-198e-4496-9327-8f3d1235143d",
+      "Name": "Goon's Spell Overhaul - Misc"
     },
     {
       "UUID": "328e99b2-6087-4f92-ba4e-15685f7366b1",
@@ -2070,7 +2074,7 @@
     },
     {
       "UUID": "790f114c-d136-4e6d-b608-8dd95a80783c",
-      "Name": "Swap_Places_Action"
+      "Name": "Swap Places Common Action"
     },
     {
       "UUID": "53f01cc6-93fa-4de9-9af4-be32edf79da4",
@@ -2087,6 +2091,10 @@
     {
       "UUID": "30d3cc83-87a9-4efc-8b32-885c10f82132",
       "Name": "Goon's Gear & Throwing Overhaul"
+    },
+    {
+      "UUID": "c421c1b9-820c-440a-a4cd-dac787c07cbf",
+      "Name": "Returning Weapon QOL - Goon Patch"
     },
     {
       "UUID": "ee798b44-4e9e-4d73-95ba-925baf818584",
@@ -2129,14 +2137,6 @@
       "Name": "================|            Spells - Miscellaneous"
     },
     {
-      "UUID": "80ed23c9-b2d5-b75f-f327-4b4f419e6c19",
-      "Name": "Slightly Deadlier Slayer"
-    },
-    {
-      "UUID": "72bf4a2e-b2d1-4f5d-8b30-a463eb01b6a7",
-      "Name": "Slightly Deadlier Slayer Fixes and Balances"
-    },
-    {
       "UUID": "789deb36-e3da-4a5e-b737-eb644cd1dd6a",
       "Name": "Druid_QoL"
     },
@@ -2149,8 +2149,8 @@
       "Name": "Druid_Perfection"
     },
     {
-      "UUID": "c6af8560-986b-478b-a920-9ca86210b91a",
-      "Name": "Goon_Spell_Overhaul"
+      "UUID": "8da6f70b-e37a-493b-aba2-86a147afe64e",
+      "Name": "Goon's Slayer Overhaul"
     },
     {
       "UUID": "e9a8710c-c712-422c-96df-e03d34f6cea7",
@@ -2231,10 +2231,6 @@
     {
       "UUID": "8bc1f58a-73b4-4a34-9915-1be4c473dfd9",
       "Name": "================|            Races - Reworks"
-    },
-    {
-      "UUID": "79ec4f7a-1e7f-40bb-8ea2-cdc19282572e",
-      "Name": "Full Movement for Short Races"
     },
     {
       "UUID": "58d187c3-29a9-452d-95bb-086adce32312",
@@ -2509,6 +2505,10 @@
       "Name": "RecklessAttack5e"
     },
     {
+      "UUID": "55ff4fda-2514-4ae9-943e-ca60e51395f5",
+      "Name": "Goon's Barbarian Overhaul"
+    },
+    {
       "UUID": "f97fd40e-c65a-4376-912c-bd8a99a71952",
       "Name": "================|            Bard            |================"
     },
@@ -2545,12 +2545,8 @@
       "Name": "================|            Bard - Other"
     },
     {
-      "UUID": "fce5c5da-cd96-4e39-a785-c6234d8915e4",
-      "Name": "Bard Fixes and Tweaks"
-    },
-    {
-      "UUID": "6081d16a-3509-4006-9e01-e7c0636e6b4d",
-      "Name": "Expanded Bard Spells"
+      "UUID": "5d30ddb4-929c-455d-8ed0-d32c5451ccd0",
+      "Name": "Goon's Bard Overhaul"
     },
     {
       "UUID": "8f3c3dd0-bf1b-414d-997e-93975d8cc77f",
@@ -2653,8 +2649,8 @@
       "Name": "================|            Druid - Other"
     },
     {
-      "UUID": "cfd553fb-8a02-27f1-6aee-f55f3cb62add",
-      "Name": "Druid PHB2024 Speak With Animals Always-Prepared"
+      "UUID": "c534d6d5-7c82-4154-bea8-d1c45f11b1bc",
+      "Name": "Goon's Druid Overhaul"
     },
     {
       "UUID": "4cb32e81-447b-4c07-875d-ace53c835d4c",
@@ -2703,6 +2699,10 @@
     {
       "UUID": "2c205ec9-ee52-45bc-9c99-6529e860d109",
       "Name": "================|            Fighter - Other"
+    },
+    {
+      "UUID": "740d328b-90e1-4cac-8899-1cca15b7dc55",
+      "Name": "Goon's Fighter Overhaul"
     },
     {
       "UUID": "227d1eed-cd42-4738-8b8e-491f140e3581",
@@ -2755,6 +2755,10 @@
     {
       "UUID": "c6f575e0-91c7-4a31-9f00-313ec98ee5b9",
       "Name": "Stillness of Mind PHB"
+    },
+    {
+      "UUID": "9b086038-0313-4508-b335-2642b3f42abc",
+      "Name": "Goon's Monk Overhaul"
     },
     {
       "UUID": "16e036db-67e2-464e-ba71-06cc89ac78ac",
@@ -2837,10 +2841,6 @@
       "Name": "5e Ranger Subclasses Combined"
     },
     {
-      "UUID": "873b2ddd-51fa-4ed0-9e1b-770d4ff17e5f",
-      "Name": "Fae Field Medic"
-    },
-    {
       "UUID": "f3a27808-b86e-49c7-910f-ea493bf819a2",
       "Name": "Umbral Archer"
     },
@@ -2865,12 +2865,12 @@
       "Name": "================|            Ranger - Other"
     },
     {
-      "UUID": "b37abf2c-03ac-49b7-bdbb-217677dd45b1",
-      "Name": "================|            Rogue            |================"
+      "UUID": "46cccb24-5121-4bbc-8e2b-f1612463efdb",
+      "Name": "Goon's Ranger Overhaul"
     },
     {
-      "UUID": "b986a6b0-6755-496c-8ea8-0fbee6b66026",
-      "Name": "roguesextra"
+      "UUID": "b37abf2c-03ac-49b7-bdbb-217677dd45b1",
+      "Name": "================|            Rogue            |================"
     },
     {
       "UUID": "3246dfee-e767-4bcd-b866-b509222696b2",
@@ -2927,6 +2927,10 @@
     {
       "UUID": "248dfe45-70cb-474f-825c-c58a72cff970",
       "Name": "UACunningStrike"
+    },
+    {
+      "UUID": "08ed24ce-1dd1-4515-96b7-ef22e7205e0b",
+      "Name": "Goon's Rogue Overhaul"
     },
     {
       "UUID": "53f7b01b-9940-44ec-99f8-3efb19fc0b2e",
@@ -3013,6 +3017,10 @@
       "Name": "Metamagic Compatibility Patch"
     },
     {
+      "UUID": "e3249bd2-06ca-4af4-b3e6-2e4a83839161",
+      "Name": "Goon's Sorcerer Overhaul"
+    },
+    {
       "UUID": "2afad1b9-6302-4e4d-9082-58b85157c9bd",
       "Name": "================|            Warlock            |================"
     },
@@ -3077,10 +3085,6 @@
       "Name": "================|            Warlock - Other"
     },
     {
-      "UUID": "bad404aa-feed-a0ee-8888-feedfeed0001",
-      "Name": "Warlock Multiclass Bug Fix and Workaround"
-    },
-    {
       "UUID": "c1cfc0d3-1dad-0000-0000-c01200000003",
       "Name": "OneDnD UA7 Warlock Magical Cunning"
     },
@@ -3099,6 +3103,10 @@
     {
       "UUID": "e9329ed8-e7f7-44b1-b644-3daf04be9b48",
       "Name": "ScarletWarlock_Main_EldritchBlast"
+    },
+    {
+      "UUID": "0576f547-8fa3-4e36-a69e-35ec235d58f5",
+      "Name": "Goon's Coffee Lock - Decaf"
     },
     {
       "UUID": "b434f38c-0ae3-4f16-98f1-ff09bf632040",
@@ -3151,6 +3159,14 @@
     {
       "UUID": "c1cfc0d3-1dad-0000-0000-c01300000003",
       "Name": "OneDnD Wizard - Scholar"
+    },
+    {
+      "UUID": "c10aa909-2d24-4848-8e73-5e06eb3f04ab",
+      "Name": "Command Undead School of Necromancy Feature [Lv14]"
+    },
+    {
+      "UUID": "a97e37a7-54ed-4b70-aad2-18b16f744943",
+      "Name": "Goon's Wizard Overhaul"
     },
     {
       "UUID": "c08bd3c3-d183-400d-812e-bffd37ff406c",
@@ -4269,6 +4285,34 @@
       "Name": "BG3P Half-Orcs"
     },
     {
+      "UUID": "6c87c3f8-f3a3-4c3c-a395-7b09f85e5067",
+      "Name": "================|            Character Creation - Hair Mixers"
+    },
+    {
+      "UUID": "80fb12aa-1d82-4df4-af42-7beae9250fb2",
+      "Name": "P4 Bangs Bangs Everywhere"
+    },
+    {
+      "UUID": "85d64b7f-9a87-aeb1-bfdb-96fb031ae2cf",
+      "Name": "Kay's Hair Extensions"
+    },
+    {
+      "UUID": "8ec75cf6-8256-4e2a-864c-b0c3743d5b75",
+      "Name": "Silver's Modular Bangs Pack"
+    },
+    {
+      "UUID": "84e1ea8f-9e29-40cd-9109-c87c9aa24a08",
+      "Name": "Silver's Hair Mixer"
+    },
+    {
+      "UUID": "39b74d8a-dfcc-4cad-861b-a66635fb166a",
+      "Name": "Vanilla Hair Mixer"
+    },
+    {
+      "UUID": "93ac9d05-7f07-4ebb-8ee0-d4f23c3be05a",
+      "Name": "Vanilla Hair Mixer NPCs"
+    },
+    {
       "UUID": "6d9debed-7430-49bd-9183-47539feb6111",
       "Name": "================|            Character Creation - Hair"
     },
@@ -4329,16 +4373,16 @@
       "Name": "Myky's Hairstyles"
     },
     {
-      "UUID": "b355f4c8-5642-4419-b485-8f8beb4d2cde",
-      "Name": "Silver's Modular Base Pack"
-    },
-    {
       "UUID": "1fd44eaf-a4d2-4de4-9560-51a0c8a63987",
       "Name": "Silver's Hair Pack"
     },
     {
       "UUID": "c56e4b79-3bf3-446b-b06b-27dc86337663",
       "Name": "Silver's Hair Pack 2"
+    },
+    {
+      "UUID": "b355f4c8-5642-4419-b485-8f8beb4d2cde",
+      "Name": "Silver's Modular Base Pack"
     },
     {
       "UUID": "4909b11d-fa26-4fd0-8c5b-9d8612ca07db",
@@ -4601,14 +4645,6 @@
       "Name": "KS HAIR Edits Pack"
     },
     {
-      "UUID": "aa151260-de17-4a16-841b-887f98ca2808",
-      "Name": "HairCollection"
-    },
-    {
-      "UUID": "a7556303-6975-4b63-a9d1-2b6c9914500d",
-      "Name": "NymphHair"
-    },
-    {
       "UUID": "72ea866c-ff3b-42f0-92d1-f7567adb8d71",
       "Name": "LongHairs"
     },
@@ -4693,34 +4729,6 @@
       "Name": "Eye Bandage"
     },
     {
-      "UUID": "6c87c3f8-f3a3-4c3c-a395-7b09f85e5067",
-      "Name": "================|            Character Creation - Hair Mixers"
-    },
-    {
-      "UUID": "80fb12aa-1d82-4df4-af42-7beae9250fb2",
-      "Name": "P4 Bangs Bangs Everywhere"
-    },
-    {
-      "UUID": "85d64b7f-9a87-aeb1-bfdb-96fb031ae2cf",
-      "Name": "Kay's Hair Extensions"
-    },
-    {
-      "UUID": "84e1ea8f-9e29-40cd-9109-c87c9aa24a08",
-      "Name": "Silver's Hair Mixer"
-    },
-    {
-      "UUID": "8ec75cf6-8256-4e2a-864c-b0c3743d5b75",
-      "Name": "Silver's Modular Bangs Pack"
-    },
-    {
-      "UUID": "39b74d8a-dfcc-4cad-861b-a66635fb166a",
-      "Name": "Vanilla Hair Mixer"
-    },
-    {
-      "UUID": "93ac9d05-7f07-4ebb-8ee0-d4f23c3be05a",
-      "Name": "Vanilla Hair Mixer NPCs"
-    },
-    {
       "UUID": "b52c2a2a-9403-4ce8-bfa1-b26f4f599776",
       "Name": "================|            Character Visuals            |================"
     },
@@ -4731,6 +4739,10 @@
     {
       "UUID": "e8c6faa2-6f45-42f6-9529-4188dcd70f14",
       "Name": "WrinkleMapeSmoothn"
+    },
+    {
+      "UUID": "fbce759c-4942-4660-0061-75697f826361",
+      "Name": "Githyanki Frog Eyes"
     },
     {
       "UUID": "2e9a7ac7-ea3e-4175-8bd3-4098201b7fe0",
@@ -5045,16 +5057,12 @@
       "Name": "Volo Restyled"
     },
     {
-      "UUID": "cfdfcdb7-9c5d-c92c-5dcd-71f940e1ac37",
-      "Name": "Aylin Restyled"
-    },
-    {
-      "UUID": "95ba5e1b-0acd-7f26-ee4c-5a0e65272d16",
-      "Name": "Isobel Restyled"
-    },
-    {
       "UUID": "719efd5e-d85b-a4e9-3efe-9e30a2385e92",
       "Name": "Mayrina No More Tears"
+    },
+    {
+      "UUID": "aeebeaff-d458-685c-faf3-57ab637908a5",
+      "Name": "Isobel Restyled - Camp Clothes at Night"
     },
     {
       "UUID": "0f9677f5-113e-c706-7f5a-3a7d6175bb89",
@@ -5073,6 +5081,14 @@
       "Name": "Florrick - Dirt B Gone"
     },
     {
+      "UUID": "809405a7-b1f5-efb3-3378-b3d72e598d8a",
+      "Name": "Anti-Hag Support Group Restyled"
+    },
+    {
+      "UUID": "171dc852-1ccc-fd0f-99fb-10626792eced",
+      "Name": "BarcusWrootBrownThreads"
+    },
+    {
       "UUID": "64b921d6-7080-49fb-8b18-eed6afd9d62b",
       "Name": "MizoraHumanFormWyrmCrossingOnly"
     },
@@ -5083,6 +5099,10 @@
     {
       "UUID": "584b99e3-cd4c-49a0-32c1-8d4881aac7be",
       "Name": "AradinAndCrewRedone"
+    },
+    {
+      "UUID": "9deccb56-2e7a-2851-ccf6-0b768a190aab",
+      "Name": "ZevlorRedone"
     },
     {
       "UUID": "8ccbcf8d-47fe-995a-697f-29995d6ecc84",
@@ -5330,7 +5350,7 @@
     },
     {
       "UUID": "5442c1bf-c118-48bc-87f1-c90bcc024b1c",
-      "Name": "Injuries"
+      "Name": "Grit and Glory - Injuries, Exhaustion and Madness"
     },
     {
       "UUID": "1ea9eba9-5cc8-4c1f-9032-f9087f9b414c",
@@ -5379,6 +5399,10 @@
     {
       "UUID": "445cacd6-70b2-43ca-8f09-1836da616e8a",
       "Name": "Ultimate NPC Stat Overhaul - Extras"
+    },
+    {
+      "UUID": "fc24e533-8554-46f9-8ef9-60a71b33c48e",
+      "Name": "Goon's Short Legs Overhaul - UNSO"
     },
     {
       "UUID": "bc112f05-f5d1-4b59-9a9f-fd8867616d03",
@@ -5435,6 +5459,10 @@
     {
       "UUID": "0d3c8e22-0376-d0a9-41ec-2d4a6f9bceec",
       "Name": "HT_Minthara's Poison Kiss"
+    },
+    {
+      "UUID": "79c99ac4-e32e-4637-ad8b-2fa75b603529",
+      "Name": "HT_Minthara's Weaknesses: Astarion/Minthara Banter Restored"
     },
     {
       "UUID": "664c4105-4125-d780-8617-b9731f6f44f5",
