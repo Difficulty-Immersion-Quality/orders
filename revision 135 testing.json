@@ -397,10 +397,6 @@
       "Name": "Many More Monsters"
     },
     {
-      "UUID": "7c51c311-e5e9-4cd1-8d20-7e43d0f8cc9d",
-      "Name": "MMM 3.2.0 Bug Fixes"
-    },
-    {
       "UUID": "4b83dd7a-0d18-4d6b-a6d3-e540a17c43de",
       "Name": "Valkrana's Undead Encounters"
     },
@@ -1941,8 +1937,12 @@
       "Name": "YMS_Telekinesis"
     },
     {
-      "UUID": "26b0112b-40f1-4b2b-b43a-bcc92b15d440",
-      "Name": "SmartCunningAction"
+      "UUID": "f2f87784-06ab-4700-bbcf-11cb4c1751a7",
+      "Name": "Grimoire Familiar"
+    },
+    {
+      "UUID": "1e06e466-8a66-4d6e-9864-d9deaccd0fcf",
+      "Name": "Valdacil's Spell Adjustments (5E Spells)"
     },
     {
       "UUID": "0f4c2eb3-74f4-4d16-a097-048ec2c706de",
@@ -2147,6 +2147,10 @@
     {
       "UUID": "55249f39-faa9-4e51-a36c-0ac6560d8a0c",
       "Name": "Druid_Perfection"
+    },
+    {
+      "UUID": "26b0112b-40f1-4b2b-b43a-bcc92b15d440",
+      "Name": "SmartCunningAction"
     },
     {
       "UUID": "8da6f70b-e37a-493b-aba2-86a147afe64e",
@@ -2371,6 +2375,10 @@
     {
       "UUID": "a5104d57-e12b-29fe-c9e7-61fefd152828",
       "Name": "The Zephyr - 5e Spells Add-On"
+    },
+    {
+      "UUID": "8e91f143-b010-e513-6cba-9a42b0300476",
+      "Name": "Investigator Class"
     },
     {
       "UUID": "2c7c3f6a-174d-6c3e-775b-9c3cab79e5a4",
@@ -2839,6 +2847,10 @@
     {
       "UUID": "49b32147-5aed-c262-1fa6-ec51939978c0",
       "Name": "5e Ranger Subclasses Combined"
+    },
+    {
+      "UUID": "873b2ddd-51fa-4ed0-9e1b-770d4ff17e5f",
+      "Name": "Fae Field Medic"
     },
     {
       "UUID": "f3a27808-b86e-49c7-910f-ea493bf819a2",
@@ -3829,6 +3841,14 @@
       "Name": "Poesielibre's Head Experiment - Unique Tav Patch"
     },
     {
+      "UUID": "86d54167-18ac-459e-e949-a3cebbdcacc7",
+      "Name": "PL_Strange_Tiefling"
+    },
+    {
+      "UUID": "8eea61bc-1027-4ed3-b2eb-5a5d1881c2b9",
+      "Name": "Poesielibre's Strange Tiefling - Unique Tav Patch"
+    },
+    {
       "UUID": "867d4bf4-bba0-49b6-ab65-96d0e7b0585f",
       "Name": "Andmetta - Bulky Dwarf Head - Drak"
     },
@@ -4093,6 +4113,10 @@
       "Name": "Castlevania: Nocturne preset pack"
     },
     {
+      "UUID": "326c9cd2-4b6b-58e5-892c-ca5fbb814078",
+      "Name": "Nia_Heads"
+    },
+    {
       "UUID": "ae642019-fd9c-4ba4-b68d-c8bb9d60fe56",
       "Name": "Brithmaur's Visage"
     },
@@ -4277,6 +4301,10 @@
       "Name": "Feytouched - UTAV Patch"
     },
     {
+      "UUID": "91402529-95ff-4d04-bae6-c3dc40650a64",
+      "Name": "BG3P BT1 Heads"
+    },
+    {
       "UUID": "f95f05a0-df72-4494-b184-245dc0b5a282",
       "Name": "BG3P Githyanki Heads"
     },
@@ -4341,16 +4369,8 @@
       "Name": "Arcane Vi's Hairstyle"
     },
     {
-      "UUID": "eb330d7b-4607-4e1c-86a2-966ff6b198bd",
-      "Name": "BW Viking Hairstyle"
-    },
-    {
-      "UUID": "969b6fed-c212-4c43-97d5-74ca4f105276",
-      "Name": "BW Boho Braids"
-    },
-    {
-      "UUID": "772dd1cd-0b9f-43e6-baa9-727c49564100",
-      "Name": "BW Long Ponytail"
+      "UUID": "f148638d-8ffc-635d-4307-d4db40d40734",
+      "Name": "Elledwyn_Hairstyles"
     },
     {
       "UUID": "69b3279a-d5c0-9bf3-67da-823ec359b44a",
@@ -4363,6 +4383,22 @@
     {
       "UUID": "c4100869-a15c-4f8c-a72b-eea8aa1ce207",
       "Name": "Physics Hair Pack"
+    },
+    {
+      "UUID": "b5c10147-9934-bcfc-4fe3-1aa806b77795",
+      "Name": "CK_Hair_Collection"
+    },
+    {
+      "UUID": "eb330d7b-4607-4e1c-86a2-966ff6b198bd",
+      "Name": "BW Viking Hairstyle"
+    },
+    {
+      "UUID": "969b6fed-c212-4c43-97d5-74ca4f105276",
+      "Name": "BW Boho Braids"
+    },
+    {
+      "UUID": "772dd1cd-0b9f-43e6-baa9-727c49564100",
+      "Name": "BW Long Ponytail"
     },
     {
       "UUID": "e0cbb31d-5ae4-4f4d-b54d-4da5fa70fe24",
@@ -5083,6 +5119,10 @@
     {
       "UUID": "809405a7-b1f5-efb3-3378-b3d72e598d8a",
       "Name": "Anti-Hag Support Group Restyled"
+    },
+    {
+      "UUID": "4587ec98-12ca-9a54-dae9-0a874bfb0ac5",
+      "Name": "LorroakanRedone"
     },
     {
       "UUID": "171dc852-1ccc-fd0f-99fb-10626792eced",
