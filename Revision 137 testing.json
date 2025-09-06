@@ -457,10 +457,6 @@
       "Name": "Reaction Points on Hotbar"
     },
     {
-      "UUID": "ef6726ba-0ec2-4350-3c49-d9d72119a951",
-      "Name": "Sneak Attack Charge on Hotbar"
-    },
-    {
       "UUID": "fba10a7d-2dde-40be-9600-bfd14fba8fcd",
       "Name": "5eIconFixes"
     },
@@ -3041,10 +3037,6 @@
       "Name": "A Gith Can Change Their Spots"
     },
     {
-      "UUID": "d1927184-8763-4d70-ae52-8295f791548a",
-      "Name": "ASTRL Glowing Eyes"
-    },
-    {
       "UUID": "3609a0b7-bd80-4e5f-9ecc-a73e281a0bc4",
       "Name": "ASTRL Colorizer - Tattoo & Makeup Color Edits"
     },
@@ -4561,12 +4553,16 @@
       "Name": "KAVT - KAZSTRA Virtual Tav x Tattoo, Makeup & Scar Extender"
     },
     {
-      "UUID": "a175d16b-2a1b-4711-9b26-2002f8a83f18",
-      "Name": "Scantily Outfit Separator Unique Tav Patch"
+      "UUID": "d1927184-8763-4d70-ae52-8295f791548a",
+      "Name": "ASTRL Glowing Eyes"
     },
     {
       "UUID": "4b1035f1-6e41-4591-8516-72752a448681",
       "Name": "ASTRL Glowing Eyes Unique Tav Patch"
+    },
+    {
+      "UUID": "a175d16b-2a1b-4711-9b26-2002f8a83f18",
+      "Name": "Scantily Outfit Separator Unique Tav Patch"
     },
     {
       "UUID": "821458ca-72d0-4258-9fca-12e581cab3fa",
