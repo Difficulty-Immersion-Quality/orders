@@ -1,0 +1,120 @@
+{
+  "Order": [
+    {
+      "UUID": "26922ba9-6018-5252-075d-7ff2ba6ed879",
+      "Name": "ImpUI_P8_Fork"
+    },
+    {
+      "UUID": "755a8a72-407f-4f0d-9a33-274ac0f0b53d",
+      "Name": "Mod Configuration Menu"
+    },
+    {
+      "UUID": "396c5966-09b0-40a1-af3f-93a5e9ce71c0",
+      "Name": "CommunityLibrary"
+    },
+    {
+      "UUID": "07fbc2f1-f359-4b9d-b243-fe28bd783e4c",
+      "Name": "Goon's Library"
+    },
+    {
+      "UUID": "f97b43be-7398-4ea5-8fe2-be7eb3d4b5ca",
+      "Name": "VolitionCabinet"
+    },
+    {
+      "UUID": "5d1bd6cb-6361-45ef-b20c-d997acfba822",
+      "Name": "AahzLib"
+    },
+    {
+      "UUID": "5b5ad5b6-ce37-4a63-8dea-a1fee4cee156",
+      "Name": "EasyCheat"
+    },
+    {
+      "UUID": "af8f78f6-2cda-1958-e5a0-1f673f2c152b",
+      "Name": "DebugBook"
+    },
+    {
+      "UUID": "f32b58b4-e101-4263-a82b-5f0fe1926064",
+      "Name": "Injuries JWL Discordant Instruments Patch"
+    },
+    {
+      "UUID": "30d3cc83-87a9-4efc-8b32-885c10f82132",
+      "Name": "Goon's Gear & Throwing Overhaul"
+    },
+    {
+      "UUID": "d9403cba-2f48-4f26-9710-f4be44e076b7",
+      "Name": "Goon's Condition & Surface Overhaul"
+    },
+    {
+      "UUID": "844648b9-c130-4f96-8742-629d155fc809",
+      "Name": "Savage Attacker Variants"
+    },
+    {
+      "UUID": "4cdef21a-8744-4a02-b804-679fa4ebd118",
+      "Name": "Lone Wolf - No Damage Reduction"
+    },
+    {
+      "UUID": "ed2a01d9-05f9-40a1-821d-c31dcbc77c19",
+      "Name": "Goon's Cleric Overhaul"
+    },
+    {
+      "UUID": "c534d6d5-7c82-4154-bea8-d1c45f11b1bc",
+      "Name": "Goon's Druid Overhaul"
+    },
+    {
+      "UUID": "dcbb4c7f-a112-4c0f-9644-91d8a16db127",
+      "Name": "Goon's Paladin Overhaul"
+    },
+    {
+      "UUID": "d3c0686b-b785-5dda-deb7-641de97e5fcd",
+      "Name": "The Ruffian - A Strength Rogue"
+    },
+    {
+      "UUID": "e005d70e-88f4-53b1-de80-312f185fe797",
+      "Name": "The Ruffian - Grappling Extension"
+    },
+    {
+      "UUID": "248dfe45-70cb-474f-825c-c58a72cff970",
+      "Name": "UACunningStrike"
+    },
+    {
+      "UUID": "08ed24ce-1dd1-4515-96b7-ef22e7205e0b",
+      "Name": "Goon's Rogue Overhaul"
+    },
+    {
+      "UUID": "e3249bd2-06ca-4af4-b3e6-2e4a83839161",
+      "Name": "Goon's Sorcerer Overhaul"
+    },
+    {
+      "UUID": "a97e37a7-54ed-4b70-aad2-18b16f744943",
+      "Name": "Goon's Wizard Overhaul"
+    },
+    {
+      "UUID": "df54b720-003e-4846-98a3-155dbc3eee3f",
+      "Name": "Goon's Companion Protection"
+    },
+    {
+      "UUID": "5442c1bf-c118-48bc-87f1-c90bcc024b1c",
+      "Name": "Grit and Glory - Injuries, Exhaustion and Madness"
+    },
+    {
+      "UUID": "a17a3a3d-5c16-404a-910a-68ae9e47f247",
+      "Name": "Absolute's Laboratory"
+    },
+    {
+      "UUID": "391ebb1f-c243-c5c6-6024-7ac8f9289780",
+      "Name": "Simple Sorting Bags"
+    },
+    {
+      "UUID": "719a427f-93f9-46ce-b5c8-9a9201112a52",
+      "Name": "DIQ Starting Equipment"
+    },
+    {
+      "UUID": "4c628a1a-34d9-4362-8459-2c2bb3b8e5fb",
+      "Name": "DIQ Misc Patches"
+    },
+    {
+      "UUID": "67fbbd53-7c7d-4cfa-9409-6d737b4d92a9",
+      "Name": "CompatibilityFramework"
+    }
+  ]
+}
