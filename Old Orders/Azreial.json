@@ -1,0 +1,1304 @@
+{
+  "Order": [
+    {
+      "UUID": "26922ba9-6018-5252-075d-7ff2ba6ed879",
+      "Name": "ImpUI (ImprovedUI)"
+    },
+    {
+      "UUID": "396c5966-09b0-40a1-af3f-93a5e9ce71c0",
+      "Name": "CommunityLibrary"
+    },
+    {
+      "UUID": "f97b43be-7398-4ea5-8fe2-be7eb3d4b5ca",
+      "Name": "VolitionCabinet"
+    },
+    {
+      "UUID": "5d1bd6cb-6361-45ef-b20c-d997acfba822",
+      "Name": "AahzLib"
+    },
+    {
+      "UUID": "755a8a72-407f-4f0d-9a33-274ac0f0b53d",
+      "Name": "Mod Configuration Menu"
+    },
+    {
+      "UUID": "5b5ad5b6-ce37-4a63-8dea-a1fee4cee156",
+      "Name": "EasyCheat"
+    },
+    {
+      "UUID": "3bf9a323-db3b-4910-a2bd-f45b90b6a543",
+      "Name": "EasyDye"
+    },
+    {
+      "UUID": "b3ba01c6-b385-416f-9bbe-7ad7f6a256f0",
+      "Name": "Configurable movement speed"
+    },
+    {
+      "UUID": "16b5fbb6-72fe-4a08-814a-87a9fc0b14bc",
+      "Name": "Configurable Party Limit"
+    },
+    {
+      "UUID": "310ba0c7-374e-4e56-8c42-b7c7ad3a38b0",
+      "Name": "Fix Stragglers"
+    },
+    {
+      "UUID": "08e267cf-bf28-4e29-8711-8282ed017fcb",
+      "Name": "DatabaseCleaner"
+    },
+    {
+      "UUID": "163484d1-8511-4a95-8061-1ede8838b28b",
+      "Name": "Mod Uninstaller"
+    },
+    {
+      "UUID": "0c090ccf-c9bb-422e-bbfd-6242174992a2",
+      "Name": "AutolootAura"
+    },
+    {
+      "UUID": "8c7d3408-a746-5022-348b-1635e14af044",
+      "Name": "AddonBetterInventoryUI"
+    },
+    {
+      "UUID": "f43d53cb-aef6-6476-15dc-d71d25c2f1cc",
+      "Name": "BCPP 16x9 4 5x10"
+    },
+    {
+      "UUID": "9757088d-43ff-9c67-1a53-365f2d6fea94",
+      "Name": "Better Combat Log Default"
+    },
+    {
+      "UUID": "278fd072-0482-64f9-9d52-d37121db6e7b",
+      "Name": "Better Containers 5x5"
+    },
+    {
+      "UUID": "f9dd909a-3607-f8e1-da13-b795884f68b5",
+      "Name": "Better Context Menu"
+    },
+    {
+      "UUID": "03b0b84a-2689-77c2-5ef6-ebcf88b88037",
+      "Name": "Better Dyeing"
+    },
+    {
+      "UUID": "a43f8334-d0cd-b6b9-4c9f-3914e868e6fa",
+      "Name": "Better Hotbar 2"
+    },
+    {
+      "UUID": "6b585be8-ed73-7347-2c58-73146e22b7d4",
+      "Name": "Better Inventory UI"
+    },
+    {
+      "UUID": "1186f940-7338-fe24-6649-aff698541b7f",
+      "Name": "Better Target Info"
+    },
+    {
+      "UUID": "d9582df8-6eef-a756-117f-965e22007ff6",
+      "Name": "Better Topbar"
+    },
+    {
+      "UUID": "1ae4224b-23fc-dafe-06e4-fb251d1919bd",
+      "Name": "Better Trade Menu"
+    },
+    {
+      "UUID": "2f8f216d-dd2a-7731-cf1e-9d6bae9eb04a",
+      "Name": "Better Various Widgets"
+    },
+    {
+      "UUID": "76e493c7-d7f4-217f-2a3e-61e17c61dedf",
+      "Name": "BetterSplitItem"
+    },
+    {
+      "UUID": "bc1081b4-e2a9-ce49-8b60-6f64b7eecce4",
+      "Name": "BetterTooltips"
+    },
+    {
+      "UUID": "0e6b886d-c51f-75fb-f9bd-cf9c0c363c5b",
+      "Name": "Damage Preview"
+    },
+    {
+      "UUID": "1e649013-e371-953e-3839-07f02fe1cffa",
+      "Name": "Dynamic Sidebar"
+    },
+    {
+      "UUID": "f69cbc0f-cbee-0801-01b9-e6b608381ca3",
+      "Name": "Mod Manager Minor Fixes"
+    },
+    {
+      "UUID": "64e3f7e5-8157-e330-bf89-c97c52fd8894",
+      "Name": "Trade With Anyone"
+    },
+    {
+      "UUID": "a44c79a0-641f-5757-0d2c-d5794b66f109",
+      "Name": "OIOPrime"
+    },
+    {
+      "UUID": "2cba831e-bc5e-4ed5-b831-b5c4580b02b0",
+      "Name": "TagFramework"
+    },
+    {
+      "UUID": "c59a07ae-e78e-6ffd-0f0b-b43788e4b1bd",
+      "Name": "Dungeons N Souls Edition"
+    },
+    {
+      "UUID": "72650dad-72f9-4b57-aa8a-5916d4953037",
+      "Name": "Block/Miss Differentiation"
+    },
+    {
+      "UUID": "fb5f528d-4d48-4bf2-a668-2274d3cfba96",
+      "Name": "5eSpells"
+    },
+    {
+      "UUID": "7d6712c3-3b64-e94d-6f1a-9de67678b44b",
+      "Name": "Tactician Enhanced"
+    },
+    {
+      "UUID": "5bad5dda-5e58-4739-a095-07113f4da7e9",
+      "Name": "Encounters Enhanced"
+    },
+    {
+      "UUID": "46bbba49-df77-177d-9c66-3572974f363a",
+      "Name": "Deadlier Honour Mode"
+    },
+    {
+      "UUID": "df66f75e-cbd0-9459-99d8-8aae33698215",
+      "Name": "Boss Pack 1"
+    },
+    {
+      "UUID": "48ef600a-6c74-3558-f58d-6140bdc16d0a",
+      "Name": "DarkerAct3Music"
+    },
+    {
+      "UUID": "0c692104-c83f-48b8-9fcd-ca7e33be5098",
+      "Name": "Combat Extender"
+    },
+    {
+      "UUID": "0c692104-c83f-48b8-9fcd-ca7e33be5099",
+      "Name": "Combat Extender AI"
+    },
+    {
+      "UUID": "2da3bc36-b4b2-4652-a611-3fe16527417e",
+      "Name": "UtutsCoreLibrary"
+    },
+    {
+      "UUID": "9010c099-c1e7-4ea8-8990-a883d6814975",
+      "Name": "AbsoluteWrath"
+    },
+    {
+      "UUID": "4fc54057-b37d-4d97-aebc-94acfe24be04",
+      "Name": "Death March"
+    },
+    {
+      "UUID": "54e6cb0f-ea49-49c2-8991-4f41eac75b66",
+      "Name": "Harder Bosses main"
+    },
+    {
+      "UUID": "57d87816-ac58-4a37-90ad-0fda409c5557",
+      "Name": "StrongerBosses"
+    },
+    {
+      "UUID": "50242076-a280-4b76-b7d1-a5a88c5ef92f",
+      "Name": "DeathIncarnate(Dark Sun)"
+    },
+    {
+      "UUID": "b13e2d86-bfc2-409b-9da8-426ed2adb9b9",
+      "Name": "Raphael's_Final_Act"
+    },
+    {
+      "UUID": "49a94025-c3e4-461f-bc08-2de6a629666c",
+      "Name": "AdditionalEnemies"
+    },
+    {
+      "UUID": "1b215646-6200-451a-9c4a-b21406f69edd",
+      "Name": "Many More Monsters"
+    },
+    {
+      "UUID": "3018d4e9-a346-441b-801d-3624769dc3c0",
+      "Name": "EncountersOverhaul"
+    },
+    {
+      "UUID": "a75223da-c3b8-4a5b-93a1-8b557179e872",
+      "Name": "EncountersOverhaul5eSpells"
+    },
+    {
+      "UUID": "505c630c-79fa-49b6-9f21-29a5f2322c2d",
+      "Name": "TutorialChestSummoning"
+    },
+    {
+      "UUID": "92af0ebd-a04c-4e9c-8306-b947aac4c127",
+      "Name": "Carry Weight Increased 9000"
+    },
+    {
+      "UUID": "391ebb1f-c243-c5c6-6024-7ac8f9289780",
+      "Name": "Simple Sorting Bags"
+    },
+    {
+      "UUID": "82c1f53b-5ed3-4e2e-95f5-f84ca6ff0c81",
+      "Name": "TransmogEnhanced"
+    },
+    {
+      "UUID": "7b8366bd-abc1-4f9f-ba9d-585549b4a750",
+      "Name": "AppearanceEditEnhanced"
+    },
+    {
+      "UUID": "60de8215-7e9f-4cb6-9763-05aa6aecf257",
+      "Name": "AppearanceEditOrigins"
+    },
+    {
+      "UUID": "8968487e-5afc-42a6-84f0-1524ccb2e0f7",
+      "Name": "InvisibleWeapons"
+    },
+    {
+      "UUID": "72faa152-6c1c-424c-9934-c4bdeb472d8c",
+      "Name": "NoVFX"
+    },
+    {
+      "UUID": "0337fe5f-aa4a-43bc-8728-0c9cb8082784",
+      "Name": "Potion-B-Gone"
+    },
+    {
+      "UUID": "cdd81241-5146-40fc-822d-58bcd85335c5",
+      "Name": "No Ritual Effects"
+    },
+    {
+      "UUID": "a2758a57-4d19-4d28-8e70-cb6ce2a56873",
+      "Name": "No Visual Changes"
+    },
+    {
+      "UUID": "a88d400b-febb-4662-abdd-5d0b5d6e57cc",
+      "Name": "chooseyourstats"
+    },
+    {
+      "UUID": "0c036a05-f3e4-4422-87bd-eadadf96c161",
+      "Name": "featsextra"
+    },
+    {
+      "UUID": "13baaf63-8735-4ad7-8bba-a9ac13fec7fa",
+      "Name": "TitansGrip"
+    },
+    {
+      "UUID": "034b8c6b-1093-9d08-1754-f7c0183efcc0",
+      "Name": "Wu9 Extra Feats"
+    },
+    {
+      "UUID": "febc6e43-4dac-4f18-9223-154cceb002f2",
+      "Name": "DND_Revamp_Feats_and_Metamagic"
+    },
+    {
+      "UUID": "513971bf-b46f-44cb-90dc-749b183a3b54",
+      "Name": "Rebalance_Feats_ASI"
+    },
+    {
+      "UUID": "1ce7aa25-0b81-47af-9068-4733a98eebc4",
+      "Name": "Essential_Feats_ASI"
+    },
+    {
+      "UUID": "641691b4-c825-4e0b-af2f-91eb0698db31",
+      "Name": "GestaltFeats"
+    },
+    {
+      "UUID": "de23e93f-9b56-40e0-95bc-83a0e8c1570a",
+      "Name": "Class Specialization Feats ASI"
+    },
+    {
+      "UUID": "a74a712b-094d-4941-8cc7-bb3a75bc39eb",
+      "Name": "Rebalance_ClassSpells"
+    },
+    {
+      "UUID": "58e080fe-4a02-46c0-beba-5ef16c992197",
+      "Name": "Rebalance_CommonEffects"
+    },
+    {
+      "UUID": "0905bfaf-8e5d-483a-bfed-4b92f44d6d25",
+      "Name": "Revised Cantrips"
+    },
+    {
+      "UUID": "7595d80f-dff9-4a4e-a1cc-576d7a5b9237",
+      "Name": "Rebalance_Lvl1_Spells"
+    },
+    {
+      "UUID": "262002cc-4974-4637-8c59-1f5b9416c746",
+      "Name": "Rebalance_Lvl2_Spells"
+    },
+    {
+      "UUID": "294024e1-0872-43c1-bddc-7a37a42b60fa",
+      "Name": "Rebalance_Lvl3_Spells"
+    },
+    {
+      "UUID": "86a0b6ef-91e3-4123-ae68-b950ac2fc97f",
+      "Name": "Rebalance_Lvl4_Spells"
+    },
+    {
+      "UUID": "b303e532-db02-4a58-9754-6209e9d80c9d",
+      "Name": "Rebalance_Lvl5_Spells"
+    },
+    {
+      "UUID": "8dcc6c86-b80c-4920-824d-f21ea796bb32",
+      "Name": "Rebalance_Lvl6_Spells"
+    },
+    {
+      "UUID": "59d75972-b529-4e84-82c8-bc6ddf0f4428",
+      "Name": "Revised Elixirs"
+    },
+    {
+      "UUID": "b19bac06-60a4-4e6a-bc62-54a9bdc2f9d7",
+      "Name": "Revised Footwear"
+    },
+    {
+      "UUID": "6c889e03-b7e1-8f39-46d5-5c971a72627a",
+      "Name": "Robe_Increase_All_Poison_DMG"
+    },
+    {
+      "UUID": "10fa53f8-cf01-4bdf-a9d3-9d6b221a476a",
+      "Name": "Shattered Flail Fix"
+    },
+    {
+      "UUID": "3efb7577-39a7-f8e4-a220-292cfa136a1e",
+      "Name": "MourningFrostAOEFixer_Overpowered"
+    },
+    {
+      "UUID": "893d2b19-8131-4435-9830-07f131ef309b",
+      "Name": "UnofficialBugFixer"
+    },
+    {
+      "UUID": "a9e98a1f-7a59-4b70-be39-1f69924c0b80",
+      "Name": "BasketEquipmentNSFW"
+    },
+    {
+      "UUID": "d5b26f57-5a47-41bb-b752-ce5a4b652510",
+      "Name": "DivineCurse"
+    },
+    {
+      "UUID": "65f3ff35-a64b-47c6-8a79-5271bdfa35f5",
+      "Name": "RemodelledFrameBody"
+    },
+    {
+      "UUID": "920ec237-4a49-41f6-b7bf-025297a9b904",
+      "Name": "SharessHarness"
+    },
+    {
+      "UUID": "3ad13c97-6531-4ed0-8f46-566dd5dfb125",
+      "Name": "SharessHarnessAlt"
+    },
+    {
+      "UUID": "4870d781-c7b7-4353-8b9d-916f2fd4a72e",
+      "Name": "SharessHarnessLeotard"
+    },
+    {
+      "UUID": "44d79af8-a1b4-4de9-8cb0-76b8bf7bbf88",
+      "Name": "UmberleeNets"
+    },
+    {
+      "UUID": "07ea67e5-344b-4de6-91d3-449cce27a685",
+      "Name": "LoviatarClaws"
+    },
+    {
+      "UUID": "818b3bb9-46ee-4a21-843e-28f31cb7c96a",
+      "Name": "LoviatarClawsAlt"
+    },
+    {
+      "UUID": "f6594f6b-bcf8-4a1e-9d96-08cceb45ad2a",
+      "Name": "LoviatarClawsHeels"
+    },
+    {
+      "UUID": "113e2090-cdf2-48e5-b530-397937858d90",
+      "Name": "Alexandrite Dress"
+    },
+    {
+      "UUID": "0a533e99-a1ad-48c7-9ce6-4f5e90290215",
+      "Name": "Amelie's Moonlight Gown"
+    },
+    {
+      "UUID": "e3613101-b534-429a-9a2c-4fb3b57ea9b5",
+      "Name": "Asuras Allure"
+    },
+    {
+      "UUID": "1def457e-cd00-4d17-9c7c-745efa780a6f",
+      "Name": "Asuras Allure NoStraps"
+    },
+    {
+      "UUID": "6ef28bde-bb60-4bea-a37e-5a1a63bbbc95",
+      "Name": "Bhaal's Bride Gown"
+    },
+    {
+      "UUID": "d346b11f-d7e3-40b3-b0b5-0c84766b0226",
+      "Name": "Daisy Dress"
+    },
+    {
+      "UUID": "e955da05-701e-42a5-a53b-64b1943c9598",
+      "Name": "Eden Dress"
+    },
+    {
+      "UUID": "9d0a3577-242e-4263-b854-0e66c3a5eae2",
+      "Name": "Evenstar Dress"
+    },
+    {
+      "UUID": "51871a97-0e72-4723-a83a-a67c7ab5faa6",
+      "Name": "Gown of the Arachne BaeQeshel"
+    },
+    {
+      "UUID": "25a7d86e-993c-49d5-8c82-66e1590b5f64",
+      "Name": "Infernal Sorceress"
+    },
+    {
+      "UUID": "7603ad68-c832-407f-81bc-43e3f14e9a0e",
+      "Name": "Robe of the Dragon Empress"
+    },
+    {
+      "UUID": "a6109e54-930e-49e2-ab5f-53d350192547",
+      "Name": "Robe of the TigerLily"
+    },
+    {
+      "UUID": "70de75bb-e0d6-4983-a4bd-963225caf743",
+      "Name": "Seluna Gown"
+    },
+    {
+      "UUID": "303a1752-bc1c-443a-9a76-adfbfeb9427c",
+      "Name": "Atlantis Dress"
+    },
+    {
+      "UUID": "859b5cb0-1db8-4e17-ae8c-a5275dd38065",
+      "Name": "Gladiolus Dress"
+    },
+    {
+      "UUID": "43cbe694-2882-4e4b-a6b0-df3aa15f226d",
+      "Name": "SR Divinity"
+    },
+    {
+      "UUID": "5ee135d5-0c55-40a7-87bb-10a451c29a7f",
+      "Name": "Calcharo"
+    },
+    {
+      "UUID": "037b1f4a-4f88-4aa7-a033-53baf27a6799",
+      "Name": "Yuzuhira"
+    },
+    {
+      "UUID": "a02e92e0-2ef5-4173-899e-6c8f3d4aaa96",
+      "Name": "Rover"
+    },
+    {
+      "UUID": "5b13c31e-d731-45e4-9968-4d26c993d8bf",
+      "Name": "Ophelia's High Heels Haute Couture"
+    },
+    {
+      "UUID": "94fed047-7d79-41e3-9d1c-1a3b3de781e4",
+      "Name": "More Mage Gear - No Vendors"
+    },
+    {
+      "UUID": "666afdba-fbd7-4a3c-b5a7-abc97ed552f9",
+      "Name": "Tasha's Cauldron of Outfits"
+    },
+    {
+      "UUID": "b760d78d-c6b9-49b2-a2ea-554021c2f5b9",
+      "Name": "Slutty_Closet"
+    },
+    {
+      "UUID": "2031275d-febb-48ed-ad57-f1c4a20fe43a",
+      "Name": "OnyxMonkCollection"
+    },
+    {
+      "UUID": "2cd6c65a-71cc-4db6-bfb2-70116ccd2b94",
+      "Name": "Extra Gear - No Vendors"
+    },
+    {
+      "UUID": "f2004946-eb73-4b4e-8603-29597e39b259",
+      "Name": "Extra Gear - Tutorial Chest Add-on"
+    },
+    {
+      "UUID": "5f0e92aa-9aa7-4376-8435-d28de4ebc848",
+      "Name": "AW_Guts"
+    },
+    {
+      "UUID": "c6f7cfeb-3d7f-9bed-b579-a70705dd9a0c",
+      "Name": "Big Weapons Enabler"
+    },
+    {
+      "UUID": "c8615741-6fca-435f-bfb6-af0cbabc78f4",
+      "Name": "Aatrox_Blade"
+    },
+    {
+      "UUID": "60031a86-10fe-4d74-92b8-70718285593c",
+      "Name": "Grym Rewards"
+    },
+    {
+      "UUID": "5c68f369-07f6-40f2-9b6a-da694fcdc36d",
+      "Name": "AutoVeils"
+    },
+    {
+      "UUID": "59b488db-40eb-4a1b-93d3-2d8bfd683aa7",
+      "Name": "Veils of Faerun - Tail Slot"
+    },
+    {
+      "UUID": "de95d823-f91d-48e3-a2aa-bbbddd109d0f",
+      "Name": "SR Legacies"
+    },
+    {
+      "UUID": "42667d38-77c3-46bf-9739-e1dad754801a",
+      "Name": "PK Haunted Sea Set"
+    },
+    {
+      "UUID": "04b2bfdb-de2a-41e6-8798-011165cbd40e",
+      "Name": "PK Armors and Clothes"
+    },
+    {
+      "UUID": "6d37b2cb-e372-4ab7-b284-09f3ab533eb9",
+      "Name": "CBR_CitizenOutfits"
+    },
+    {
+      "UUID": "f17c9dc9-86cc-4bdf-87d1-e67568568c69",
+      "Name": "CBR_BanditArmors"
+    },
+    {
+      "UUID": "9200b207-328e-4432-98e8-88a6cd735511",
+      "Name": "Fancy Camp Clothes"
+    },
+    {
+      "UUID": "8e8ca04d-7ecd-4e9f-a54d-e852a6b30b57",
+      "Name": "Fancy Camp Clothes - Armor Add-on"
+    },
+    {
+      "UUID": "608451d4-a338-4e74-a730-930072276aff",
+      "Name": "Aria's Collection"
+    },
+    {
+      "UUID": "e5dafc10-42b0-40e0-8bbb-d0e874ad2727",
+      "Name": "Ash's Armor"
+    },
+    {
+      "UUID": "1bcbfe59-329c-4150-9744-5c374875335f",
+      "Name": "BATTLEMAGE_F"
+    },
+    {
+      "UUID": "c98c055a-f0ad-488a-9289-2dab202faa21",
+      "Name": "CASUAL_LEATHER"
+    },
+    {
+      "UUID": "e5d0ed42-a4ae-12f4-7a20-8d48ae38aa42",
+      "Name": "CL_Dastardly Accoutrement - Rogue Gear"
+    },
+    {
+      "UUID": "9f83056c-7af4-40e5-aa46-be132cf1f5d6",
+      "Name": "Dead or alive - Kasumi and Ayane's wardrobe"
+    },
+    {
+      "UUID": "f30ac1e7-20ba-466b-82bc-7cc4d02fdb03",
+      "Name": "Gold_Chains"
+    },
+    {
+      "UUID": "03385f7b-5de8-9447-762f-68f8c82bd032",
+      "Name": "Orchid Fall Dress"
+    },
+    {
+      "UUID": "0e1b8e5f-bc6d-49ab-a65e-e12ae369560f",
+      "Name": "Sauron Armor"
+    },
+    {
+      "UUID": "03e0d5d8-a027-4664-8222-030ba968fe03",
+      "Name": "Shadowghast Armor"
+    },
+    {
+      "UUID": "73928ffc-07c0-46ac-8cf4-86a693b0cd92",
+      "Name": "Scantily Camp Outfit"
+    },
+    {
+      "UUID": "609c67c6-ebd5-8d7c-f2a2-f994483e6cc8",
+      "Name": "Ziva_CrossCut_Dress"
+    },
+    {
+      "UUID": "e8c91dd8-c8e4-7306-151b-221d6e3bd60e",
+      "Name": "Ziva_Long_Gloves"
+    },
+    {
+      "UUID": "404282f3-2eb6-4b4f-82e6-7878b63c9e67",
+      "Name": "Frost Knight Set By REN"
+    },
+    {
+      "UUID": "98db5196-ac60-426c-af90-6983b634d76e",
+      "Name": "Queen Marika Set BY REN"
+    },
+    {
+      "UUID": "51fda31c-ac21-46ed-acfd-14eb5b0a7906",
+      "Name": "Sylvanas Windrunner Armor By REN"
+    },
+    {
+      "UUID": "fdcba160-1c08-4938-8d70-02cd95f44f08",
+      "Name": "P4 Custom Dyes"
+    },
+    {
+      "UUID": "ec242417-f146-78b8-05f9-fd065380ad91",
+      "Name": "MyshkaComesToCamp"
+    },
+    {
+      "UUID": "586763a3-2126-cdac-5549-c6b945d56cf8",
+      "Name": "AlwaysSaveAlfira"
+    },
+    {
+      "UUID": "4cb0fd40-7212-4fe9-8733-9a8dbc6637ae",
+      "Name": "unique_tav"
+    },
+    {
+      "UUID": "00956b6f-8b55-4879-bd46-68d1ba7ef31b",
+      "Name": "EotB Main - EyesOfTheBeholder"
+    },
+    {
+      "UUID": "213ad42f-3492-473a-af13-e89e33d4b1c7",
+      "Name": "EotB Eye Preset - CatGlowEyes"
+    },
+    {
+      "UUID": "8869869d-4c11-4113-ae13-ed4a7011f7b7",
+      "Name": "unique_tav_EotB_patch"
+    },
+    {
+      "UUID": "56f43956-b1cb-43c6-badc-782c1e0def0f",
+      "Name": "Myky's Heads"
+    },
+    {
+      "UUID": "9aba9004-0c15-4b76-b295-aaa330fffb35",
+      "Name": "✺Jules' Heads✺"
+    },
+    {
+      "UUID": "8c611d4b-75d9-40eb-ad61-15f898396e12",
+      "Name": "Faces of Faerun"
+    },
+    {
+      "UUID": "5b7b7951-4b9c-4c0b-9d9b-efe8a2f89567",
+      "Name": "Myky's Heads - Unique Tav Patch"
+    },
+    {
+      "UUID": "6861c4bd-5dcb-466b-892d-db9f3ed5a805",
+      "Name": "Myky's Heads - EotB Patch"
+    },
+    {
+      "UUID": "9cde443e-0de2-42d3-88a5-11715b00f906",
+      "Name": "Lydia's Heads - Servants of the Raven Queen"
+    },
+    {
+      "UUID": "a5d19c1b-2e3e-44a8-84a6-8ca254cb4af8",
+      "Name": "Lydia's Heads - Servants of the Raven Queen - EotB Patch"
+    },
+    {
+      "UUID": "5976b3ef-0bc0-4509-9e66-b739ff97fc33",
+      "Name": "Koralina's Aesthetics - Even More Heads"
+    },
+    {
+      "UUID": "f33e3a68-a146-5021-cad1-bc27c55f00f6",
+      "Name": "NPC_Visual_Overhaul"
+    },
+    {
+      "UUID": "64d721c2-503f-f26e-6965-207c78747d3f",
+      "Name": "NPC_Visual_Overhaul_Update"
+    },
+    {
+      "UUID": "e7f3e287-3706-4f5e-9be0-28b90ac29186",
+      "Name": "NPC Visual Overhaul for Tav"
+    },
+    {
+      "UUID": "17b82464-320c-4da4-8530-7b7c55bca2c1",
+      "Name": "NPC Visual Overhaul for Tav (Armor)"
+    },
+    {
+      "UUID": "144130e9-5eaf-48c3-b28f-446a0c2481aa",
+      "Name": "Half-Tiefs"
+    },
+    {
+      "UUID": "d2a95f38-6025-4e83-b753-fecf0de209ae",
+      "Name": "Half Demon"
+    },
+    {
+      "UUID": "cad8c6b9-e9e7-48e0-a140-07b76fc08468",
+      "Name": "Half Demon - Black Wings"
+    },
+    {
+      "UUID": "61b02e59-8ccd-4d90-b56d-3325f5907717",
+      "Name": "Half Demon - White Wings"
+    },
+    {
+      "UUID": "c672b8f9-b948-427e-8b9f-1572983e90e9",
+      "Name": "Half Demon - Wings"
+    },
+    {
+      "UUID": "fdcf51af-12a2-4997-96ac-5bb319c873b7",
+      "Name": "HalfDemon - Smooth Body - Wings"
+    },
+    {
+      "UUID": "179615d8-f7ed-4d7b-b2d4-134ce4756acf",
+      "Name": "Unique Tav - Cambion - Black Wings"
+    },
+    {
+      "UUID": "874ab9a3-52ae-4397-b5cb-7b872369b76b",
+      "Name": "Unique Tav - Cambion - Smooth Body Wings"
+    },
+    {
+      "UUID": "712d59c3-3184-4e39-8c1e-28f977efa20b",
+      "Name": "Unique Tav - Cambion - White Wings"
+    },
+    {
+      "UUID": "55398851-6617-47b0-adee-e83a11165584",
+      "Name": "Unique Tav - Cambion - Wings"
+    },
+    {
+      "UUID": "bddf5bdf-2f0e-4607-9748-a0c2cdea1634",
+      "Name": "Unique Tav - Cambion - Wingless"
+    },
+    {
+      "UUID": "92bfe04b-b305-4af0-8abd-b31191de5bed",
+      "Name": "Alternate Tiefling Tails UT"
+    },
+    {
+      "UUID": "39b74d8a-dfcc-4cad-861b-a66635fb166a",
+      "Name": "Vanilla Hair Mixer"
+    },
+    {
+      "UUID": "93ac9d05-7f07-4ebb-8ee0-d4f23c3be05a",
+      "Name": "Vanilla Hair Mixer NPCs"
+    },
+    {
+      "UUID": "85d64b7f-9a87-aeb1-bfdb-96fb031ae2cf",
+      "Name": "Kay's Hair Extensions"
+    },
+    {
+      "UUID": "80fb12aa-1d82-4df4-af42-7beae9250fb2",
+      "Name": "P4 Bangs Bangs Everywhere"
+    },
+    {
+      "UUID": "405c762d-8f07-4b91-a1ef-d58a9ec2a0a0",
+      "Name": "Toarie's New Character Creation Presets WIP"
+    },
+    {
+      "UUID": "1d03bb84-5fa3-4f99-be8b-11d2190a097a",
+      "Name": "HGY Heads (EOTB + UTav)"
+    },
+    {
+      "UUID": "ef0fb0e3-a4e1-4672-84b3-bc63260e12af",
+      "Name": "Vemperen's Other Heads"
+    },
+    {
+      "UUID": "0b069063-5304-4cce-949d-96626be3530a",
+      "Name": "Dark Urges - Standalone"
+    },
+    {
+      "UUID": "cabf8e33-25dd-426f-8cee-18265d76c985",
+      "Name": "Dark Urges - EOTBUTAV Patch"
+    },
+    {
+      "UUID": "93fa0451-a092-4cc3-9e6f-a92e7a9f8620",
+      "Name": "[OG] Guts - EOTBUTAV"
+    },
+    {
+      "UUID": "45e385c0-cfc9-4fb9-a326-1d4a305edf4f",
+      "Name": "Nathra's Head"
+    },
+    {
+      "UUID": "8377a991-ae75-4286-8841-a9be74aada4d",
+      "Name": "xx Head HEL"
+    },
+    {
+      "UUID": "b7d775c9-02dc-483c-b147-ed0e6e9aff95",
+      "Name": "Blaze Elin and Mizora Heads"
+    },
+    {
+      "UUID": "dac02e51-f800-4296-8b00-68a4b13dda79",
+      "Name": "Blaze Elin and Mizora Heads - EotB Patch"
+    },
+    {
+      "UUID": "69098a16-b832-499d-9e23-0a303f271103",
+      "Name": "✺Lana and Lacy✺"
+    },
+    {
+      "UUID": "f487ab4b-2b8f-47f9-bed0-69bebceb4f56",
+      "Name": "PK Elven Squad"
+    },
+    {
+      "UUID": "0eef190a-dc3f-42ce-9ad2-59b72208988e",
+      "Name": "Elven Squad uTav patch"
+    },
+    {
+      "UUID": "1665891c-400d-46a0-ab6e-e97b682f18dd",
+      "Name": "Elven Squad EotB patch"
+    },
+    {
+      "UUID": "a0d005b6-223c-46ff-9ec7-49df5bc0f28c",
+      "Name": "Fizz's Head Mod - Eyes of the Beholder and Unique Tav"
+    },
+    {
+      "UUID": "3eee7200-03ee-a298-df9c-16fe7f6bd6bb",
+      "Name": "MiYaThs_Head_PBE"
+    },
+    {
+      "UUID": "b4c5248d-03a2-4455-945b-a4a93b47aafe",
+      "Name": "MiYaThs_Head_PBE_Patch_EOTB"
+    },
+    {
+      "UUID": "a269c53d-34ba-43e9-a616-2196f36be790",
+      "Name": "MiYaThs_Head_PBE_Patch_UTAV"
+    },
+    {
+      "UUID": "247e0be2-a856-4baf-8e27-989a5b224d95",
+      "Name": "Pretty Guys by JGS"
+    },
+    {
+      "UUID": "1a2b549d-7dce-4f69-de4b-28c530e7438d",
+      "Name": "ShanesUniqueHeads"
+    },
+    {
+      "UUID": "9d6cac33-38b8-1cff-8e32-989d9a23dd1c",
+      "Name": "UTPatch-ShanesUniqueHeads"
+    },
+    {
+      "UUID": "9cc190f9-162b-b09b-8797-32a31fffb7b0",
+      "Name": "EOTBPatch_ShanesUniqueHeads"
+    },
+    {
+      "UUID": "25925f26-f8bd-4a96-d5d6-a9ee36963748",
+      "Name": "FacesUnlocked"
+    },
+    {
+      "UUID": "daac0461-1645-b8be-a79f-da88c81e6396",
+      "Name": "P4 Companion Heads for Tav"
+    },
+    {
+      "UUID": "c367d0fc-34ad-214b-0b11-fe0f2460c2d3",
+      "Name": "P4 Other NPC Heads for Tav"
+    },
+    {
+      "UUID": "0b051a3d-3f8e-4f12-a6df-a2feca729327",
+      "Name": "HW_HeadEdits"
+    },
+    {
+      "UUID": "3a465e4f-7e54-4d7e-8338-c1a8f8e11d11",
+      "Name": "HW_WitcherHeads"
+    },
+    {
+      "UUID": "6b381f1f-d384-0f17-33f5-fc03ae60bad1",
+      "Name": "HairUnlocked"
+    },
+    {
+      "UUID": "0f86b73c-928c-033f-6d2d-abf4f06f462f",
+      "Name": "Jerinski's Alt Hairs - p7"
+    },
+    {
+      "UUID": "d5c66cd2-5c63-4088-97a1-c8e51938e965",
+      "Name": "Noctis Hair"
+    },
+    {
+      "UUID": "bc5b8ee6-b32a-4fae-8884-be6162af02dd",
+      "Name": "Jun's Amateur Hair All-in-One"
+    },
+    {
+      "UUID": "a74f66a7-ea0b-40c9-a17f-9dd1eb66841e",
+      "Name": "Jun's Hair Mixer"
+    },
+    {
+      "UUID": "d78a776d-b03a-7ecd-6fd3-10e8b406f310",
+      "Name": "Lae'zel Alt Hair for Tav"
+    },
+    {
+      "UUID": "54ebec6c-00ce-48e1-8b75-53b6b72ecc3a",
+      "Name": "Vessnelle_Hair1"
+    },
+    {
+      "UUID": "d357aca8-e222-4c09-8b49-54354405502e",
+      "Name": "Vessnelle_Hair2"
+    },
+    {
+      "UUID": "fb9c340a-771a-46e8-bc7c-0d40b80c1885",
+      "Name": "Vessnelle_Hair3"
+    },
+    {
+      "UUID": "7661f2db-28a1-44d0-a52a-9485cf9019eb",
+      "Name": "Vessnelle_Hair4"
+    },
+    {
+      "UUID": "6ce98c5e-5b71-4433-b9e5-b8833c25833b",
+      "Name": "Fairy_Hairstyle"
+    },
+    {
+      "UUID": "cd6fbba8-9777-4de2-86c2-dc11252b6aa8",
+      "Name": "Fairy_Hairstyle_No_Bangs"
+    },
+    {
+      "UUID": "5996622f-5711-3c82-a641-cd19382c74d1",
+      "Name": "Heroic Hairstyles"
+    },
+    {
+      "UUID": "79d2e528-8df6-b307-59d9-058aed9f9ac2",
+      "Name": "hijimare_hairs"
+    },
+    {
+      "UUID": "4abff488-4bf8-4afc-a4a1-c1e25fd5c8fc",
+      "Name": "Jun's Hair Pack 2 (All in One)"
+    },
+    {
+      "UUID": "9b4ebeae-112c-dccf-ca35-b7c1197aee01",
+      "Name": "Kay's Hair Mod"
+    },
+    {
+      "UUID": "dfbf4911-deb5-462d-ba2e-c88dcd0450c9",
+      "Name": "KirbyHairPack"
+    },
+    {
+      "UUID": "c4100869-a15c-4f8c-a72b-eea8aa1ce207",
+      "Name": "Physics Hair Pack"
+    },
+    {
+      "UUID": "e2fa9b96-80e4-4c25-a76d-742a4f4117e9",
+      "Name": "Shadowheart Lets Her Hair Down"
+    },
+    {
+      "UUID": "95b622ab-17de-353d-caa0-0199300a3394",
+      "Name": "Shadowheart's Hair Accessory for CC"
+    },
+    {
+      "UUID": "ab47d773-3601-4cf9-aec2-e3412b73f351",
+      "Name": "Stellar Ponytails"
+    },
+    {
+      "UUID": "42d53dfe-2348-953a-1933-22828014af0b",
+      "Name": "wizardly-updo-tav-nexus"
+    },
+    {
+      "UUID": "eb330d7b-4607-4e1c-86a2-966ff6b198bd",
+      "Name": "BW Viking Hairstyle"
+    },
+    {
+      "UUID": "9a2f1b69-b5ba-46ee-af68-2c6d8d70fe18",
+      "Name": "Kylin's Sharran Hairpack"
+    },
+    {
+      "UUID": "da0b99ca-4406-49c1-bef9-3a08621280a2",
+      "Name": "Tav's Hair Salon - Tav's Hairpack"
+    },
+    {
+      "UUID": "bfad4cdb-0b02-435a-96c7-06c0f6533055",
+      "Name": "Tav's Hairpack - Icon Patch"
+    },
+    {
+      "UUID": "dfdb69c0-23ed-46a7-83bb-39fbbb84308c",
+      "Name": "Toarie's Autosnap Hairpack"
+    },
+    {
+      "UUID": "8e8817b1-f50e-46c5-8db6-6d0e0b879fe4",
+      "Name": "Toarie's Autosnap Hairpack - Icon Patch"
+    },
+    {
+      "UUID": "8201a78c-1254-42a0-a9b3-0a8ea046c5b7",
+      "Name": "Dissidia's Hair for all Types"
+    },
+    {
+      "UUID": "4909b11d-fa26-4fd0-8c5b-9d8612ca07db",
+      "Name": "PK Hair Collection"
+    },
+    {
+      "UUID": "df1ae16a-92ce-a6d2-e76e-8dd79f064189",
+      "Name": "Hawke | Dragon Age 2"
+    },
+    {
+      "UUID": "3afd79c7-cf97-b4fa-1d24-e028753ffab5",
+      "Name": "Alternate Horns for All"
+    },
+    {
+      "UUID": "cfed36c5-82d2-41c3-a287-f679e96b4ca0",
+      "Name": "Horns of Faerun Modded Races Patch"
+    },
+    {
+      "UUID": "4d200a02-3fb7-48b8-bff3-bf7bb9df00c2",
+      "Name": "P4_Eye_Colours"
+    },
+    {
+      "UUID": "b0c1b53b-0d9b-43b4-803d-1cc62aa9389c",
+      "Name": "ASTRL Demon Eyes"
+    },
+    {
+      "UUID": "7a741e61-cf7c-46cc-b1b5-b67fbefd2ff4",
+      "Name": "ASTRL Hair Color Collection"
+    },
+    {
+      "UUID": "525600ac-ca07-4745-a5bc-0a620975e2f3",
+      "Name": "ASTRL Hair Color Supplement"
+    },
+    {
+      "UUID": "2abc5f1e-d0a9-4cbd-b859-b738a4bbb59c",
+      "Name": "ASTRL Hair Color Compatibility Patch"
+    },
+    {
+      "UUID": "04d882a5-a1c8-4527-8772-3973d6b11aa5",
+      "Name": "ASTRL Understated Eyes"
+    },
+    {
+      "UUID": "d1927184-8763-4d70-ae52-8295f791548a",
+      "Name": "ASTRL Glowing Eyes"
+    },
+    {
+      "UUID": "4b1035f1-6e41-4591-8516-72752a448681",
+      "Name": "ASTRL Glowing Eyes Unique Tav Patch"
+    },
+    {
+      "UUID": "31a373b2-5943-4a22-8aa5-410ca33792a5",
+      "Name": "ASTRL Wondrous Skintones"
+    },
+    {
+      "UUID": "272fdafb-1322-4c19-97da-795a3e12ad98",
+      "Name": "P4 Horn, Makeup, Lip and Tattoo Colours"
+    },
+    {
+      "UUID": "4415ed38-ca93-407d-863d-75d4c5a2941c",
+      "Name": "Magic Mirror Menu"
+    },
+    {
+      "UUID": "7ba854b8-16b8-465e-a85c-5664f09b78d2",
+      "Name": "HW_BoringSkin"
+    },
+    {
+      "UUID": "78537082-46a0-42c7-a718-d2dc9950cfdd",
+      "Name": "ASTRL Fantasy Skintones"
+    },
+    {
+      "UUID": "e6eb4b0f-a921-4632-b324-05c0619fcdc1",
+      "Name": "ASTRL Feywild Eyes"
+    },
+    {
+      "UUID": "0ea2fbb8-6d23-4910-9a3b-a20fbd555240",
+      "Name": "ASTRL Haircolor Overhaul"
+    },
+    {
+      "UUID": "da0e8d69-535c-4218-a42f-118c377184ca",
+      "Name": "ASTRL Sublime Skintones"
+    },
+    {
+      "UUID": "3730cd4c-ddb9-d7ef-83d3-280a9a70aa2c",
+      "Name": "BrushYourTeeth"
+    },
+    {
+      "UUID": "de3f9fbb-277d-4144-b623-8465a2ea00ab",
+      "Name": "sejha'slemons"
+    },
+    {
+      "UUID": "796c7e2f-f728-4e08-8511-1ce7332527ab",
+      "Name": "NPC Eye, Skin, Hair Colours"
+    },
+    {
+      "UUID": "d7c79fa9-2f27-4800-af9b-7a50347023d6",
+      "Name": "EotB Extra - ExtraEyeColors"
+    },
+    {
+      "UUID": "41623460-d63d-5726-ddee-47785a77fc28",
+      "Name": "Tiefling Glowing Eyes Restored"
+    },
+    {
+      "UUID": "470714b1-7b5b-1866-4730-056ba9d258e8",
+      "Name": "Vanilla CC Colours For All Sections"
+    },
+    {
+      "UUID": "b2c7c572-faaa-43ae-8609-29d16fd83bb0",
+      "Name": "Patches for CC Races lsx"
+    },
+    {
+      "UUID": "33bcde01-5eeb-af6e-e8b5-2d5ad8750a42",
+      "Name": "LevelCapExtender6X"
+    },
+    {
+      "UUID": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Name": "Expansion"
+    },
+    {
+      "UUID": "6ed1f4e3-c53a-4b66-bbfe-03620e8c956b",
+      "Name": "Additional Fighting Styles"
+    },
+    {
+      "UUID": "67efbfbe-066a-e43c-88d6-152a9bc39079",
+      "Name": "Azzazzin Rogue Rework"
+    },
+    {
+      "UUID": "7066e995-e7fc-3932-10db-9d2c9c7de8c8",
+      "Name": "Oath of Conquest"
+    },
+    {
+      "UUID": "ecc0c754-0911-462e-8983-dcffe56c4d8d",
+      "Name": "DEchoKnight"
+    },
+    {
+      "UUID": "0c50deb2-303c-4e00-9bc7-a60a347d6593",
+      "Name": "ObjectCharacterSupport"
+    },
+    {
+      "UUID": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
+      "Name": "Hexblade"
+    },
+    {
+      "UUID": "9772bb83-087c-405e-bb64-5ea5c3bf49f2",
+      "Name": "HexbladeInvocations"
+    },
+    {
+      "UUID": "7cc2bb72-2d1d-6eeb-8d0b-e3297d9ea0cc",
+      "Name": "Rogue Custom Subclass - The Thug"
+    },
+    {
+      "UUID": "48cc6be3-f1c4-4acb-9172-189f13b1d753",
+      "Name": "JWL Drop All The Loot"
+    },
+    {
+      "UUID": "64c11002-4925-4a73-982b-e018034627f1",
+      "Name": "Drow_Weaponry_Fencer"
+    },
+    {
+      "UUID": "33742ca9-1c9f-3df0-8329-6996eef9a27e",
+      "Name": "More Weapon Action"
+    },
+    {
+      "UUID": "24837620-8879-b24a-aa37-554c1268a027",
+      "Name": "Sneak Attack Plus of yms"
+    },
+    {
+      "UUID": "06f04781-e78a-4949-9a18-32000ef7e0ca",
+      "Name": "Ley's Origin Legacy"
+    },
+    {
+      "UUID": "0133ef9e-932b-4c78-ae1c-2c595acec213",
+      "Name": "More Spell Choices"
+    },
+    {
+      "UUID": "bfcfdce6-d98b-4bd8-a0bc-caa33ffc793f",
+      "Name": "ShadowofMoil"
+    },
+    {
+      "UUID": "c425cc39-44bf-049a-3479-edc38013ae9c",
+      "Name": "Visual Auras for Paladins - NexusMods Version"
+    },
+    {
+      "UUID": "c7c3ba79-97bd-411e-82f4-1c615e9945a7",
+      "Name": "TradeWithWithers"
+    },
+    {
+      "UUID": "198749c1-18c4-4c4f-bc68-199679719edf",
+      "Name": "TradeWithWithersAddonAIO"
+    },
+    {
+      "UUID": "fab6a124-7087-4693-89ba-4ebd4dc8fe0b",
+      "Name": "TradeWithWithersResetInventory"
+    },
+    {
+      "UUID": "0a4b83d3-d7cc-4fd9-a7d9-eef91aff1b78",
+      "Name": "DIQ Clothing Patches"
+    },
+    {
+      "UUID": "7b8f43fa-0484-4529-ac11-fab84c05b05d",
+      "Name": "DIQExtras_Clothing_Patches"
+    },
+    {
+      "UUID": "8297742e-0fb5-4c38-8acc-1b687bf0b8eb",
+      "Name": "DIQ_Dye_Patches"
+    },
+    {
+      "UUID": "59f3141a-b60d-46e8-b0d0-dfc49166d698",
+      "Name": "DIQ_Miscitem_Patches"
+    },
+    {
+      "UUID": "a3583c4a-3dd4-4190-8747-bc06494d122b",
+      "Name": "Trade_With_Withers_Addon_Containers"
+    },
+    {
+      "UUID": "5970ab74-a8f5-4607-8b34-41d8b5c7df1c",
+      "Name": "TraderClutterBegone"
+    },
+    {
+      "UUID": "cb7e1417-b014-3648-3673-f7665645e782",
+      "Name": "Gortash Concept Art Hair"
+    },
+    {
+      "UUID": "6be5565e-7e0d-4edd-bb35-84e68d98d900",
+      "Name": "Terpsichore — Wyll Hair"
+    },
+    {
+      "UUID": "cfc82acc-e0ec-4f12-b39a-bdde3a2c7246",
+      "Name": "Wyll's Devil Form"
+    },
+    {
+      "UUID": "14edd72f-efd0-43d9-b0ba-3290485e5c58",
+      "Name": "Terpsichore — Wyll Hair Devil Form Patch"
+    },
+    {
+      "UUID": "46818a22-079d-4346-8b3f-3f47dbeeecf9",
+      "Name": "Karlach's Glowing Horns"
+    },
+    {
+      "UUID": "04a92aed-1410-44fc-9a56-0798f25dd2a3",
+      "Name": "Karlach's Long Hair"
+    },
+    {
+      "UUID": "a78e620f-1192-079d-2ccc-be5ff556fd8e",
+      "Name": "Karlach Burning Immune and Attacks Have Fire Damage"
+    },
+    {
+      "UUID": "7ca8b33a-1594-2b31-1f5f-60aac0557458",
+      "Name": "(Very) Subtle Astarion Edit"
+    },
+    {
+      "UUID": "144d06dd-7bf7-4016-94c1-d03f3f0836ea",
+      "Name": "No Abs Astarion"
+    },
+    {
+      "UUID": "81d75b71-136c-4163-a988-1c6e9c2ca84e",
+      "Name": "Jax' Companion Edits - Gale"
+    },
+    {
+      "UUID": "1ce3f4e7-eb77-4654-af37-e199085b7e91",
+      "Name": "Concept Art Styled Withers"
+    },
+    {
+      "UUID": "1cbc51fa-57ba-7dc0-900c-fb55e12a55f6",
+      "Name": "AntifaLafel_RedesignedCampWilderness"
+    },
+    {
+      "UUID": "90f3a982-58bb-4b8c-aa19-73ec4322a00a",
+      "Name": "CBR_MOXI_Scene_Library"
+    },
+    {
+      "UUID": "636d2850-f9fe-4c07-9ea7-d4a2ed871c0a",
+      "Name": "Trips_Shader"
+    },
+    {
+      "UUID": "5a4a09a2-515b-4907-9796-a8b7f9ecbb24",
+      "Name": "Cazador Death Music Restored"
+    },
+    {
+      "UUID": "b6f2e133-0c60-4bb0-be23-803d4e0d2363",
+      "Name": "Dark Urge Banter Dialogue Fixes"
+    },
+    {
+      "UUID": "293739c4-617c-438b-b9f0-1dbbfe142f81",
+      "Name": "Immersive UI"
+    },
+    {
+      "UUID": "39764f2e-0850-4456-b508-30e4c3e7edcd",
+      "Name": "Immersive UI - All - with Player Portrait Variant"
+    },
+    {
+      "UUID": "68d4586d-1790-4198-8faa-1490c1df73ba",
+      "Name": "Immersive UI - Combat Log"
+    },
+    {
+      "UUID": "b5019864-b710-4349-8079-14fa4894c4a8",
+      "Name": "Immersive UI - Hotbar"
+    },
+    {
+      "UUID": "91bb3015-e00e-4263-b88d-a2e54b0f8424",
+      "Name": "Patches_for_VFX_Heads"
+    },
+    {
+      "UUID": "d5bd3c76-3527-44e2-8886-30aef1f28b99",
+      "Name": "Terpsichore - Wyll Portraits"
+    },
+    {
+      "UUID": "b1d6e2b0-7a1b-47a6-a210-a513d14feb39",
+      "Name": "Terpsichore - Wyll Portraits DF"
+    },
+    {
+      "UUID": "43922268-70ef-47a6-83ca-20be247c3a34",
+      "Name": "Wyll Meets His Hero Fix"
+    },
+    {
+      "UUID": "67fbbd53-7c7d-4cfa-9409-6d737b4d92a9",
+      "Name": "CompatibilityFramework"
+    },
+    {
+      "UUID": "b535bdb7-2df5-cbe7-5012-ef366d124716",
+      "Name": "Mod Manager Fixes And Tweaks"
+    }
+  ]
+}

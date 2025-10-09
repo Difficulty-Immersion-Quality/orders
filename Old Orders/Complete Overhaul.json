@@ -1,0 +1,824 @@
+{
+  "Order": [
+    {
+      "UUID": "00000000-0000-0000-0000-ImprovedUI12",
+      "Name": "ImprovedUI"
+    },
+    {
+      "UUID": "396c5966-09b0-40a1-af3f-93a5e9ce71c0",
+      "Name": "CommunityLibrary"
+    },
+    {
+      "UUID": "fb5f528d-4d48-4bf2-a668-2274d3cfba96",
+      "Name": "5eSpells"
+    },
+    {
+      "UUID": "84958e84-fd62-474f-bd1f-cbabc132c4b3",
+      "Name": "HomebrewSpells"
+    },
+    {
+      "UUID": "cb92db0c-634d-438c-8580-f45555555555",
+      "Name": "2e Spells"
+    },
+    {
+      "UUID": "9deeb371-f01e-41b4-b20e-c5eee0751b12",
+      "Name": "Valkrana's Spellbook"
+    },
+    {
+      "UUID": "4222f86c-4408-4659-8185-ea93b7590398",
+      "Name": "ExtraAttackCompatibility"
+    },
+    {
+      "UUID": "eef7b885-1423-4096-abd6-7a5db5f871db",
+      "Name": "Clerics"
+    },
+    {
+      "UUID": "2831844d-e3bf-4d46-9920-71a2af947aac",
+      "Name": "Swarmkeeper"
+    },
+    {
+      "UUID": "a951d531-dd86-4ff6-8d96-a5358fa95821",
+      "Name": "Drakewarden"
+    },
+    {
+      "UUID": "234262d5-7bf8-4ecf-a0f9-0d5544fb40ed",
+      "Name": "Circle of Spores Enhanced"
+    },
+    {
+      "UUID": "81d10c14-3abb-41d6-a6a6-78daab7076d5",
+      "Name": "CircleofDreams"
+    },
+    {
+      "UUID": "7588b857-8bae-4967-a73c-20f7833ae26f",
+      "Name": "Circle of Stars"
+    },
+    {
+      "UUID": "c9cfbec9-136f-40de-a12e-33650efea178",
+      "Name": "CircleofWildfire"
+    },
+    {
+      "UUID": "11e9dcba-c739-4ce0-a51e-a909a4d3d12c",
+      "Name": "PathOfTheStormHerald"
+    },
+    {
+      "UUID": "f1d9a7e0-7b48-4e36-abf5-ce2e312f7ee4",
+      "Name": "ArcaneArcher"
+    },
+    {
+      "UUID": "ee3cd8a6-16a7-4963-847e-2e2238b8f315",
+      "Name": "BB26FighterSubclasses"
+    },
+    {
+      "UUID": "fe0f0a6b-8c7c-40a2-bf12-af6f06ae3172",
+      "Name": "RuneKnight"
+    },
+    {
+      "UUID": "afe5e32a-2554-40d1-8c41-7cbc2d73a8c7",
+      "Name": "Brute (RAW)"
+    },
+    {
+      "UUID": "67cbd005-166c-4f76-b822-a19a4a41e615",
+      "Name": "newsamurai"
+    },
+    {
+      "UUID": "67cbd005-166c-4f76-b822-a19a4a41e610",
+      "Name": "newshogun"
+    },
+    {
+      "UUID": "744ab9dc-35c6-4949-836c-2a19a64d2469",
+      "Name": "PsiKnight"
+    },
+    {
+      "UUID": "74b2a448-6771-4289-9393-d359c3b79596",
+      "Name": "Oath of Conquest"
+    },
+    {
+      "UUID": "e48d404b-5ef4-4808-8116-8db9e473c7ae",
+      "Name": "Shadowdancer"
+    },
+    {
+      "UUID": "88fadf2c-152d-404e-b863-c12273559e1c",
+      "Name": "Artificer"
+    },
+    {
+      "UUID": "a80fe6de-5ee2-49e2-99dc-381aae17f282",
+      "Name": "Dragon Sorcerer+"
+    },
+    {
+      "UUID": "38291fe1-40a3-4af7-bbbd-c9a55f3e39c0",
+      "Name": "BG3ShadowSorcerer"
+    },
+    {
+      "UUID": "f48b2612-4d95-4601-b324-b8a07c9d90be",
+      "Name": "StoneSorcery"
+    },
+    {
+      "UUID": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
+      "Name": "Hexblade"
+    },
+    {
+      "UUID": "5d30acc9-66aa-482b-8802-33aad93995e4",
+      "Name": "FathomlessWarlock"
+    },
+    {
+      "UUID": "d213482c-2d43-4f78-9ed4-d86f577b6017",
+      "Name": "UndeadWarlock"
+    },
+    {
+      "UUID": "ca178e33-4534-4d02-b40c-ae25fe885647",
+      "Name": "Formless"
+    },
+    {
+      "UUID": "0cb5018a-f898-4446-9b9e-8f7a6c3fa9ea",
+      "Name": "GenieWarlock"
+    },
+    {
+      "UUID": "2e686664-8fbb-4e08-9ec2-3eea5d0300ab",
+      "Name": "DreadOverlord"
+    },
+    {
+      "UUID": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Name": "Expansion"
+    },
+    {
+      "UUID": "be37a0e6-f2bc-46f3-b98d-8cfbe977053a",
+      "Name": "FFT_WizardTraditions_WarMagic"
+    },
+    {
+      "UUID": "c62ae435-c1a4-41b7-b887-4f24a6dcd846",
+      "Name": "Graviturgy Magic"
+    },
+    {
+      "UUID": "bde90ed9-94a3-471e-b59a-95585dff9aec",
+      "Name": "Goblimancy"
+    },
+    {
+      "UUID": "411d5c6e-2bd5-4e4e-ab72-67dcc37b8c0e",
+      "Name": "Blood Hunter"
+    },
+    {
+      "UUID": "b8dcfc1b-d099-4a29-b8f2-f0150b652127",
+      "Name": "Pirate"
+    },
+    {
+      "UUID": "a827da36-4086-4d47-9945-f45555555555",
+      "Name": "Magus"
+    },
+    {
+      "UUID": "2527857d-510f-4587-828f-40a82d4758f7",
+      "Name": "WoWDeathKnightClass"
+    },
+    {
+      "UUID": "b2ac3aa8-ce29-4d53-be47-7121845f3c1c",
+      "Name": "Mystic"
+    },
+    {
+      "UUID": "6ebfb9f9-fa67-4271-810e-4d14463da609",
+      "Name": "Thanator"
+    },
+    {
+      "UUID": "32cf2ce3-b7f1-48c2-85b3-6ed38a09de1a",
+      "Name": "Harlequin Class"
+    },
+    {
+      "UUID": "c5e6c318-85af-40f1-aa4e-65af30279242",
+      "Name": "RedMage"
+    },
+    {
+      "UUID": "804a4c09-773f-468d-804b-377ce0f72d4f",
+      "Name": "WhiteMage"
+    },
+    {
+      "UUID": "d022be01-1a02-4314-a5ce-2a76b4315581",
+      "Name": "Samurai"
+    },
+    {
+      "UUID": "7c024063-e51a-4c22-a597-3fa6111ee8d2",
+      "Name": "Sentinel Class"
+    },
+    {
+      "UUID": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+      "Name": "AlternateMonk"
+    },
+    {
+      "UUID": "9394e7ad-7606-4054-a87a-57ef72301861",
+      "Name": "Deadly_Assasin"
+    },
+    {
+      "UUID": "8821d892-0aa5-46ae-9a69-124e32bdd3db",
+      "Name": "Trap_Hunter"
+    },
+    {
+      "UUID": "0a0a3822-4155-4db1-8646-2d37f5decd03",
+      "Name": "Untamed - CORE - Show All Armour"
+    },
+    {
+      "UUID": "24a2edf2-1618-4102-b902-3349cb779e88",
+      "Name": "MonkAvatar"
+    },
+    {
+      "UUID": "50a6925d-8105-4923-af44-144122556003",
+      "Name": "Vampire Ascendant (Tamed)"
+    },
+    {
+      "UUID": "6ed1f4e3-c53a-4b66-bbfe-03620e8c956b",
+      "Name": "Additional Fighting Styles"
+    },
+    {
+      "UUID": "1dec4f42-78eb-4245-9e5a-dff8d1cd8766",
+      "Name": "VladsGrimoire-ModResources"
+    },
+    {
+      "UUID": "20fea747-21e6-4aaa-734a-50f1cd8b96a9",
+      "Name": "ScarletWarlock-MulticoloredMagic"
+    },
+    {
+      "UUID": "9772bb83-087c-405e-bb64-5ea5c3bf49f2",
+      "Name": "HexbladeInvocations"
+    },
+    {
+      "UUID": "1d6ece6c-b9e1-430e-8263-InvocationsExpanded",
+      "Name": "Invocations Expanded"
+    },
+    {
+      "UUID": "da5d2ea8-51c2-42ba-8d0f-34b5b198a19e",
+      "Name": "MetamagicExtended"
+    },
+    {
+      "UUID": "cebd65f7-ee40-4153-8a9e-a6dfa587a30e",
+      "Name": "5eSpells Last Until Long Rest"
+    },
+    {
+      "UUID": "a35b2cf8-5047-487a-83a4-537d36245b6b",
+      "Name": "Artificer-5e-Addon"
+    },
+    {
+      "UUID": "58cfcdb2-c1b3-440c-8742-078f2b0e7a32",
+      "Name": "AlternateMonk5ESpells Patch"
+    },
+    {
+      "UUID": "b093bc44-ccf9-4eec-b5ec-e96a6f2940f9",
+      "Name": "SecretScrolls5eSpells"
+    },
+    {
+      "UUID": "410dabcc-2249-4e9c-b305-6fd50864494a",
+      "Name": "Improved Dimension Door"
+    },
+    {
+      "UUID": "0bfb4382-5fb8-48a0-bae5-f6921b0ad655",
+      "Name": "MageHandImproved"
+    },
+    {
+      "UUID": "c729da22-9132-400f-a02a-5f6c13b99e85",
+      "Name": "MirrorImageImproved"
+    },
+    {
+      "UUID": "5973bc89-df20-4340-a500-20622acfdcff",
+      "Name": "Blessed Strikes Addon"
+    },
+    {
+      "UUID": "0ce307a2-16ee-4ac9-b7c9-b337a418e0f2",
+      "Name": "Spiritual Weapon Movement Speed"
+    },
+    {
+      "UUID": "47d24f69-20df-4e89-a4dc-78695c13edc2",
+      "Name": "Invoke Duplicity Addon"
+    },
+    {
+      "UUID": "334f636f-abe7-45ef-86c6-df1278a46ce5",
+      "Name": "Savage_Attacker_Unarmed"
+    },
+    {
+      "UUID": "58d187c3-29a9-452d-95bb-086adce32312",
+      "Name": "Savage_Attacks_Unarmed"
+    },
+    {
+      "UUID": "74626d66-8b6e-4b78-8b22-7dfb2656ee9a",
+      "Name": "SpiderWeb"
+    },
+    {
+      "UUID": "0c036a05-f3e4-4422-87bd-eadadf96c161",
+      "Name": "featsextra"
+    },
+    {
+      "UUID": "4b4c82a6-0305-444f-abd3-c81259e6c046",
+      "Name": "paranoidreaction"
+    },
+    {
+      "UUID": "e0c8815a-38b8-461c-b940-df15ecb3d1b7",
+      "Name": "Fighting Initiate Feat"
+    },
+    {
+      "UUID": "26feb662-a9fe-4116-84fb-27fd0b6759ba",
+      "Name": "VitalSacrifice"
+    },
+    {
+      "UUID": "26c29727-92c0-4601-9bf2-043ca3e5b4d8",
+      "Name": "Warcaster"
+    },
+    {
+      "UUID": "e0a72f1e-6e68-45eb-9911-624f6e039499",
+      "Name": "MoreManeuvers"
+    },
+    {
+      "UUID": "274cf3f1-f043-4e1f-8acf-b2e79c3630b8",
+      "Name": "DruidWildShapeOverhaul"
+    },
+    {
+      "UUID": "fb680d2e-1b11-4506-b03c-43ec749687a1",
+      "Name": "BetterDarkUrge"
+    },
+    {
+      "UUID": "6b3b5901-2333-46c8-8705-feb498f5fbd1",
+      "Name": "UnarmoredDefenceSynergy"
+    },
+    {
+      "UUID": "23b9ad37-9fa6-4d25-9346-deeeeeeeeeee",
+      "Name": "DeityForAll"
+    },
+    {
+      "UUID": "5ad54139-95da-4c40-8cc4-fddb3d7862c8",
+      "Name": "Weapon Range"
+    },
+    {
+      "UUID": "6b9fa208-7eb2-496a-9ce3-bd6e0d1de079",
+      "Name": "5ePotions"
+    },
+    {
+      "UUID": "167b846f-0a0b-4e0c-a9d0-df448be1320a",
+      "Name": "ASTRL Tiefling Subraces"
+    },
+    {
+      "UUID": "c36d595f-70d1-44f1-8ca6-4ad14186f489",
+      "Name": "Shadar-Kai"
+    },
+    {
+      "UUID": "34c98919-d66b-4d29-876b-a7ce7b72292f",
+      "Name": "The Dragonkin"
+    },
+    {
+      "UUID": "ab267ed4-b3b5-4b4f-a62c-7dbc95c968fa",
+      "Name": "Aasimar"
+    },
+    {
+      "UUID": "e00bcf7b-74d3-452d-8525-88ba09b9a157",
+      "Name": "Half Demon - Balanced"
+    },
+    {
+      "UUID": "c672b8f9-b948-427e-8b9f-1572983e90e9",
+      "Name": "Half Demon - Wings"
+    },
+    {
+      "UUID": "1c9f73f8-7513-49a9-8882-b796eab331f5",
+      "Name": "DyeDyeDye"
+    },
+    {
+      "UUID": "909cf2d6-b4e9-413a-9101-7e5e063a3394",
+      "Name": "AS_ExtraDyes"
+    },
+    {
+      "UUID": "00000000-0000-0000-0003-xAetherpoint",
+      "Name": "BlackDye"
+    },
+    {
+      "UUID": "bad404aa-feed-a0ee-9999-feedfeed0002",
+      "Name": "Everybody Dyes Unlimited Dyeing."
+    },
+    {
+      "UUID": "5593c5cd-b273-4048-ae87-635c1d487a5e",
+      "Name": "JWL Crafting Framework"
+    },
+    {
+      "UUID": "6f8c00ab-c6e4-4de0-baed-97cb79366259",
+      "Name": "Sussur_Weapons"
+    },
+    {
+      "UUID": "105731d3-4142-4015-bd5a-3891ab9d7ee1",
+      "Name": "JWL Soul Smithing - Upgrade Your Gear"
+    },
+    {
+      "UUID": "9c9256fb-c8f5-4b99-85f1-f993da000d69",
+      "Name": "Jewelcrafting"
+    },
+    {
+      "UUID": "fdcba160-1c08-4938-8d70-02cd95f44f08",
+      "Name": "P4_Dyes"
+    },
+    {
+      "UUID": "3e158fb8-686e-4153-9430-e27f4b9fb7f8",
+      "Name": "BagsBagsBags"
+    },
+    {
+      "UUID": "83b4e98f-28b3-4e75-915d-4cf795ec2b74",
+      "Name": "Customizer"
+    },
+    {
+      "UUID": "ef0fb0e3-a4e1-4672-84b3-bc63260e12af",
+      "Name": "vemperens_heads"
+    },
+    {
+      "UUID": "4885204f-7e46-4a42-b38c-ad24719609ba",
+      "Name": "New Race Heads"
+    },
+    {
+      "UUID": "a669252e-eaa2-4dac-98a2-45532cf523d6",
+      "Name": "Themia_Sister"
+    },
+    {
+      "UUID": "8c611d4b-75d9-40eb-ad61-15f898396e12",
+      "Name": "Faces of Faerûn"
+    },
+    {
+      "UUID": "834e5b15-988a-404e-b6d2-f8fbc0c8097c",
+      "Name": "Loulette Head Mix"
+    },
+    {
+      "UUID": "cef3bd38-43eb-4e9e-b3ba-8a96ddcb0e38",
+      "Name": "Strong_Heads"
+    },
+    {
+      "UUID": "7725fa6a-e447-49e7-b21a-01537e296d27",
+      "Name": "Addys Face Presets"
+    },
+    {
+      "UUID": "8377a991-ae75-4286-8841-a9be74aada4d",
+      "Name": "xx Head HEL"
+    },
+    {
+      "UUID": "dee6dde4-f9f5-456b-b7e3-5ac2eb87f87d",
+      "Name": "Ellian's Heads"
+    },
+    {
+      "UUID": "405c762d-8f07-4b91-a1ef-d58a9ec2a0a0",
+      "Name": "Toarie's New Character Creation Presets WIP"
+    },
+    {
+      "UUID": "f1890314-1b79-40ae-9055-3036196645bd",
+      "Name": "Another Face for Laezel"
+    },
+    {
+      "UUID": "192f57e4-a961-47be-ab94-e70042f9d211",
+      "Name": "Horns of Faerûn"
+    },
+    {
+      "UUID": "144130e9-5eaf-48c3-b28f-446a0c2481aa",
+      "Name": "TieflingHybrids"
+    },
+    {
+      "UUID": "ef02b0e3-a4e1-4672-84b3-bc63161112af",
+      "Name": "Tieflingheads"
+    },
+    {
+      "UUID": "4d200a02-3fb7-48b8-bff3-bf7bb9df00c2",
+      "Name": "Padmes Eye Colours"
+    },
+    {
+      "UUID": "272fdafb-1322-4c19-97da-795a3e12ad98",
+      "Name": "Padmes Makeup/Tattoo Colours"
+    },
+    {
+      "UUID": "da0b99ca-4406-49c1-bef9-3a08621280a2",
+      "Name": "Tav's Hairpack"
+    },
+    {
+      "UUID": "94c5a48a-3381-492c-863c-98d1b201f45a",
+      "Name": "De-Accessorized Hairstyles"
+    },
+    {
+      "UUID": "8802a512-a621-4b0b-a199-d6ac4a407dac",
+      "Name": "MoreHairs"
+    },
+    {
+      "UUID": "294a70ee-5e5f-418b-89f7-e74ba0af9514",
+      "Name": "P4_HornColours"
+    },
+    {
+      "UUID": "139c922a-7657-4514-b393-0f08e992c985",
+      "Name": "Ellian's hair"
+    },
+    {
+      "UUID": "5d4f4d2b-3241-468a-9a35-2fc5e19cbd47",
+      "Name": "Long Straight Hair"
+    },
+    {
+      "UUID": "54ebec6c-00ce-48e1-8b75-53b6b72ecc3a",
+      "Name": "Vessnelle_Hair1"
+    },
+    {
+      "UUID": "d357aca8-e222-4c09-8b49-54354405502e",
+      "Name": "Vessnelle_Hair2"
+    },
+    {
+      "UUID": "243f3a0f-38fa-4c5f-8faa-0f0b867c7622",
+      "Name": "HarpyHairs"
+    },
+    {
+      "UUID": "5243372c-e8e2-438d-8364-03916f6ab0eb",
+      "Name": "LCH_Ponytail"
+    },
+    {
+      "UUID": "525600ac-ca07-4745-a5bc-0a620975e2f3",
+      "Name": "ASTRL Hair Colors"
+    },
+    {
+      "UUID": "1c260369-ea64-4880-9a70-86482cac71f0",
+      "Name": "Padmes Hair Colours"
+    },
+    {
+      "UUID": "6a626dd3-d3eb-48a7-85fe-ffb3d0bc2730",
+      "Name": "Toarie's More CC Colours"
+    },
+    {
+      "UUID": "78537082-46a0-42c7-a718-d2dc9950cfdd",
+      "Name": "ASTRL Fantasy Skintones"
+    },
+    {
+      "UUID": "ddb5c0ae-153d-46fe-a9c6-26c6399654bf",
+      "Name": "Padmes Custom Skins"
+    },
+    {
+      "UUID": "06f797f9-e687-4bd3-8198-c5346dca2a87",
+      "Name": "P4_Dragon_Scales_Colours"
+    },
+    {
+      "UUID": "5748d574-7249-4b32-b156-58d26317f0db",
+      "Name": "Toarie - Cultist Body Tattoo"
+    },
+    {
+      "UUID": "0ab9e889-3e9a-4f71-be60-ce33aedbeae7",
+      "Name": "Trips' Accessories"
+    },
+    {
+      "UUID": "af7f742c-c484-441e-8d06-eda735233068",
+      "Name": "ASTRL Natural Skintones"
+    },
+    {
+      "UUID": "7b8366bd-abc1-4f9f-ba9d-585549b4a750",
+      "Name": "AppearanceEditEnhanced"
+    },
+    {
+      "UUID": "60de8215-7e9f-4cb6-9763-05aa6aecf257",
+      "Name": "AppearanceEditOrigins"
+    },
+    {
+      "UUID": "b2c7c572-faaa-43ae-8609-29d16fd83bb0",
+      "Name": "Patches for CC Races lsx"
+    },
+    {
+      "UUID": "9d77a376-98b4-4b8b-8256-4dfdb110859a",
+      "Name": "Purchasable Camp Clothes and Underwear - All In One"
+    },
+    {
+      "UUID": "48cc6be3-f1c4-4acb-9172-189f13b1d753",
+      "Name": "JWL Drop All The Loot"
+    },
+    {
+      "UUID": "1f998319-583c-4563-9856-202c1afaf555",
+      "Name": "VisibleShields"
+    },
+    {
+      "UUID": "823cb235-Balz-47e2-8701-99752d59659d",
+      "Name": "Stackable Items"
+    },
+    {
+      "UUID": "6aee7baa-e54f-4689-918d-a030c3b4b9a9",
+      "Name": "OrinBhaalistArmor"
+    },
+    {
+      "UUID": "54f2ef99-056a-4358-9ce7-79ca6e6f6843",
+      "Name": "SeluneArmor"
+    },
+    {
+      "UUID": "94fed047-7d79-41e3-9d1c-1a3b3de781e4",
+      "Name": "More Mage Gear"
+    },
+    {
+      "UUID": "801af4c9-b437-4aef-8b54-41c302220e70",
+      "Name": "Truly Legendary - Shar's Spear Of Evening"
+    },
+    {
+      "UUID": "c77763a2-5770-4611-8e8e-4faidh280auy",
+      "Name": "SeluneSpearOfNightEnhanced"
+    },
+    {
+      "UUID": "fa9b4dce-439c-11ee-be56-0242ac120002",
+      "Name": "Varscona"
+    },
+    {
+      "UUID": "5f63e3a6-ac09-47f2-9685-cc1a9be7fa02",
+      "Name": "Whisper"
+    },
+    {
+      "UUID": "84ae2782-2612-45fe-9e22-bb078d294a7c",
+      "Name": "Star Razor"
+    },
+    {
+      "UUID": "6cde95a8-2682-4645-9b38-2964962fe8e0",
+      "Name": "Firearms"
+    },
+    {
+      "UUID": "24e0a3b4-84c4-4a06-9957-428e54d690fc",
+      "Name": "ArcaneEquipment"
+    },
+    {
+      "UUID": "057cb283-8dfa-4f3f-b8d1-a2f854c18dff",
+      "Name": "CloaksOfFaerun"
+    },
+    {
+      "UUID": "8d728345-dd5b-49f7-aaf8-f4a08733b243",
+      "Name": "ModularCiri"
+    },
+    {
+      "UUID": "b200f917-43ec-45d9-9dff-ac6191d62388",
+      "Name": "BasketEquipmentSFW"
+    },
+    {
+      "UUID": "cffcf7ef-0b83-4ece-ad06-12a32f93e982",
+      "Name": "BasketEquipmentCampClothing"
+    },
+    {
+      "UUID": "ee840094-8033-4fe7-adaa-83fb0e021988",
+      "Name": "BasketEquipmentUnderwearSlot"
+    },
+    {
+      "UUID": "a5206fb2-bac3-4021-82b7-09824bd37e35",
+      "Name": "LegendaryEquipToned"
+    },
+    {
+      "UUID": "7f1faf48-c50b-4a5a-b66b-7cdda8653962",
+      "Name": "Ancient Jewelry Roleplay"
+    },
+    {
+      "UUID": "cb0c5806-de14-4a94-81f6-72552ef037ec",
+      "Name": "DarkJusticiarAlways"
+    },
+    {
+      "UUID": "82c1f53b-5ed3-4e2e-95f5-f84ca6ff0c81",
+      "Name": "TransmogEnhanced"
+    },
+    {
+      "UUID": "c7c3ba79-97bd-411e-82f4-1c615e9945a7",
+      "Name": "TradeWithWithers"
+    },
+    {
+      "UUID": "e51ebdd2-15b1-4487-8c35-4e41c2c2e6c1",
+      "Name": "TradeWithWithersAddonAIORandom"
+    },
+    {
+      "UUID": "fab6a124-7087-4693-89ba-4ebd4dc8fe0b",
+      "Name": "TradeWithWithersResetInventory"
+    },
+    {
+      "UUID": "2d3c3786-abaa-4356-9d03-02f8ffd07985",
+      "Name": "More Soul Coins - A"
+    },
+    {
+      "UUID": "f81a6798-8600-476f-8a01-219d04bbeb55",
+      "Name": "More Sussur Tree Bark - A"
+    },
+    {
+      "UUID": "1f2e70c4-44e1-4fbd-ac3b-2945fbd3eefb",
+      "Name": "More Infernal Iron - A"
+    },
+    {
+      "UUID": "9176458d-e66e-461b-8047-905dada71c02",
+      "Name": "More Mithral Ore - Immersive - G"
+    },
+    {
+      "UUID": "7ddddd0f-6b71-4565-bbd1-a7183ae90d04",
+      "Name": "ModularEquipment"
+    },
+    {
+      "UUID": "505c630c-79fa-49b6-9f21-29a5f2322c2d",
+      "Name": "TutorialChestSummoning"
+    },
+    {
+      "UUID": "cabe6d93-e26a-473a-9b04-8717015bd51f",
+      "Name": "UniversalArmourFixer"
+    },
+    {
+      "UUID": "6f533fc2-e9eb-41ca-889e-41f4f89e4457",
+      "Name": "CFS"
+    },
+    {
+      "UUID": "4301755b-5586-420d-a726-dcc802333c42",
+      "Name": "Trashcan"
+    },
+    {
+      "UUID": "0c4a55f3-1b4b-40dc-9631-748c49ceb650",
+      "Name": "CombatAutoSaver"
+    },
+    {
+      "UUID": "3eed31ae-d941-4c7e-b9ad-915d93db7b13",
+      "Name": "AwakenedToggle"
+    },
+    {
+      "UUID": "8e8328bc-355c-11ee-be56-0242ac120002",
+      "Name": "noRestFindFamiliar"
+    },
+    {
+      "UUID": "de1b71ed-acc7-4364-82df-4a91e4cf86be",
+      "Name": "True Initiative"
+    },
+    {
+      "UUID": "d903677e-f24b-48ec-ab20-98dab116a371",
+      "Name": "Weapon Skill Cooldown"
+    },
+    {
+      "UUID": "fbfc236d-17b5-47a1-a918-d1ecb17c6709",
+      "Name": "NPCs Dont Flee From Summons"
+    },
+    {
+      "UUID": "aa602bdf-b85a-4401-b043-9c8872dae755",
+      "Name": "Highlight All"
+    },
+    {
+      "UUID": "57d87816-ac58-4a37-90ad-0fda409c5557",
+      "Name": "StrongerBosses"
+    },
+    {
+      "UUID": "3d69aif6-3437-11ee-be56-0242ac120002",
+      "Name": "Immersive_AI"
+    },
+    {
+      "UUID": "7deea48e-8b9d-45e4-8685-5acfd0ce39ad",
+      "Name": "EnemiesEnhanced"
+    },
+    {
+      "UUID": "6ef804ed-1dd0-4f97-9cf7-5e29a51829ca",
+      "Name": "TacticianPlusHealth"
+    },
+    {
+      "UUID": "e1fb0ff5-dd5e-471d-b2c4-c19c288fa5e7",
+      "Name": "TacticianPlusStats"
+    },
+    {
+      "UUID": "748889fd-8ef9-4241-912b-b89b2d957589",
+      "Name": "Infernal Dice"
+    },
+    {
+      "UUID": "0be6ecf6-69ec-4f9c-b9a6-db1bf72a7069",
+      "Name": "JohnZyxx's Astral Sea Dice"
+    },
+    {
+      "UUID": "cdefdf94-642a-42ba-ade7-e8a1ad83d8c7",
+      "Name": "JohnZyxx's Galaxy Dice Set"
+    },
+    {
+      "UUID": "c67b6ae2-afc4-42ca-99a7-f641f98a433a",
+      "Name": "Astarion Dice Collection - Blood Letting"
+    },
+    {
+      "UUID": "ed8d4a8c-f3e5-406c-82de-c045d164b67e",
+      "Name": "Astarion Dice Collection - Bloodied Onyx"
+    },
+    {
+      "UUID": "17036dee-8daa-424e-8f33-65312db8a59a",
+      "Name": "Astarion Dice Collection - Crismon Bloodstone"
+    },
+    {
+      "UUID": "74d6829b-b336-4adb-a1ab-ec5d6fc7a4db",
+      "Name": "Astarion Dice Collection - Gilded Fang"
+    },
+    {
+      "UUID": "fcb5ec2d-5b5d-41ab-8f7d-45439591e5e5",
+      "Name": "Astarion Dice Collection - Midas Noir"
+    },
+    {
+      "UUID": "59823037-f1dc-41e6-8fe7-9d13a58936e5",
+      "Name": "Astarion Dice Collection - Obsidian Crown"
+    },
+    {
+      "UUID": "3b48374f-c201-4fd8-bbdc-de31e1ddd13a",
+      "Name": "Astarion Dice Collection - Sanguine Splendor"
+    },
+    {
+      "UUID": "abf8d4d6-c15a-445b-a756-fe7d5ce82f0e",
+      "Name": "Astarion Dice Collection - Vampiric Pearl"
+    },
+    {
+      "UUID": "44fa5e9e-4630-44d4-8fe1-0457fac7614c",
+      "Name": "Amethyst Dice"
+    },
+    {
+      "UUID": "b1df86cd-56ac-446c-9c8e-7b80b3e7288a",
+      "Name": "Dark Urge Dice"
+    },
+    {
+      "UUID": "d903677e-f24b-48ec-ab20-98dcc116a371",
+      "Name": "UnlockLevelCurve"
+    },
+    {
+      "UUID": "cf0b4eed-8b58-4981-8ab8-bf210d4db97b",
+      "Name": "UnlockLevelCurve_Patch_5eSpells"
+    },
+    {
+      "UUID": "fefc5f4b-2921-472f-ba0c-c380af9f7525",
+      "Name": "UnlockLevelCurve_Patch_NewScale"
+    },
+    {
+      "UUID": "67fbbd53-7c7d-4cfa-9409-6d737b4d92a9",
+      "Name": "CompatibilityFramework"
+    }
+  ]
+}

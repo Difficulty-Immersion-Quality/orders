@@ -1,0 +1,756 @@
+{
+  "Order": [
+    {
+      "UUID": "26922ba9-6018-5252-075d-7ff2ba6ed879",
+      "Name": "ImpUI (ImprovedUI)"
+    },
+    {
+      "UUID": "755a8a72-407f-4f0d-9a33-274ac0f0b53d",
+      "Name": "Mod Configuration Menu"
+    },
+    {
+      "UUID": "396c5966-09b0-40a1-af3f-93a5e9ce71c0",
+      "Name": "CommunityLibrary"
+    },
+    {
+      "UUID": "dd19db12-96c0-4bca-9ef6-e8d733801d23",
+      "Name": "VFX_Library_SHV"
+    },
+    {
+      "UUID": "f51ce3e4-fe0d-42e8-a4f1-b7234c9b7e9c",
+      "Name": "VFX_Vault_SHV"
+    },
+    {
+      "UUID": "f97b43be-7398-4ea5-8fe2-be7eb3d4b5ca",
+      "Name": "VolitionCabinet"
+    },
+    {
+      "UUID": "2cba831e-bc5e-4ed5-b831-b5c4580b02b0",
+      "Name": "TagFramework"
+    },
+    {
+      "UUID": "c11543b5-10b6-3be8-7322-d8fc739b32d4",
+      "Name": "VBT_Toolkit"
+    },
+    {
+      "UUID": "02b17e3e-869e-4df4-8416-0e7296017764",
+      "Name": "VBT_Resource"
+    },
+    {
+      "UUID": "2da3bc36-b4b2-4652-a611-3fe16527417e",
+      "Name": "UtutsCoreLibrary"
+    },
+    {
+      "UUID": "fb5f528d-4d48-4bf2-a668-2274d3cfba96",
+      "Name": "5eSpells"
+    },
+    {
+      "UUID": "5ca0800a-26e1-4da7-a09d-35632e994b34",
+      "Name": "Valdacil's Spell Adjustments (Vanilla)"
+    },
+    {
+      "UUID": "1e06e466-8a66-4d6e-9864-d9deaccd0fcf",
+      "Name": "Valdacil's Spell Adjustments (5E Spells)"
+    },
+    {
+      "UUID": "93b56877-4781-4568-8991-fd28adceaa77",
+      "Name": "SNEKUI"
+    },
+    {
+      "UUID": "893d2b19-8131-4435-9830-07f131ef309b",
+      "Name": "UnofficialBugFixer"
+    },
+    {
+      "UUID": "0014d239-eae9-4aca-8cb4-0ca377466804",
+      "Name": "SneakAttackWhenInvisible"
+    },
+    {
+      "UUID": "1d9e3933-c7fb-4ad2-af44-c8a3e3bf021f",
+      "Name": "Reaction Points on Hotbar"
+    },
+    {
+      "UUID": "112e0acf-1655-40a1-845e-abe3a2a52604",
+      "Name": "[BS] Multiclass Casting Ability Fix"
+    },
+    {
+      "UUID": "72650dad-72f9-4b57-aa8a-5916d4953037",
+      "Name": "Block/Miss Differentiation"
+    },
+    {
+      "UUID": "0c8bb2e9-aa96-4de7-b793-a733d68ee6f0",
+      "Name": "Smart Autosaving"
+    },
+    {
+      "UUID": "23b14491-69f0-4a9c-99f2-345a636eb220",
+      "Name": "Do Not Eat Owlbear Egg"
+    },
+    {
+      "UUID": "1c132ec4-4cd2-4c40-aeb9-ff6ee0467da8",
+      "Name": "Auto Send Food To Camp"
+    },
+    {
+      "UUID": "310ba0c7-374e-4e56-8c42-b7c7ad3a38b0",
+      "Name": "Fix Stragglers"
+    },
+    {
+      "UUID": "b162762e-a791-4a4a-a894-7772ada387dd",
+      "Name": "Reduce NPC Banter Repetitiveness"
+    },
+    {
+      "UUID": "08e267cf-bf28-4e29-8711-8282ed017fcb",
+      "Name": "DatabaseCleaner"
+    },
+    {
+      "UUID": "c10a353d-d536-414e-a3ca-eebe90a57a54",
+      "Name": "ExtraAttackFixSE"
+    },
+    {
+      "UUID": "5fa193de-bedb-4303-af32-f2199193776c",
+      "Name": "ScrollUsageRevised"
+    },
+    {
+      "UUID": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Name": "Expansion"
+    },
+    {
+      "UUID": "b91c94d2-43a6-4764-9518-3fe63cf55b95",
+      "Name": "HeavyArmorMoveSpeed_SE"
+    },
+    {
+      "UUID": "aa64de03-6743-4a2f-97f7-55d9620bd01b",
+      "Name": "Long Rest Bugfix"
+    },
+    {
+      "UUID": "4236545d-216a-463d-9bbc-135e2c22bb7c",
+      "Name": "VanillaEquipmentOverhaul"
+    },
+    {
+      "UUID": "10de0de4-0bca-4efb-9534-282af45921f6",
+      "Name": "Ancient Weaponry Roleplay"
+    },
+    {
+      "UUID": "cd20b427-861b-483c-8ae3-78f8bea0357f",
+      "Name": "Ancient Armoury Roleplay"
+    },
+    {
+      "UUID": "7f1faf48-c50b-4a5a-b66b-7cdda8653962",
+      "Name": "Ancient Jewelry Roleplay"
+    },
+    {
+      "UUID": "9538f464-f01b-4a91-af4d-5be9347d96a7",
+      "Name": "Master's Cloaks Roleplay"
+    },
+    {
+      "UUID": "3a230bb4-1718-4931-99fe-8fac8a1700fe",
+      "Name": "Randomized Equipment Loot Ancient"
+    },
+    {
+      "UUID": "9d0fd95b-7b09-4185-9a13-512fe7989010",
+      "Name": "Faith and Fortitude: Cleric Equipment"
+    },
+    {
+      "UUID": "cb7634c0-85c3-4e9c-a450-3fdd027cd253",
+      "Name": "Grove and Growl: Druid Equipment"
+    },
+    {
+      "UUID": "9b2f6369-2da0-4a22-b4e1-44858d8d859c",
+      "Name": "Unarmed and Upgraded: Monk Equipment"
+    },
+    {
+      "UUID": "f4a16f6c-04b3-43aa-9382-0646658094cb",
+      "Name": "Beast and Bow: Ranger Equipment"
+    },
+    {
+      "UUID": "afb9436a-ac8f-4a9d-84b7-ee2734278b46",
+      "Name": "HelmsArmory"
+    },
+    {
+      "UUID": "67b6dbfc-53bc-4ae7-9737-b0118f5f87c7",
+      "Name": "Ranger's Leather Armor"
+    },
+    {
+      "UUID": "b613a197-749f-4f3b-a647-f0d6338aa06d",
+      "Name": "SimpleCampOutfitStarter"
+    },
+    {
+      "UUID": "a79767c4-f6e1-4379-8024-f37f59806eb2",
+      "Name": "NinjatoShortsword"
+    },
+    {
+      "UUID": "d7ff3f31-ce42-442d-a7dc-cf0193e9cc88",
+      "Name": "NinjatoShortswordANIM"
+    },
+    {
+      "UUID": "f9bb3acd-23e1-4cae-98a5-ac4fd6edf61e",
+      "Name": "Darts"
+    },
+    {
+      "UUID": "1226fbfe-6d52-43a5-8287-9bc6ce5b735f",
+      "Name": "Darts - 1d6"
+    },
+    {
+      "UUID": "bca0e000-cd50-4e76-987a-1808e9ece800",
+      "Name": "Valuable Gemstones"
+    },
+    {
+      "UUID": "05827e11-37eb-4820-8916-1fa2060a84c7",
+      "Name": "Deity Tag Activator"
+    },
+    {
+      "UUID": "edc69df4-737e-4784-9a37-59c3afb0df23",
+      "Name": "SilvanusDeity"
+    },
+    {
+      "UUID": "e08ec529-d255-42ea-bce2-4bb9b4605090",
+      "Name": "MyrkulDeity"
+    },
+    {
+      "UUID": "4893b99c-79d5-4da7-a94b-d13612dbb160",
+      "Name": "BaneDeity"
+    },
+    {
+      "UUID": "94f1341b-6f1d-419b-a163-a97699a396a1",
+      "Name": "BhaalDeity"
+    },
+    {
+      "UUID": "856e2177-8087-49c1-a778-820d07033984",
+      "Name": "SharDeity"
+    },
+    {
+      "UUID": "bcc9e8c0-a5ff-41c7-8c76-6f7381e5a211",
+      "Name": "JergalDeity"
+    },
+    {
+      "UUID": "250e6460-949c-4def-8752-5c33777583bf",
+      "Name": "JergalDeityScrollIcon"
+    },
+    {
+      "UUID": "15d9db2a-3df3-46ef-ac35-64d9d4656251",
+      "Name": "FaithfulFaithlessD"
+    },
+    {
+      "UUID": "796e4d21-9d7b-4148-91f6-e4ca43cb4e89",
+      "Name": "FaithfulFaithless Fixed Icons"
+    },
+    {
+      "UUID": "63566019-4645-4562-aa30-654cea17462b",
+      "Name": "CF_LolthDrowAnyDeity"
+    },
+    {
+      "UUID": "5d7d9875-aaff-49e6-b9d7-af68a5005fa7",
+      "Name": "Origin Gods"
+    },
+    {
+      "UUID": "02872d50-56aa-4463-9829-9f8f69a6070f",
+      "Name": "DFindFamiliar"
+    },
+    {
+      "UUID": "9980a0b8-6891-4696-9daf-c80aba01635d",
+      "Name": "DFindFamiliarHelp"
+    },
+    {
+      "UUID": "34e0aa06-0488-4b00-803f-b6081b46854e",
+      "Name": "DFindFamiliarWildfire"
+    },
+    {
+      "UUID": "a4082bff-5d64-4327-a340-287e0cce6e47",
+      "Name": "Scratch Dog Training"
+    },
+    {
+      "UUID": "d65d1212-363b-44d5-892c-aa21147db57c",
+      "Name": "CounterspellFixes"
+    },
+    {
+      "UUID": "79e60ac3-360e-3439-5626-bb0c4efa5ecc",
+      "Name": "Confusion Saving Throw Fix"
+    },
+    {
+      "UUID": "069e5871-efe8-44bb-b02a-fe957df5ae0e",
+      "Name": "See Invisibility Rework"
+    },
+    {
+      "UUID": "a7b95154-1df7-49a7-8e47-19f76a33ebcb",
+      "Name": "InvisibilityRules"
+    },
+    {
+      "UUID": "aa55d37c-bfff-4dea-b540-e78b94e6698d",
+      "Name": "InvisibleOpportunityAttacks"
+    },
+    {
+      "UUID": "95090f45-b0d3-4ef2-8704-7acf94b3a4bf",
+      "Name": "Uncanny Dodge Reaction Fix"
+    },
+    {
+      "UUID": "1e8845ef-c2bd-46ee-8652-9579edcb2481",
+      "Name": "Riposte Enhanced DND 5E"
+    },
+    {
+      "UUID": "ca3df55b-c576-41a1-87c4-3cf5f01922e4",
+      "Name": "Essential_Feats"
+    },
+    {
+      "UUID": "997d961c-0b8f-4645-8875-5fb61e65df6d",
+      "Name": "Balance Tweaks for Many Feats"
+    },
+    {
+      "UUID": "d76ff1e5-e09e-4565-a9d2-a035037f6134",
+      "Name": "Valkrana's Skeleton Crew Feat"
+    },
+    {
+      "UUID": "239127c3-1efe-493d-85d3-8518c8d8819b",
+      "Name": "Dr. Kekyll's Grappling Framework"
+    },
+    {
+      "UUID": "5c810a96-7748-4ce5-9a18-f8168a80f407",
+      "Name": "Grappler Feat"
+    },
+    {
+      "UUID": "558bd4c9-260a-40d2-add9-455d95aecb47",
+      "Name": "UnlockedUnarmedStrike"
+    },
+    {
+      "UUID": "7b5a0dd0-442c-11ee-be56-0242ac120002",
+      "Name": "dodgeaction"
+    },
+    {
+      "UUID": "53f01cc6-93fa-4de9-9af4-be32edf79da4",
+      "Name": "Custom_Common_Action_Patch"
+    },
+    {
+      "UUID": "747b3382-ec91-3cd6-9661-f29e769e831f",
+      "Name": "ImprovedHighElfCantrips"
+    },
+    {
+      "UUID": "61a154cf-07a9-42bf-b209-1d562770a520",
+      "Name": "UAWarCaster"
+    },
+    {
+      "UUID": "e797c3b0-f63c-45b7-8e97-cef77e6b1af4",
+      "Name": "UAWarCasterUpcasting"
+    },
+    {
+      "UUID": "f26ba921-5f61-45ec-9235-4ae836a42f88",
+      "Name": "Custom Subclass Icons"
+    },
+    {
+      "UUID": "915fbc23-6453-4ee9-98ed-a4ff1ffc6d4a",
+      "Name": "Customized Subclass Icons"
+    },
+    {
+      "UUID": "eef7b885-1423-4096-abd6-7a5db5f871db",
+      "Name": "Clerics"
+    },
+    {
+      "UUID": "2f3aecf8-452a-4a70-a0a7-ed7b0f76db35",
+      "Name": "Valdacil's Spell Adjustments (Patch) - Cleric Subclasses"
+    },
+    {
+      "UUID": "26cc7a9c-f2f5-48ee-b829-f69b9698edb1",
+      "Name": "Circle of Wildfire"
+    },
+    {
+      "UUID": "1f7b0a82-18ad-e256-d696-94a898b5720a",
+      "Name": "CircleofStars"
+    },
+    {
+      "UUID": "9f5832ae-2cf3-49c5-9c9a-69d91d05a778",
+      "Name": "Circle of the Shepherd"
+    },
+    {
+      "UUID": "e1604a89-623d-4802-99f3-86e34bb30302",
+      "Name": "Circle of the Blighted"
+    },
+    {
+      "UUID": "c1cfc0d3-1dad-0000-0000-c00200000002",
+      "Name": "OneDnD UA8 Barbarian Short Rest Rage Recovery"
+    },
+    {
+      "UUID": "2e6ec423-5d59-45ba-9ec0-b0d1e3c363e1",
+      "Name": "Barbarian Quality of Life"
+    },
+    {
+      "UUID": "6ebf20d6-c5b7-4fa4-9311-6f61f797bbd9",
+      "Name": "Barbarian Quality of Life - Loviatar's Love"
+    },
+    {
+      "UUID": "dbf0b4ee-5614-4b05-b77c-b71ec8cf9eae",
+      "Name": "Dynamic Wildheart"
+    },
+    {
+      "UUID": "95bcb61e-0f77-4401-9a78-3952d7f2ff58",
+      "Name": "Instinctive Pounce"
+    },
+    {
+      "UUID": "0793c9f2-71f8-4c5d-a1d4-c3baf7665d7b",
+      "Name": "OneDnD UA5 Barbarian Relentless Rage"
+    },
+    {
+      "UUID": "cfb3adf4-b8e1-4557-9dfa-41a7f62d86f6",
+      "Name": "AncestralGuardian5e"
+    },
+    {
+      "UUID": "39d6fda9-120e-4752-aeba-36ac09131ed9",
+      "Name": "Battlerager5e"
+    },
+    {
+      "UUID": "4e0a3f61-f70c-4cd4-a9e9-e9f57c452bad",
+      "Name": "Beast5e"
+    },
+    {
+      "UUID": "1c6eff65-2091-4532-93a5-9d4d483971b7",
+      "Name": "Giant5e"
+    },
+    {
+      "UUID": "0201b796-dfdd-47be-8ef8-92e6b7a93f0b",
+      "Name": "Juggernaut5e"
+    },
+    {
+      "UUID": "6d39f0ca-cc7e-431e-ae53-a8b96bb11a21",
+      "Name": "StormHerald5e"
+    },
+    {
+      "UUID": "8a94d923-8a98-45b3-b4ed-1b42049707cb",
+      "Name": "Zealot5e"
+    },
+    {
+      "UUID": "776e25bb-6128-479d-8923-089146901e46",
+      "Name": "RecklessAttack5e"
+    },
+    {
+      "UUID": "8af1c5ac-6bae-4b3d-8aa1-ed644d4b7c93",
+      "Name": "ArcaneArcher5e"
+    },
+    {
+      "UUID": "9fee37d5-7ffa-4f85-ac7d-feb431ece6e8",
+      "Name": "Banneret5e"
+    },
+    {
+      "UUID": "6ed549eb-6850-4e52-bbbf-d07b94a161a5",
+      "Name": "Brute5e"
+    },
+    {
+      "UUID": "74347d48-eba3-45ba-8dcf-a8485f3bd98a",
+      "Name": "Cavalier5e"
+    },
+    {
+      "UUID": "da631122-1408-4a0c-88cd-ebf3e1ddf465",
+      "Name": "PsiWarrior5e"
+    },
+    {
+      "UUID": "97d0a967-2662-4f46-bf4c-a02adfbcaca8",
+      "Name": "RuneKnight5e"
+    },
+    {
+      "UUID": "280f6b67-f7cd-4b29-81a9-a2023431e909",
+      "Name": "Samurai5e"
+    },
+    {
+      "UUID": "116bf0bb-9f05-4ed9-bef1-d9d61daa449b",
+      "Name": "Arcane Archer 5e - 5 Shots"
+    },
+    {
+      "UUID": "6f779b55-36ec-4ef8-8be3-361bd0216fce",
+      "Name": "Permanent Weapon Bond"
+    },
+    {
+      "UUID": "689f22b4-38e9-40a7-aa81-3d3e7ed8d38c",
+      "Name": "Oath of Glory"
+    },
+    {
+      "UUID": "e0e1ffe2-6e39-489b-9b70-b30e9025c5c7",
+      "Name": "Oath of the Watchers"
+    },
+    {
+      "UUID": "7066e995-e7fc-3932-10db-9d2c9c7de8c8",
+      "Name": "Oath of Conquest"
+    },
+    {
+      "UUID": "83f0ea9e-5ec2-491a-96fa-1f3f4ca4e6a8",
+      "Name": "Monk - Wisdom Ki Scaling"
+    },
+    {
+      "UUID": "c1cfc0d3-1dad-0000-0000-c00700000004",
+      "Name": "OneDnD Monk - Deflect Attacks"
+    },
+    {
+      "UUID": "c1cfc0d3-1dad-0000-0000-c00700000002",
+      "Name": "OneDnD Monk - Martial Arts"
+    },
+    {
+      "UUID": "52f55bb1-9331-4ab3-ad10-e8394ac4fcdb",
+      "Name": "AscendantDragon5e"
+    },
+    {
+      "UUID": "d4404e8c-5490-4776-be54-e55c24ec0bf6",
+      "Name": "AstralSelf5e"
+    },
+    {
+      "UUID": "9562ec70-b9f2-403a-8083-805632cc85b9",
+      "Name": "DrunkenMaster5e"
+    },
+    {
+      "UUID": "2e4e938a-81fa-4566-a60b-281dc4e86301",
+      "Name": "Kensei5e"
+    },
+    {
+      "UUID": "da317322-2378-4aec-965f-56d1fe9ecede",
+      "Name": "LongDeath5e"
+    },
+    {
+      "UUID": "5a272f39-2820-46d6-9a24-25953eb01123",
+      "Name": "Mercy5e"
+    },
+    {
+      "UUID": "55600146-ba95-413e-9d0d-f9c7506da6b4",
+      "Name": "SunSoul5e"
+    },
+    {
+      "UUID": "c62ae435-c1a4-41b7-b887-4f24a6dcd846",
+      "Name": "Graviturgy Magic"
+    },
+    {
+      "UUID": "646d127d-6e6a-4d09-a2b0-2ec15b572e47",
+      "Name": "Chronurgy Magic"
+    },
+    {
+      "UUID": "275fc6ac-a99c-41b3-91fa-85b9131179c7",
+      "Name": "ChronurgyMagic5eSpells"
+    },
+    {
+      "UUID": "c1cfc0d3-1dad-0000-0000-c01300000001",
+      "Name": "OneDnD Wizard"
+    },
+    {
+      "UUID": "a951d531-dd86-4ff6-8d96-a5358fa95821",
+      "Name": "Drakewarden"
+    },
+    {
+      "UUID": "1b43992d-df17-4208-926b-11fc78ab26ab",
+      "Name": "FeyWanderer"
+    },
+    {
+      "UUID": "685371b8-e9ef-42c4-9621-62bfd795f788",
+      "Name": "MonsterSlayer5e"
+    },
+    {
+      "UUID": "0fa9a997-4412-4303-bfc8-c013967031c9",
+      "Name": "HorizonWalker5e"
+    },
+    {
+      "UUID": "9dc7498e-990c-49fb-8b1f-53ebf716141f",
+      "Name": "HorizonWalker5e Grappling Framework Patch"
+    },
+    {
+      "UUID": "2831844d-e3bf-4d46-9920-71a2af947aac",
+      "Name": "Swarmkeeper"
+    },
+    {
+      "UUID": "248dfe45-70cb-474f-825c-c58a72cff970",
+      "Name": "UACunningStrike"
+    },
+    {
+      "UUID": "b986a6b0-6755-496c-8ea8-0fbee6b66026",
+      "Name": "roguesextra"
+    },
+    {
+      "UUID": "da5d2ea8-51c2-42ba-8d0f-34b5b198a19e",
+      "Name": "MetamagicExtended"
+    },
+    {
+      "UUID": "a83a5961-4a09-43dd-b18e-3f79a286d316",
+      "Name": "Shadow Sorcery"
+    },
+    {
+      "UUID": "1999672d-97f0-45aa-893c-f4ed5e800485",
+      "Name": "Aberrant Mind"
+    },
+    {
+      "UUID": "46ad1e3b-34fa-4c89-967f-296b2e7dff80",
+      "Name": "MetamagicExtendedQuickened2SP"
+    },
+    {
+      "UUID": "d8664fe8-870d-4e6d-84a0-20d1aa1a3374",
+      "Name": "Metamagic Compatibility"
+    },
+    {
+      "UUID": "fce5c5da-cd96-4e39-a785-c6234d8915e4",
+      "Name": "Bard Fixes and Tweaks"
+    },
+    {
+      "UUID": "6081d16a-3509-4006-9e01-e7c0636e6b4d",
+      "Name": "Expanded Bard Spells"
+    },
+    {
+      "UUID": "933cc682-b732-48bc-9ec0-30c36b5c2f62",
+      "Name": "College of Eloquence"
+    },
+    {
+      "UUID": "3580202c-5b90-4fd5-835c-50e461206490",
+      "Name": "College of Creation"
+    },
+    {
+      "UUID": "e05719a5-5392-41bf-9162-cd03f2ee62f1",
+      "Name": "CapOfCuringCompatibility"
+    },
+    {
+      "UUID": "beb361b4-cb75-4e75-8e54-c38fafeccc32",
+      "Name": "College of Spirits"
+    },
+    {
+      "UUID": "c1cfc0d3-1dad-0000-0000-c01200000003",
+      "Name": "OneDnD UA7 Warlock Magical Cunning"
+    },
+    {
+      "UUID": "9bf0dff3-59b9-4cdb-9003-dede17813444",
+      "Name": "CelestialWarlock"
+    },
+    {
+      "UUID": "5d30acc9-66aa-482b-8802-33aad93995e4",
+      "Name": "FathomlessWarlock"
+    },
+    {
+      "UUID": "0cb5018a-f898-4446-9b9e-8f7a6c3fa9ea",
+      "Name": "GenieWarlock"
+    },
+    {
+      "UUID": "9a64833e-559d-468e-92d8-22755e0639b7",
+      "Name": "Patch For Fathomless Warlock"
+    },
+    {
+      "UUID": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+      "Name": "WarlockUndead"
+    },
+    {
+      "UUID": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
+      "Name": "Hexblade"
+    },
+    {
+      "UUID": "9772bb83-087c-405e-bb64-5ea5c3bf49f2",
+      "Name": "HexbladeInvocations"
+    },
+    {
+      "UUID": "da838ab2-4d4b-4ca2-9e11-0257a03b13fc",
+      "Name": "Warlocks Get Modded Spells"
+    },
+    {
+      "UUID": "6ec29fcc-f477-972f-7fcd-da7127884ade",
+      "Name": "True Darkness"
+    },
+    {
+      "UUID": "681340e0-3c0d-464a-998a-6fec834f3b7a",
+      "Name": "5e Spells Compatibility AIO"
+    },
+    {
+      "UUID": "e342ee75-f7c9-4aeb-b6de-403991578337",
+      "Name": "Waypoint Inside Emerald Grove"
+    },
+    {
+      "UUID": "afb6778d-953f-4e01-a7ae-b9b6eec34609",
+      "Name": "MobilityOverhaul"
+    },
+    {
+      "UUID": "635f2fcc-c5bf-4e03-85d1-51cc46e559c7",
+      "Name": "ExhaustionModTemplate"
+    },
+    {
+      "UUID": "945138a3-579b-4174-b314-40907ddea635",
+      "Name": "ExhaustionMod__Addon_TYPE__Custom_Exhaustion"
+    },
+    {
+      "UUID": "e0b1097d-312f-4914-ab7e-e267156cbc4b",
+      "Name": "ExhaustionMod__Addon__Add_Exhaustion_On_Downed"
+    },
+    {
+      "UUID": "2a077c2a-4ff1-495b-adfc-66a29bbaf9fd",
+      "Name": "ExhaustionMod__Addon__Add_Exhaustion_On_Incapacitated"
+    },
+    {
+      "UUID": "725e4c7e-e1c8-49ea-8faf-57e5e6bdac63",
+      "Name": "ExhaustionMod__Addon__Add_Exhaustion_On_Statuses"
+    },
+    {
+      "UUID": "d1658dfb-cdf4-43c6-b611-7e5922547c14",
+      "Name": "ExhaustionMod__Addon__On_Critical_Hit_And_Miss"
+    },
+    {
+      "UUID": "41f8b331-0ad5-4abf-ad1e-a8b8e1f87ba7",
+      "Name": "ExhaustionMod__Addon__Remove_All_Levels_Of_Exhaustion_On_Long_Rest"
+    },
+    {
+      "UUID": "036e5c2e-9b36-437e-b1d0-a645950f656a",
+      "Name": "ExhaustionMod__Addon__Short_Rest_Removes_All_Exhaustion_Levels"
+    },
+    {
+      "UUID": "3018d4e9-a346-441b-801d-3624769dc3c0",
+      "Name": "EncountersOverhaul"
+    },
+    {
+      "UUID": "a75223da-c3b8-4a5b-93a1-8b557179e872",
+      "Name": "EncountersOverhaul5eSpells"
+    },
+    {
+      "UUID": "4b83dd7a-0d18-4d6b-a6d3-e540a17c43de",
+      "Name": "Valkrana's Undead Encounters"
+    },
+    {
+      "UUID": "b4568e73-abfb-4824-8730-7650eb91e5cb",
+      "Name": "Valkrana's Skeleton Crew XP Enabled"
+    },
+    {
+      "UUID": "0c692104-c83f-48b8-9fcd-ca7e33be5098",
+      "Name": "Combat Extender"
+    },
+    {
+      "UUID": "163a16e7-7e92-475d-a979-24de44fdd9d1",
+      "Name": "Initiative Variants - MCM - A"
+    },
+    {
+      "UUID": "142323a2-cd9e-68bd-6023-4ccdb28683b4",
+      "Name": "Save Alfira"
+    },
+    {
+      "UUID": "4c05273d-51d5-423c-b860-98509de2ffed",
+      "Name": "Blade of Frontiers"
+    },
+    {
+      "UUID": "bc112f05-f5d1-4b59-9a9f-fd8867616d03",
+      "Name": "OrinsTrueBossfight"
+    },
+    {
+      "UUID": "72c16261-72fb-4512-946b-858d553903bd",
+      "Name": "Beholder Fix"
+    },
+    {
+      "UUID": "cabe6d93-e26a-473a-9b04-8717015bd51f",
+      "Name": "UniversalArmourFixer"
+    },
+    {
+      "UUID": "60ac6eff-b503-492d-867f-4e7cacf7f57d",
+      "Name": "YieldToTemptation"
+    },
+    {
+      "UUID": "56f43956-b1cb-43c6-badc-782c1e0def0f",
+      "Name": "Myky's Heads"
+    },
+    {
+      "UUID": "52ee7123-bbe3-4f8a-bd62-04327b406cab",
+      "Name": "more_dreads_n_curls_hairstyles"
+    },
+    {
+      "UUID": "67c540ea-c73d-4b55-b70f-6151f1f09aa0",
+      "Name": "more Dreads and curly hairpack 02"
+    },
+    {
+      "UUID": "519afbff-d182-4496-6203-87f03b345b11",
+      "Name": "Rox's Shimmering Eyes"
+    },
+    {
+      "UUID": "6dff611f-9f2e-45b1-b43e-06b62753cff9",
+      "Name": "HW_BoringDyes"
+    },
+    {
+      "UUID": "67fbbd53-7c7d-4cfa-9409-6d737b4d92a9",
+      "Name": "CompatibilityFramework"
+    }
+  ]
+}

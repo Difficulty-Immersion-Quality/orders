@@ -1,0 +1,380 @@
+{
+  "Order": [
+    {
+      "UUID": "8f6dfb4a-6581-4269-9a29-640d177711c0",
+      "Name": "---------------------------|              Libraries              |---------------------------"
+    },
+    {
+      "UUID": "396c5966-09b0-40a1-af3f-93a5e9ce71c0",
+      "Name": "CommunityLibrary"
+    },
+    {
+      "UUID": "dd19db12-96c0-4bca-9ef6-e8d733801d23",
+      "Name": "VFX_Library_SHV"
+    },
+    {
+      "UUID": "66666666-4444-4444-4444-666666668000",
+      "Name": "VladsGrimoire"
+    },
+    {
+      "UUID": "fb5f528d-4d48-4bf2-a668-2274d3cfba96",
+      "Name": "5eSpells"
+    },
+    {
+      "UUID": "d903677e-f24b-48ec-ab20-98dcc116a371",
+      "Name": "UnlockLevelCurve"
+    },
+    {
+      "UUID": "cf0b4eed-8b58-4981-8ab8-bf210d4db97b",
+      "Name": "UnlockLevelCurve_Patch_5eSpells"
+    },
+    {
+      "UUID": "fefc5f4b-2921-472f-ba0c-c380af9f7525",
+      "Name": "UnlockLevelCurve_Patch_NewScale"
+    },
+    {
+      "UUID": "3f5fb604-35a1-4f6b-98f7-a488efec04e4",
+      "Name": "--------------------------->             Textures"
+    },
+    {
+      "UUID": "037c6df9-f376-4dc3-addf-afd1f8510e99",
+      "Name": "Companions - Old Shaders"
+    },
+    {
+      "UUID": "898a0bee-579b-44cd-b6aa-ba4f567e7978",
+      "Name": "Companions - Old Shaders (Textures)"
+    },
+    {
+      "UUID": "84b00ce8-1d55-441f-b86d-96cb757f1e08",
+      "Name": "Player and NPC - Old Shaders"
+    },
+    {
+      "UUID": "6f96f303-62c4-402b-b449-23876dbc2c2f",
+      "Name": "Player and NPC - Old Shaders (Textures)"
+    },
+    {
+      "UUID": "f88e1eed-bfc1-4489-9806-020f88f83a9a",
+      "Name": "---------------------------|           Script Extender           |---------------------------"
+    },
+    {
+      "UUID": "d59f8afd-8535-4bb3-81da-a931ea475813",
+      "Name": "AlwaysShowApprovals"
+    },
+    {
+      "UUID": "46d64b8d-41cb-424a-9960-1c19309271a0",
+      "Name": "Auto Lockpicking"
+    },
+    {
+      "UUID": "1c132ec4-4cd2-4c40-aeb9-ff6ee0467da8",
+      "Name": "Auto Send Food To Camp"
+    },
+    {
+      "UUID": "4d35a99d-f33a-40aa-afa6-ab4a7770ab71",
+      "Name": "AutoHideSummons"
+    },
+    {
+      "UUID": "c589f5d3-b477-4e6d-8ae7-5ea0f351ce0b",
+      "Name": "---------------------------|                Gear                 |---------------------------"
+    },
+    {
+      "UUID": "e94b7286-ae37-4198-bd12-7ec3496dbc19",
+      "Name": "--------------------------->             Dyes"
+    },
+    {
+      "UUID": "255b2fda-2e05-4dad-b5e6-28587cea4854",
+      "Name": "AS_ExtraDyes_Bundle"
+    },
+    {
+      "UUID": "93661131-47d9-415a-996f-a590f3d3397d",
+      "Name": "Draconic Dyes"
+    },
+    {
+      "UUID": "c3c39d3a-56a7-4d24-a335-4fe5505e3bbe",
+      "Name": "EngelsDyes"
+    },
+    {
+      "UUID": "6dff611f-9f2e-45b1-b43e-06b62753cff9",
+      "Name": "HW_BoringDyes"
+    },
+    {
+      "UUID": "962dc624-87ed-497d-bdfc-cca1781ea7b0",
+      "Name": "Infinite DLC Dye"
+    },
+    {
+      "UUID": "74b4r77f-22c3-4e78-915b-4cf795ec2b86",
+      "Name": "InfiniteDyes"
+    },
+    {
+      "UUID": "1e9a70c4-11f6-43cd-8cb9-44926f62d44e",
+      "Name": "NPC and Outfit Inspired Dyes"
+    },
+    {
+      "UUID": "fdcba160-1c08-4938-8d70-02cd95f44f08",
+      "Name": "P4_Dyes"
+    },
+    {
+      "UUID": "011d7668-c586-4104-8a14-89c46adcfc74",
+      "Name": "TC_Dyes"
+    },
+    {
+      "UUID": "baed6853-ab4e-4ac8-8790-0c8b53d602e0",
+      "Name": "---------------------------|               Clothing              |---------------------------"
+    },
+    {
+      "UUID": "a9e98a1f-7a59-4b70-be39-1f69924c0b80",
+      "Name": "BasketEquipmentNSFW"
+    },
+    {
+      "UUID": "cffcf7ef-0b83-4ece-ad06-12a32f93e982",
+      "Name": "BasketEquipmentCampClothing"
+    },
+    {
+      "UUID": "ee840094-8033-4fe7-adaa-83fb0e021988",
+      "Name": "BasketEquipmentUnderwearSlot"
+    },
+    {
+      "UUID": "9d06e14b-94b2-4f2a-bccf-c71a0e345221",
+      "Name": "--------------------------->             Crafting"
+    },
+    {
+      "UUID": "5593c5cd-b273-4048-ae87-635c1d487a5e",
+      "Name": "JWL Crafting Framework"
+    },
+    {
+      "UUID": "a5c04a1a-09a8-4249-9b19-88ee07488094",
+      "Name": "JWL Crafting Framework - Tutorial Chest Injector"
+    },
+    {
+      "UUID": "105731d3-4142-4015-bd5a-3891ab9d7ee1",
+      "Name": "JWL Soul Smithing - Upgrade Your Gear"
+    },
+    {
+      "UUID": "2e9bf3d1-1264-4869-90cc-e87c62059d13",
+      "Name": "--------------------------->             Weapons"
+    },
+    {
+      "UUID": "d903677e-f24b-48ec-ab20-98dab116a371",
+      "Name": "Weapon Skill Cooldown"
+    },
+    {
+      "UUID": "d867677e-f24b-48ec-ab20-98dab116a371",
+      "Name": "Weapon Skill DW"
+    },
+    {
+      "UUID": "75edc3ad-46ec-4de2-9ebe-dc972a31f24f",
+      "Name": "ARSENAL MOD - Weapon Balance Overhaul"
+    },
+    {
+      "UUID": "d4d885b7-061d-4ca4-ab2b-77eb0af8555c",
+      "Name": "BetterGear_MoonDruid"
+    },
+    {
+      "UUID": "4236545d-216a-463d-9bbc-135e2c22bb7c",
+      "Name": "VanillaEquipmentOverhaul"
+    },
+    {
+      "UUID": "8a3a7cd5-b863-47a7-88d6-aa0d72b589ef",
+      "Name": "VanillaOverhaulArsenalCompat"
+    },
+    {
+      "UUID": "8789884b-555c-4c3c-bcff-2e5c70fcc7be",
+      "Name": "Vanilla Weapon Overhaul Crafting"
+    },
+    {
+      "UUID": "c1868d8a-5087-4c0b-aa88-4b7ef74c5e35",
+      "Name": "---------------------------|                Spells               |---------------------------"
+    },
+    {
+      "UUID": "a74a712b-094d-4941-8cc7-bb3a75bc39eb",
+      "Name": "Rebalance_ClassSpells"
+    },
+    {
+      "UUID": "af6809f6-2539-4f38-9af8-6f7b28652fb4",
+      "Name": "Rebalance_Cantrips"
+    },
+    {
+      "UUID": "7595d80f-dff9-4a4e-a1cc-576d7a5b9237",
+      "Name": "Rebalance_Lvl1_Spells"
+    },
+    {
+      "UUID": "262002cc-4974-4637-8c59-1f5b9416c746",
+      "Name": "Rebalance_Lvl2_Spells"
+    },
+    {
+      "UUID": "294024e1-0872-43c1-bddc-7a37a42b60fa",
+      "Name": "Rebalance_Lvl3_Spells"
+    },
+    {
+      "UUID": "86a0b6ef-91e3-4123-ae68-b950ac2fc97f",
+      "Name": "Rebalance_Lvl4_Spells"
+    },
+    {
+      "UUID": "b303e532-db02-4a58-9754-6209e9d80c9d",
+      "Name": "Rebalance_Lvl5_Spells"
+    },
+    {
+      "UUID": "8dcc6c86-b80c-4920-824d-f21ea796bb32",
+      "Name": "Rebalance_Lvl6_Spells"
+    },
+    {
+      "UUID": "5ca0800a-26e1-4da7-a09d-35632e994b34",
+      "Name": "Valdacil's Spell Adjustments (Vanilla)"
+    },
+    {
+      "UUID": "1e06e466-8a66-4d6e-9864-d9deaccd0fcf",
+      "Name": "Valdacil's Spell Adjustments (5E Spells)"
+    },
+    {
+      "UUID": "297c35bb-d0c5-405d-98f4-80f4415d1cf2",
+      "Name": "Valdacil's Spell Adjustments (Vanilla) - Remove FX"
+    },
+    {
+      "UUID": "82af5972-b137-4add-af42-379df045ae1e",
+      "Name": "---------------------------|                Feats                |---------------------------"
+    },
+    {
+      "UUID": "14132dd7-c606-42d7-8e3f-816a63bd7a14",
+      "Name": "Rebalance_Feats"
+    },
+    {
+      "UUID": "d4405ad7-a4b2-46a8-a397-774d1b549a37",
+      "Name": "Rebalance_Nerfs"
+    },
+    {
+      "UUID": "997d961c-0b8f-4645-8875-5fb61e65df6d",
+      "Name": "Balance Tweaks for Many Feats"
+    },
+    {
+      "UUID": "ca3df55b-c576-41a1-87c4-3cf5f01922e4",
+      "Name": "Essential_Feats"
+    },
+    {
+      "UUID": "0c036a05-f3e4-4422-87bd-eadadf96c161",
+      "Name": "featsextra"
+    },
+    {
+      "UUID": "65cce477-21b2-463c-8b17-3c07715f8d88",
+      "Name": "--------------------------->             Combat"
+    },
+    {
+      "UUID": "239127c3-1efe-493d-85d3-8518c8d8819b",
+      "Name": "Dr. Kekyll's Grappling Framework"
+    },
+    {
+      "UUID": "7769d1fa-f078-4e69-8ebd-9c82196ba823",
+      "Name": "Brunotavm Hurry Up"
+    },
+    {
+      "UUID": "244672fd-ed08-4626-b0a3-f31fce85e23c",
+      "Name": "GetReady"
+    },
+    {
+      "UUID": "558bd4c9-260a-40d2-add9-455d95aecb47",
+      "Name": "UnlockedUnarmedStrike"
+    },
+    {
+      "UUID": "53f01cc6-93fa-4de9-9af4-be32edf79da4",
+      "Name": "DIQCommonPatch"
+    },
+    {
+      "UUID": "7d288031-af5f-4ca1-a5fa-bc4532433983",
+      "Name": "---------------------------|               Classes               |---------------------------"
+    },
+    {
+      "UUID": "91c7c409-61fa-423a-a030-2622a07f2bb7",
+      "Name": "Illrigger"
+    },
+    {
+      "UUID": "bfdd78b1-2484-4d3d-9d91-d0eb9233fed4",
+      "Name": "MaxLvlDummiesIllrigger"
+    },
+    {
+      "UUID": "98be52ff-c06b-4774-94cd-9b62968eb73a",
+      "Name": "---------------------------|              Subclasses             |---------------------------"
+    },
+    {
+      "UUID": "7073fe00-832d-44d2-80f1-b7edece88155",
+      "Name": "--------------------------->             Cleric"
+    },
+    {
+      "UUID": "eef7b885-1423-4096-abd6-7a5db5f871db",
+      "Name": "Clerics"
+    },
+    {
+      "UUID": "5973bc89-df20-4340-a500-20622acfdcff",
+      "Name": "Blessed Strikes Addon"
+    },
+    {
+      "UUID": "2f3aecf8-452a-4a70-a0a7-ed7b0f76db35",
+      "Name": "Valdacil's Spell Adjustments (Patch) - Cleric Subclasses"
+    },
+    {
+      "UUID": "8203f373-9e8c-4797-b791-c474fa536fef",
+      "Name": "--------------------------->             Wizard"
+    },
+    {
+      "UUID": "029ca9b2-1797-494e-9ca9-9754eaade9bb",
+      "Name": "SB_BloodWizard"
+    },
+    {
+      "UUID": "ce1a6f1f-d98e-4158-8df1-c459aa20f8de",
+      "Name": "SB_BloodWizardLevelCurve"
+    },
+    {
+      "UUID": "9df16455-bf62-47ce-b6a6-fa4fa7d62a07",
+      "Name": "--------------------------->             Monk"
+    },
+    {
+      "UUID": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+      "Name": "AlternateMonk"
+    },
+    {
+      "UUID": "58cfcdb2-c1b3-440c-8742-078f2b0e7a32",
+      "Name": "AlternateMonk5ESpells Patch"
+    },
+    {
+      "UUID": "da704405-8b6e-45d5-b92d-3c8c3719a4ea",
+      "Name": "Valdacil's Spell Adjustments (Patch) - AltMonk"
+    },
+    {
+      "UUID": "510e0e45-14a4-4b2f-81a3-7d7912d4199e",
+      "Name": "AlternateMonkLevel20Patch"
+    },
+    {
+      "UUID": "84650f02-478e-42b9-9ffc-76c1515eb583",
+      "Name": "---------------------------|              Cosmetics              |---------------------------"
+    },
+    {
+      "UUID": "144130e9-5eaf-48c3-b28f-446a0c2481aa",
+      "Name": "Half-Tiefs"
+    },
+    {
+      "UUID": "72ea866c-ff3b-42f0-92d1-f7567adb8d71",
+      "Name": "LongHairs"
+    },
+    {
+      "UUID": "2b91a1a6-9c4e-46f7-878a-8b56c164b22d",
+      "Name": "---------------------------|        Compatibility Patches        |---------------------------"
+    },
+    {
+      "UUID": "d58a60aa-2314-4776-a4f9-8b2eb30e51ca",
+      "Name": "BetterDyeing"
+    },
+    {
+      "UUID": "cabe6d93-e26a-473a-9b04-8717015bd51f",
+      "Name": "UniversalArmourFixer"
+    },
+    {
+      "UUID": "f9f73d62-60f8-45c5-b6d0-48abd0c880d6",
+      "Name": "Half Tief Modded Races Tails Patch"
+    },
+    {
+      "UUID": "b2c7c572-faaa-43ae-8609-29d16fd83bb0",
+      "Name": "Patches for CC Races lsx"
+    },
+    {
+      "UUID": "67fbbd53-7c7d-4cfa-9409-6d737b4d92a9",
+      "Name": "CompatibilityFramework"
+    }
+  ]
+}
