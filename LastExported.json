@@ -5329,12 +5329,12 @@
       "Name": "DIQ Starting Equipment"
     },
     {
-      "UUID": "5bbffb35-97f5-4576-8d1d-af43fb123c4c",
-      "Name": "DIQ Dialogue Patches"
-    },
-    {
       "UUID": "4c628a1a-34d9-4362-8459-2c2bb3b8e5fb",
       "Name": "DIQ Misc Patches"
+    },
+    {
+      "UUID": "5bbffb35-97f5-4576-8d1d-af43fb123c4c",
+      "Name": "DIQ Dialogue Patches"
     },
     {
       "UUID": "816b4e7e-c884-4627-a8bf-17f7fcf55d99",
