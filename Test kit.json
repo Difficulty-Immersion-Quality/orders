@@ -13,28 +13,36 @@
       "Name": "CommunityLibrary"
     },
     {
+      "UUID": "f97b43be-7398-4ea5-8fe2-be7eb3d4b5ca",
+      "Name": "VolitionCabinet"
+    },
+    {
       "UUID": "5d1bd6cb-6361-45ef-b20c-d997acfba822",
       "Name": "AahzLib"
+    },
+    {
+      "UUID": "ad95bd1c-1a80-45fb-b73b-9eea1f8e58d0",
+      "Name": "Mazzle's EZ-Documentation"
     },
     {
       "UUID": "5b5ad5b6-ce37-4a63-8dea-a1fee4cee156",
       "Name": "EasyCheat"
     },
     {
+      "UUID": "84b2cdba-ad21-4d8c-97d6-c09b95a6d9b4",
+      "Name": "Scribe"
+    },
+    {
       "UUID": "af8f78f6-2cda-1958-e5a0-1f673f2c152b",
       "Name": "DebugBook"
     },
     {
-      "UUID": "0a4b83d3-d7cc-4fd9-a7d9-eef91aff1b78",
-      "Name": "DIQ Clothing Patches"
+      "UUID": "a17a3a3d-5c16-404a-910a-68ae9e47f247",
+      "Name": "Absolute's Laboratory"
     },
     {
       "UUID": "4c628a1a-34d9-4362-8459-2c2bb3b8e5fb",
       "Name": "DIQ Misc Patches"
-    },
-    {
-      "UUID": "5bbffb35-97f5-4576-8d1d-af43fb123c4c",
-      "Name": "DIQ Dialogue Patches"
     },
     {
       "UUID": "df90923d-d328-4d3c-80c5-cc75f036f6ad",
