@@ -545,10 +545,6 @@
       "Name": "Mass Unsummon"
     },
     {
-      "UUID": "505c630c-79fa-49b6-9f21-29a5f2322c2d",
-      "Name": "TutorialChestSummoning"
-    },
-    {
       "UUID": "ba4e395a-674a-4443-a7a5-0afad2f17326",
       "Name": "FullRestoreFix"
     },
@@ -751,6 +747,10 @@
     {
       "UUID": "16b5fbb6-72fe-4a08-814a-87a9fc0b14bc",
       "Name": "Configurable Party Limit"
+    },
+    {
+      "UUID": "bbf9c3ca-bbbb-40fd-9aa9-aa90b72f67aa",
+      "Name": "Better Photo Mode"
     },
     {
       "UUID": "23bdda0c-a671-498f-89f5-a69e8d3a4b52",
@@ -1713,6 +1713,14 @@
       "Name": "Light_Utility"
     },
     {
+      "UUID": "87d02b31-6ab1-4ee0-8cbf-6e9406707063",
+      "Name": "Chiz's 5e Spells Tweaks"
+    },
+    {
+      "UUID": "8b47e554-c3b7-4bed-99b7-eb77e2f72e6b",
+      "Name": "Wall Fixer"
+    },
+    {
       "UUID": "3bb34546-a0d3-42ae-990f-137538c9e2b3",
       "Name": "Arcane Recovery"
     },
@@ -1887,6 +1895,10 @@
     {
       "UUID": "8b829a0c-c327-4b1e-a87b-b5c5f5f5a9bc",
       "Name": "================|            Spells - Miscellaneous"
+    },
+    {
+      "UUID": "b048f9f4-5f5a-43f5-adb4-faa08537ec8d",
+      "Name": "UAFightingStyles"
     },
     {
       "UUID": "26b0112b-40f1-4b2b-b43a-bcc92b15d440",
@@ -2173,6 +2185,14 @@
       "Name": "Night Domain"
     },
     {
+      "UUID": "558275e7-d7f2-4cfe-821e-cba7933c0db9",
+      "Name": "InheritancePop"
+    },
+    {
+      "UUID": "34b48c74-71ff-4386-87bc-83f6e8cb654d",
+      "Name": "Mod Change Tracker"
+    },
+    {
       "UUID": "34030669-2a35-b0fd-ae62-b76b7a9662f0",
       "Name": "Eldritch Domain"
     },
@@ -2247,6 +2267,10 @@
     {
       "UUID": "2c279992-d68a-4d26-98e2-d48c7e1af0da",
       "Name": "================|            Druid - Other"
+    },
+    {
+      "UUID": "acfb4b6e-2316-4f60-a894-98808744e76b",
+      "Name": "Circle of the Land Spells Revised"
     },
     {
       "UUID": "c534d6d5-7c82-4154-bea8-d1c45f11b1bc",
@@ -4363,6 +4387,22 @@
     {
       "UUID": "e8c6faa2-6f45-42f6-9529-4188dcd70f14",
       "Name": "WrinkleMapeSmoothn"
+    },
+    {
+      "UUID": "1f41527c-52dc-481e-af7d-1b6993010aaf",
+      "Name": "Dragonborn Walk Fix"
+    },
+    {
+      "UUID": "447bbe27-31ab-4df4-a000-6fbecd4a8d18",
+      "Name": "Dragonborn Walk Fix Female"
+    },
+    {
+      "UUID": "6665f82b-0a99-bce2-b9c7-2e579c78202f",
+      "Name": "Half-Orcs Stand Tall"
+    },
+    {
+      "UUID": "6fd2f7be-ad58-78ac-ee3b-2ed62d50dccb",
+      "Name": "Half-Orcs Stand Tall Male"
     },
     {
       "UUID": "84a5394d-5f5d-4740-acb0-849a263cf7f0",
