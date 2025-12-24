@@ -233,6 +233,10 @@
       "Name": "AnimationUnlocker"
     },
     {
+      "UUID": "54ea15da-a9ae-453e-bb7c-ecf597cdb9be",
+      "Name": "Oops All Characters!"
+    },
+    {
       "UUID": "f7383036-7c4f-4b34-9b92-ef6c2c9afc41",
       "Name": "================|            Libraries - Spells"
     },
@@ -295,10 +299,6 @@
     {
       "UUID": "48f1a783-cea2-43b6-aa2c-fe5a255d2413",
       "Name": "Night Piercer SE"
-    },
-    {
-      "UUID": "0c3e5641-061c-49de-a53a-566132816e1d",
-      "Name": "MirrorBlade"
     },
     {
       "UUID": "591545d9-4091-743c-e1a5-1f1115dec21a",
@@ -441,10 +441,6 @@
       "Name": "Reaction Points on Hotbar"
     },
     {
-      "UUID": "fba10a7d-2dde-40be-9600-bfd14fba8fcd",
-      "Name": "5eIconFixes"
-    },
-    {
       "UUID": "596fa4ca-8423-4710-b91a-285ffdfc4381",
       "Name": "Better Disguise Self Icons - Gender Colored"
     },
@@ -569,6 +565,10 @@
       "Name": "ScrollUsageRevised"
     },
     {
+      "UUID": "f1fb2681-cfcd-41e9-9b61-1a11fe29c1de",
+      "Name": "Sandi's Waypoint Only Fast Travel - No UI"
+    },
+    {
       "UUID": "33762974-09ff-4a87-bd0c-d791994746d8",
       "Name": "================|            Script Extender - Utilities"
     },
@@ -599,10 +599,6 @@
     {
       "UUID": "84b2cdba-ad21-4d8c-97d6-c09b95a6d9b4",
       "Name": "Scribe"
-    },
-    {
-      "UUID": "32933063-8266-4fc8-8b90-14bc601eb964",
-      "Name": "CE_NPC_Scan"
     },
     {
       "UUID": "3fe1bccd-53b2-460e-ab69-c8f7a8da729c",
@@ -661,6 +657,10 @@
       "Name": "Summon Initiative Fixer"
     },
     {
+      "UUID": "26e7658b-ae40-46f2-b032-405e2fb09719",
+      "Name": "ProgressionPreview"
+    },
+    {
       "UUID": "a9697039-d583-4af3-8274-44debc58dd66",
       "Name": "================|            Script Extender - MCM Configurable"
     },
@@ -717,6 +717,14 @@
       "Name": "Configurable Pickpocketing"
     },
     {
+      "UUID": "4fa17abe-993c-4e7e-ab2a-e7370b166ac9",
+      "Name": "Character Preset Framework"
+    },
+    {
+      "UUID": "b221c733-55aa-432c-ae6d-37198b348e6a",
+      "Name": "DIQ Community CPF Presets"
+    },
+    {
       "UUID": "163a16e7-7e92-475d-a979-24de44fdd9d1",
       "Name": "Initiative Variants - MCM - A"
     },
@@ -749,8 +757,16 @@
       "Name": "Configurable Party Limit"
     },
     {
+      "UUID": "e49ba956-192e-451f-8dde-9c1299ec8881",
+      "Name": "Auto Send Read Books To Camp"
+    },
+    {
       "UUID": "bbf9c3ca-bbbb-40fd-9aa9-aa90b72f67aa",
       "Name": "Better Photo Mode"
+    },
+    {
+      "UUID": "f9e0b029-06e0-4ddd-9243-471785486532",
+      "Name": "Labeled Container Creator"
     },
     {
       "UUID": "23bdda0c-a671-498f-89f5-a69e8d3a4b52",
@@ -767,10 +783,6 @@
     {
       "UUID": "0133ef9e-932b-4c78-ae1c-2c595acec213",
       "Name": "More Spell Choices"
-    },
-    {
-      "UUID": "de58d193-9a32-7db1-de7c-69e4e55b4002",
-      "Name": "CharacteryCharacterEditoryEditor"
     },
     {
       "UUID": "fc5b82ef-64b9-41a1-8714-0071dd4f1add",
@@ -895,14 +907,6 @@
     {
       "UUID": "af8f78f6-2cda-1958-e5a0-1f673f2c152b",
       "Name": "DebugBook"
-    },
-    {
-      "UUID": "0c090ccf-c9bb-422e-bbfd-6242174992a2",
-      "Name": "AutolootAura"
-    },
-    {
-      "UUID": "a45d2f53-a5d6-4df5-9573-f47936aff52c",
-      "Name": "AutolootReducedAOE"
     },
     {
       "UUID": "93700433-ed76-4300-9137-2ee4d6dcc4bf",
@@ -1053,6 +1057,10 @@
       "Name": "PL_Gortash_Cane"
     },
     {
+      "UUID": "d7754c29-10b6-41fc-0890-5ce24b7d61c2",
+      "Name": "MaradiImmersiveFirearms"
+    },
+    {
       "UUID": "6ad9dfa0-dc76-4aa4-8444-b3b99b1f7fd0",
       "Name": "================|            Equipment - Armour"
     },
@@ -1069,8 +1077,8 @@
       "Name": "ToughVest"
     },
     {
-      "UUID": "c81bf695-9f6d-357f-d85a-5c829550d74a",
-      "Name": "FrostEquipment"
+      "UUID": "7dc7d651-aaa7-4374-9686-59267585b5d0",
+      "Name": "FrostEquipment_c81bf695-9f6d-357f-d85a-5c829550d74a"
     },
     {
       "UUID": "5f7b3b5e-2e96-44fe-d4b5-da65f115d894",
@@ -1087,6 +1095,10 @@
     {
       "UUID": "9ad16333-4a40-63b5-dc94-b01a01ecdc83",
       "Name": "The Berserker Set - On the Edge of Death"
+    },
+    {
+      "UUID": "23ba8f6f-44a9-92a0-60e5-4fb3abe0230d",
+      "Name": "Garb of the Ghustil"
     },
     {
       "UUID": "a4e19f33-37e8-418d-a9fa-272c590adc53",
@@ -1545,6 +1557,10 @@
       "Name": "================|            Consumable            |================"
     },
     {
+      "UUID": "ae71feb1-948d-44bc-a824-e47b879d700c",
+      "Name": "[ROX] Distinctive Arrows of Slaying"
+    },
+    {
       "UUID": "b993354c-4a77-2cdb-0301-c62d8a23d126",
       "Name": "Barrel Tweaks"
     },
@@ -1933,6 +1949,10 @@
       "Name": "UAWarCasterLenient"
     },
     {
+      "UUID": "0c3e5641-061c-49de-a53a-566132816e1d",
+      "Name": "MirrorBlade"
+    },
+    {
       "UUID": "c2f1a230-8c0c-481b-9ab2-987e27d7db05",
       "Name": "FeatsOverhaul"
     },
@@ -1959,6 +1979,10 @@
     {
       "UUID": "10648c86-4837-498e-9a82-bc77f16e518c",
       "Name": "Arcanist Feat SE"
+    },
+    {
+      "UUID": "3d311d0d-a184-420e-b4d4-849b23d4a2d5",
+      "Name": "Valkrana's Impart Undeath Feat"
     },
     {
       "UUID": "5c810a96-7748-4ce5-9a18-f8168a80f407",
@@ -2007,10 +2031,6 @@
     {
       "UUID": "295064a0-a92c-45c1-a856-7e15555e22db",
       "Name": "JWL Histories and Occupations Plus for Patch 7"
-    },
-    {
-      "UUID": "c9f6d5c4-e6ca-420d-931a-3efd07109b3a",
-      "Name": "Dark Urge Rebirth ST"
     },
     {
       "UUID": "54a8b3d5-5821-4350-a772-256dfd35d3de",
@@ -2406,7 +2426,7 @@
     },
     {
       "UUID": "689f22b4-38e9-40a7-aa81-3d3e7ed8d38c",
-      "Name": "Oath of Glory_Lv20_Expansion"
+      "Name": "Oath of Glory_Lv20 Expansion"
     },
     {
       "UUID": "eca39b45-a3b1-45d8-8b2e-34f0e2a3be27",
@@ -2443,6 +2463,10 @@
     {
       "UUID": "49b32147-5aed-c262-1fa6-ec51939978c0",
       "Name": "5e Ranger Subclasses Combined"
+    },
+    {
+      "UUID": "a0bedb42-5292-4b9a-98d4-39267eab7be7",
+      "Name": "Stargazer Ranger"
     },
     {
       "UUID": "09e190c8-d449-b653-69fc-252bcad61e45",
@@ -2507,6 +2531,10 @@
     {
       "UUID": "cdabc2fe-4be6-4837-8584-d5ea228cfb10",
       "Name": "Justicar"
+    },
+    {
+      "UUID": "d64489a3-126e-4d6c-84bb-d5a7498cde94",
+      "Name": "Justicar - 5e Spells Compatibility"
     },
     {
       "UUID": "6f07607f-f781-499f-9801-b8998e638e4f",
@@ -2585,6 +2613,10 @@
       "Name": "================|            Warlock - Subclasses"
     },
     {
+      "UUID": "dd7ce920-2fec-4ae7-b9f7-c37ae5942286",
+      "Name": "Archmage Patron"
+    },
+    {
       "UUID": "787d4f4f-ea9e-41fa-8030-8a46617e8e6c",
       "Name": "The Undying Light"
     },
@@ -2603,6 +2635,10 @@
     {
       "UUID": "69b724c2-1e84-44a4-961a-c225c7e319de",
       "Name": "The First Vampire"
+    },
+    {
+      "UUID": "34eb0556-e0b9-4c74-8181-d1f71500b335",
+      "Name": "The Necrobroker Patron - Warlock Subclass"
     },
     {
       "UUID": "7c57366c-b006-4c30-bf68-5aee0da0af48",
@@ -2663,6 +2699,10 @@
     {
       "UUID": "d88fc971-5310-4982-8c03-5a96cc009b70",
       "Name": "Hierophant"
+    },
+    {
+      "UUID": "c884260e-1fb0-4cb5-b53b-76b191a05684",
+      "Name": "Hierophant - 5e Spells Compatibility"
     },
     {
       "UUID": "7e2274b7-c439-4f43-9737-0bf482b9fa7e",
@@ -3925,10 +3965,6 @@
       "Name": "PL_Fantastical_Hairstyles"
     },
     {
-      "UUID": "8dd3cb34-2274-4a28-95b9-726f1d2d18bb",
-      "Name": "RyanR Hair conversion "
-    },
-    {
       "UUID": "43158d88-467c-4eb4-b444-4d59d07ed13b",
       "Name": "Arcane Jinx's Hairstyle"
     },
@@ -4009,14 +4045,6 @@
       "Name": "PK Hair Collection"
     },
     {
-      "UUID": "d4b3a188-3892-499b-9648-a8f7ca4710da",
-      "Name": "rhaenyra_hairstyle"
-    },
-    {
-      "UUID": "d1eb04fb-18e1-422b-b440-02ce08bad02e",
-      "Name": "nyra_hairstyle"
-    },
-    {
       "UUID": "61cf2442-450b-4b5d-a18f-3a9d7fb727f9",
       "Name": "Ghouls' Simple Braid and Pony Tail Hairs"
     },
@@ -4093,10 +4121,6 @@
       "Name": "Alt Lae'zel Hair 4 Tav"
     },
     {
-      "UUID": "b685eac3-39cb-4142-8ad0-9eb967f0b866",
-      "Name": "Mouch's Hairs Vol. I"
-    },
-    {
       "UUID": "1692d421-5863-4829-82a7-7986044bf673",
       "Name": "[M30] Su-Metal's Hair"
     },
@@ -4159,22 +4183,6 @@
     {
       "UUID": "73cddf26-053f-47e1-9426-4ea15c49de43",
       "Name": "more Dreads and curly hairpack 03"
-    },
-    {
-      "UUID": "9f421ddc-7fd7-4860-8252-7ca071802429",
-      "Name": "Neon's Assorted Hairs"
-    },
-    {
-      "UUID": "90417f85-6d95-413f-9679-61acebeaf143",
-      "Name": "Em's Dreads and Braids Hair"
-    },
-    {
-      "UUID": "875aa573-7b01-4dcc-822f-349968e57b4b",
-      "Name": "Em_Custom_Hair_Pack_One"
-    },
-    {
-      "UUID": "d7678546-2393-433d-a3b4-256bfbbfdc78",
-      "Name": "Em_Custom_Hair_Pack_Two"
     },
     {
       "UUID": "e550e525-99ad-4184-944d-d804f19e3743",
@@ -4717,6 +4725,10 @@
       "Name": "VossEdits"
     },
     {
+      "UUID": "3f8f4aa8-4793-2ab4-10d5-747c9070f315",
+      "Name": "ViconiaDeVirRedone"
+    },
+    {
       "UUID": "3d56aaa3-91d6-9cbe-fd52-3e06092927d8",
       "Name": "Such a Tease - Ornamented (Raphael redressing mod)"
     },
@@ -4726,7 +4738,7 @@
     },
     {
       "UUID": "fda50f1d-3ed0-f384-34bc-6e5f56bb6640",
-      "Name": "Quill to Pearl - NPC Dragonborn replacer"
+      "Name": "Quil to Pearl - NPC Dragonborn replacer"
     },
     {
       "UUID": "da262547-42dc-4a15-9ead-a24f4643aa04",
@@ -4739,10 +4751,6 @@
     {
       "UUID": "eda2f910-f3aa-713b-4241-077a112c67e2",
       "Name": "Gortash's New Look"
-    },
-    {
-      "UUID": "69a3318d-e898-96df-7bd3-b80d505250db",
-      "Name": "Drow cleric - Viconia Consistency"
     },
     {
       "UUID": "d6c63a34-33db-4e1c-a85a-ae547e53494c",
@@ -5065,6 +5073,10 @@
       "Name": "================|            Dialogue Edits            |================"
     },
     {
+      "UUID": "96adc25a-d44c-4f0e-8fb8-c809de031440",
+      "Name": "Companion Gale Can Consume Shadow Weave"
+    },
+    {
       "UUID": "0f3fcf8c-2e4f-411e-84c3-b89a64905293",
       "Name": "Various Dialogue Fixes by Kelo"
     },
@@ -5229,6 +5241,10 @@
       "Name": "Wyllzel Flirty Banter Restored"
     },
     {
+      "UUID": "fd2dbc21-08cf-473b-8d42-3beacea86b72",
+      "Name": "More Options for Barcus Windmill Dialogue"
+    },
+    {
       "UUID": "ad75220d-4fdf-61d1-38e1-e934c815eefb",
       "Name": "EmperorFollowerDialogueEx"
     },
@@ -5297,6 +5313,10 @@
       "Name": "Carry Weight Increased 9000"
     },
     {
+      "UUID": "d427ecdb-8c8a-afd6-0bbe-11c74bb851b9",
+      "Name": "All-In-One Collector Total (Auto Loot)"
+    },
+    {
       "UUID": "16036224-03d5-421c-b601-4035140559ff",
       "Name": "================|            Overhauls - Systems"
     },
@@ -5327,22 +5347,6 @@
     {
       "UUID": "dceb3541-dfa1-4495-a3fe-8e955afa5556",
       "Name": "================|            Overhauls - Combat & Difficulty"
-    },
-    {
-      "UUID": "54e6cb0f-ea49-49c2-8991-4f41eac75b66",
-      "Name": "Harder Bosses main"
-    },
-    {
-      "UUID": "fd2d07b6-6a9c-4d41-b5f3-eef28169bcd5",
-      "Name": "Harder Bosses addon Advantage"
-    },
-    {
-      "UUID": "4e13c4da-db6a-4ace-984e-454a1c5976e9",
-      "Name": "Harder Bosses addon Immune"
-    },
-    {
-      "UUID": "921d962e-4523-4825-96d0-bb150e82d758",
-      "Name": "Harder Bosses addon Legendary Resists"
     },
     {
       "UUID": "a17a3a3d-5c16-404a-910a-68ae9e47f247",
@@ -5405,8 +5409,8 @@
       "Name": "Shadowcasting"
     },
     {
-      "UUID": "37dab3f2-15ac-ba00-8c1f-3967edffc33c",
-      "Name": "Shadowed Torches"
+      "UUID": "9cd84989-a41c-0359-efd4-dc414e1758dd",
+      "Name": "Shadowed Torches -- Performance"
     },
     {
       "UUID": "e5de93d9-a756-40d0-8565-235bae371800",
