@@ -741,6 +741,10 @@
       "Name": "Character Preset Framework"
     },
     {
+      "UUID": "ef97b68c-d884-4239-bafe-74293e24aea4",
+      "Name": "Custom Disguise Self Appearance"
+    },
+    {
       "UUID": "b221c733-55aa-432c-ae6d-37198b348e6a",
       "Name": "DIQ Community CPF Presets"
     },
@@ -1163,10 +1167,6 @@
     {
       "UUID": "5f7b3b5e-2e96-44fe-d4b5-da65f115d894",
       "Name": "BetterBarbarianBleedGear"
-    },
-    {
-      "UUID": "057cb283-8dfa-4f3f-b8d1-a2f854c18dff",
-      "Name": "CloaksOfFaerun"
     },
     {
       "UUID": "13488a95-f266-4068-64c4-9b2fce35143f",
@@ -2003,14 +2003,6 @@
     {
       "UUID": "661322f4-3ae7-43e9-b2a8-7f481ada76b9",
       "Name": "================|            Feats - Custom"
-    },
-    {
-      "UUID": "ca3df55b-c576-41a1-87c4-3cf5f01922e4",
-      "Name": "Essential_Feats"
-    },
-    {
-      "UUID": "91c2d035-4673-426b-a630-46a4f27493d6",
-      "Name": "Stackable ASI Feats - Essential Feats"
     },
     {
       "UUID": "007e1360-fba6-4d6d-8f9c-4793328c53aa",
