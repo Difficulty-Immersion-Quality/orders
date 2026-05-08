@@ -337,6 +337,10 @@
       "Name": "Expansion"
     },
     {
+      "UUID": "d4b30c2a-bc54-4035-a2eb-0e59b5fa68c0",
+      "Name": "5eSpells and Expansion Level Patch"
+    },
+    {
       "UUID": "9c7cf605-f83c-4b7f-a128-d7a4b3be33c0",
       "Name": "================|            Foundational Overhauls - The Bone Zone"
     },
@@ -685,6 +689,10 @@
       "Name": "Hirelings Unlocked"
     },
     {
+      "UUID": "972dab31-891d-4ca6-ab84-bcdbf21b3634",
+      "Name": "Speak With Dead Always Highlights Corpses"
+    },
+    {
       "UUID": "9ed0f0a3-191a-43ac-8af0-49fff6cafe30",
       "Name": "PassiveRollVersusSkillFix"
     },
@@ -857,6 +865,10 @@
       "Name": "More Spell Choices"
     },
     {
+      "UUID": "b1d32a88-1bfd-4714-b1d6-6bd55055d6bd",
+      "Name": "Unsoiled"
+    },
+    {
       "UUID": "60b23938-fd04-44c9-ac0c-9d68bf030901",
       "Name": "Shadowheart's Nightly Hairdo"
     },
@@ -1010,7 +1022,7 @@
     },
     {
       "UUID": "c2280d10-1be4-420c-9cf6-285d1e5d27a4",
-      "Name": "Heavy Weapons RAW 5R"
+      "Name": "Heavy Weapons RAW 5.5e"
     },
     {
       "UUID": "f8e0f055-f3cc-43f6-8aac-b928e86c5109",
@@ -1050,7 +1062,7 @@
     },
     {
       "UUID": "a0fc73a0-26ae-4e73-962c-ab850cb9625e",
-      "Name": "JWL Discordant Instruments for Patch 7"
+      "Name": "JWL Discordant Instruments for Patch 7+"
     },
     {
       "UUID": "f32b58b4-e101-4263-a82b-5f0fe1926064",
@@ -1769,10 +1781,6 @@
       "Name": "GreenFlameBlade"
     },
     {
-      "UUID": "45340395-9280-44ac-8d6c-a99f28a3bb5b",
-      "Name": "Speak with Dead Rework - Damaged Corpse Version"
-    },
-    {
       "UUID": "d3e9e1a9-21c9-478b-8e04-9026366add63",
       "Name": "Speak with Dead Tweaks"
     },
@@ -2179,6 +2187,10 @@
     {
       "UUID": "bc9b7bf2-b126-1e49-cad5-461ddd8f9458",
       "Name": "Leiser's The Accursed - Curse of Vampirism"
+    },
+    {
+      "UUID": "e7adb940-58a2-3d57-a98a-87038eb76ffd",
+      "Name": "The Pugilist"
     },
     {
       "UUID": "98d07a73-c17c-4213-9552-a44dd3a0b173",
@@ -4109,8 +4121,8 @@
       "Name": "[Aza] NPC Redesign: Vampire Spawns (WIP)"
     },
     {
-      "UUID": "83fdc601-d9e0-ec4f-0549-3f45726195d0",
-      "Name": "[Aza] NPC Redesign (Crypt Robbers)"
+      "UUID": "e9a74ff2-bc0f-6abe-4097-23fc6a242132",
+      "Name": "[Aza] NPC Redesign: The Emerald Grove (Wither's Crypt Bandits)"
     },
     {
       "UUID": "a74d34b5-899a-0a12-8afc-5ce33e3cfaaf",
@@ -4301,14 +4313,6 @@
       "Name": "Florrick - Dirt B Gone"
     },
     {
-      "UUID": "aa9eba22-bbcd-99cf-e5a5-dfcfd656222a",
-      "Name": "Quartermaster Talli - Dirt B Gone"
-    },
-    {
-      "UUID": "4f9df7c4-4bd7-bd3b-fa27-dbb8fa7eab73",
-      "Name": "Nine-Fingers - Dirt B Gone"
-    },
-    {
       "UUID": "2ba50661-8286-c5ba-776f-1544289685c9",
       "Name": "The Hallowleafs Restyled V2"
     },
@@ -4367,6 +4371,10 @@
     {
       "UUID": "9ffab7c8-8f68-496d-a5be-868a2584d7cc",
       "Name": "Goon's Doll House - Vanilla - Lakrissa"
+    },
+    {
+      "UUID": "c478cda6-cca6-47f8-a91c-0bbee0510b66",
+      "Name": "Goon's Doll House - Vanilla - Mattis"
     },
     {
       "UUID": "2e9a7ac7-ea3e-4175-8bd3-4098201b7fe0",
@@ -4629,10 +4637,6 @@
       "Name": "Wood Dice - Resin Collection"
     },
     {
-      "UUID": "dc4ba6fe-c393-6f37-1d98-0b8af5be0033",
-      "Name": "ChristmasDiceSet"
-    },
-    {
       "UUID": "3cceef9f-768b-4e9d-8501-2fee08af8fa2",
       "Name": "================|            Dialogue Edits            |================"
     },
@@ -4783,6 +4787,10 @@
     {
       "UUID": "868bf4c5-e0ee-44de-875e-315462e6bf42",
       "Name": "HT_Early Access Scenes Restored"
+    },
+    {
+      "UUID": "9c09be69-50e8-cfcf-cea9-1576947a6a2d",
+      "Name": "HT_No Wound Flares During Party Banter"
     },
     {
       "UUID": "a0b1e4c2-8419-14fc-78c0-a28ed807cc84",
@@ -4949,6 +4957,10 @@
       "Name": "================|            Overhauls - Quality of Life"
     },
     {
+      "UUID": "ec02a98c-4cd7-5c64-4b35-96b5f0d735e4",
+      "Name": "Auto-KO | Story NPCs"
+    },
+    {
       "UUID": "95af5329-5b26-4647-bc7d-87b743ad2eb1",
       "Name": "Bonk Enhanced"
     },
@@ -4959,6 +4971,10 @@
     {
       "UUID": "48cc6be3-f1c4-4acb-9172-189f13b1d753",
       "Name": "JWL Drop All The Loot"
+    },
+    {
+      "UUID": "a634d210-9926-494d-95bd-f263a092790e",
+      "Name": "MusicPerformWorkaround"
     },
     {
       "UUID": "92af0ebd-a04c-4e9c-8306-b947aac4c128",
@@ -5023,6 +5039,10 @@
     {
       "UUID": "bc112f05-f5d1-4b59-9a9f-fd8867616d03",
       "Name": "OrinsTrueBossfight"
+    },
+    {
+      "UUID": "f7b072c0-9feb-f229-d700-c4a9ce013d78",
+      "Name": "Roah Moonglow Escapes"
     },
     {
       "UUID": "9010c099-c1e7-4ea8-8990-a883d6814975",
